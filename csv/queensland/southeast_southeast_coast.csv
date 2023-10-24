@@ -1,0 +1,83 @@
+category,group,frequency,license,type,tone,alpha tag,description,mode,tag
+Stadiums Queensland,Brisbane Cricket Ground (The Gabba) Woolloongabba,484.800,,BM,123.0 PL,1,Emergency,FMN,Business
+Stadiums Queensland,Brisbane Cricket Ground (The Gabba) Woolloongabba,474.225,VMQ263,RM,173.8 PL,2,Front of House,FMN,Business
+Stadiums Queensland,Brisbane Cricket Ground (The Gabba) Woolloongabba,471.475,,BM,118.8 PL,3,Management,FMN,Business
+Stadiums Queensland,Brisbane Cricket Ground (The Gabba) Woolloongabba,473.450,,RM,88.5 PL,4,Qld Cricket Assoc,FMN,Business
+Stadiums Queensland,Brisbane Cricket Ground (The Gabba) Woolloongabba,471.625,,BM,146.2 PL,5,Grounds,FMN,Business
+Stadiums Queensland,Brisbane Cricket Ground (The Gabba) Woolloongabba,471.975,,BM,179.9 PL,6,Members,FMN,Business
+Stadiums Queensland,Brisbane Cricket Ground (The Gabba) Woolloongabba,502.125,,BM,127.3 PL,7,Security,FM,Business
+Stadiums Queensland,Brisbane Cricket Ground (The Gabba) Woolloongabba,471.900,,BM,162.2 PL,8,Cleaning,FMN,Business
+Stadiums Queensland,Brisbane Cricket Ground (The Gabba) Woolloongabba,495.050,,RM,186.2 PL,9,Ticketmaster,FM,Security
+Entertainment & Venues,Australia Zoo,493.2625,,RM,CC 3TG *SL 1,Australia Zoo 1,Zoo,DMR,Business
+Entertainment & Venues,Australia Zoo,493.2625,,RM,CC 3TG *SL 2,Australia Zoo 2,Zoo,DMR,Business
+Transport & Utilities,Cranes,450.1125,,BM,69.3 PL,Kelly Grn Cranes,Kelly Green Cranes,FMN,Business
+Transport & Utilities,Cranes,471.525,,BM,103.5 PL,Falcon Cranes,Falcon Cranes,FMN,Business
+Queensland Corrective Services,Sir David Longland,464.850,VLG442,RM,100 NAC,Internal,Internal,P25,Corrections
+Shopping Centres,AMP Capital,492.850,VZZ781,RM,210.7 PL,Mt Ommaney,Mt Ommaney Shopping Centre,FMN,Business
+Courier & Delivery Services,All Purpose Transport,507.450,VN4UA,RM,,UID,Darlinton Range,FM,Business
+Courier & Delivery Services,All Purpose Transport,507.675,VN4UA,RM,203.5 PL,UID,Mt Coot-tha,FM,Business
+Courier & Delivery Services,All Purpose Transport,507.850,VN4UA,RM,131.8 PL,UID,Mt Coot-tha,FM,Business
+Courier & Delivery Services,All Purpose Transport,508.175,VN4UA,RM,192.8 PL,UID,Mt Coot-tha,FM,Business
+University,Griffith Uni,487.300,VH4QU,RM,131.8 PL,Nathan,Nathan Campus - Security,FM,Security
+University,Griffith Uni,491.025,VND224,RM,127.3 PL,Mt Gravatt,Mt Gravatt Campus - Security,FM,Security
+University,Griffith Uni,505.225,VH4QU,BM,179.9 PL,Nathan,Nathan Campus,FMN,Business
+Brisbane Port,Port of Brisbane Corp,163.275,VL4HP,BM,118.8 PL,Mt Cotton,Mt Cotton,FMN,Business
+Hospitals And Healthcare,Mater - South Brisbane,472.8625,VLB563,RM,192.8 PL,CARPS,Mater Hospital Orderleys/House Keeping,FM,Hospital
+Hospitals And Healthcare,Mater - South Brisbane,474.700,VMJ245,RM,186.2 PL,SECURITY,Mater Hospital Security,FM,Security
+Interstate Emergency Services,Fire and Rescue NSW,419.150,VL2BF,BM,151.4 PL,Terranora,Terranora,FMN,Fire Dispatch
+Security Services,Linfox Armaguard,493.675,VH4ASU,RM,,Armaguard,Camp Mountain,FM,Security
+Taxi Services,Yellow Cabls - Enquiries,462.650,VH4BCB,RM,233.6 PL,Beenleigh,Beenleigh/Beaudesert Area,FMN,Transportation
+Taxi Services,Yellow Cabls - Enquiries,463.6125,VH4BC,RM,233.6 PL,Caboolture,Caboolture Area,FMN,Transportation
+Television,Channel 7,488.200,VH4IU,RM,103.5 PL,Mt Coot-tha,Mt Coot-tha,FM,Media
+Television,Channel 7,488.525,VH4IU,RM,103.5 PL,Mt Coot-tha,Mt Coot-tha,FMN,Media
+Television,Channel 7,489.425,VH4IU,RM,103.5 PL,Mt Coot-tha,Mt Coot-tha,FMN,Media
+Archerfield Airport,Air Services Australia,0.419,,M,,ATIS,ATIS,AM,Aircraft
+Archerfield Airport,Air Services Australia,118.100,,M,CSQ,CTAF,CTAF,AM,Aircraft
+Archerfield Airport,Air Services Australia,118.800,,M,CSQ,Tower,Tower,AM,Aircraft
+Archerfield Airport,Air Services Australia,119.900,,M,CSQ,Ground,Ground,AM,Aircraft
+Archerfield Airport,Air Services Australia,120.900,,M,CSQ,ATIS,ATIS,AM,Aircraft
+Archerfield Airport,Air Services Australia,123.600,,M,CSQ,Tower,Tower,AM,Aircraft
+Archerfield Airport,Air Services Australia,125.700,,M,CSQ,Radar - Outs,Radar - Outside Tower Hours,AM,Aircraft
+Brisbane International Airport,Air Services Australia,6.676,,,,VOLMET,Australia VOLMET. 24hr Aviation Weather including YBBN. +00-05 and +30-35,AM,Aircraft
+Brisbane International Airport,Air Services Australia,11.387,,,,VOLMET,Australia VOLMET. 24hr Aviation Weather including YBBN. +00-05 and +30-35,AM,Aircraft
+Brisbane International Airport,Air Services Australia,109.500,AXG763,,,LOCALISER,01/19 Localiser North,AM,Aircraft
+Brisbane International Airport,Air Services Australia,110.100,AXG762,,,LOCALISER,01/19 Localiser South,FM,Aircraft
+Brisbane International Airport,Air Services Australia,113.200,,,,ATIS,ATIS,AM,Aircraft
+Brisbane International Airport,Air Services Australia,118.600,,,CSQ,DELIVERY,Delivery,AM,Aircraft
+Brisbane International Airport,Air Services Australia,120.500,,,CSQ,TOWER,Tower,AM,Aircraft
+Brisbane International Airport,Air Services Australia,121.700,,,CSQ,GROUND,Ground,AM,Aircraft
+Brisbane International Airport,Air Services Australia,123.500,,,CSQ,GC APPROACH,Approach - Gold Coast,AM,Aircraft
+Brisbane International Airport,Air Services Australia,124.700,,,CSQ,APPROACH,Approach,AM,Aircraft
+Brisbane International Airport,Air Services Australia,125.500,,,CSQ,ATIS,ATIS,AM,Aircraft
+Brisbane International Airport,Air Services Australia,125.600,,,CSQ,SW APPROACH,Approach - South West,AM,Aircraft
+Brisbane International Airport,Air Services Australia,125.700,,,CSQ,RADAR,Radar,AM,Aircraft
+Brisbane International Airport,Air Services Australia,128.300,,,CSQ,DEPARTURES,Departures,AM,Aircraft
+Brisbane International Airport,Air Services Australia,130.700,vlv808,,CSQ,FLIGHT INSPE,"Flight Inspection Service Building, Brisbane Airport",AM,Aircraft
+Brisbane International Airport,Air Services Australia,130.800,VLV808,,CSQ,FLIGHT INSPE,"Flight Inspection Service Building, Brisbane Airport",AM,Aircraft
+Brisbane International Airport,Air Services Australia,131.000,,,CSQ,FIRE,Rescue and Firefighter Services,AM,Aircraft
+Brisbane International Airport,Air Services Australia,133.750,VLV808,,CSQ,FLIGHT INSPE,"Flight Inspection Service Building, Brisbane Airport",AM,Aircraft
+Brisbane International Airport,Air Services Australia,332.600,VKQ504,,,GLIDE PATH,Glide Path 01 off 01/19 Runway BRISBANE AIRPORT,AM,Aircraft
+Brisbane International Airport,Air Services Australia,334.400,AXG761,,,GLIDE PATH,Glide Path 19 off 01/19 Runway BRISBANE AIRPORT,AM,Aircraft
+Brisbane International Airport,Air Services Australia,335.300,VLV808,,,FLIGHT INSPE,"Flight Inspection Service Building, Brisbane Airport",AM,Aircraft
+Gold Coast Airport,Aero-Care Pty Limited,466.200,,RM,,Aero-Care,"Terminal 1, Gold Coast Airport",FM,Business
+Gold Coast Airport,Aero-Care Pty Limited,474.900,VMJ608,BM,,Aero-Care,"Terminal 2, Gold Coast Airport",FM,Business
+Gold Coast Airport,Aero-Care Pty Limited,509.6875,VLW421,BM,,Aero-Care,Virgin Terminal,FM,Business
+Maroochydore Airport,Air Services Australia,114.200,,M,,ATIS,Automatic Terminal Information Service,AM,Aircraft
+Maroochydore Airport,Air Services Australia,119.800,,M,CSQ,AWIB TWR HRS,AWIB - Tower Hours Only,AM,Aircraft
+Maroochydore Airport,Air Services Australia,121.100,,M,CSQ,GROUND,Ground,AM,Aircraft
+Maroochydore Airport,Air Services Australia,124.400,,M,CSQ,TOWER,Tower,AM,Aircraft
+Maroochydore Airport,Air Services Australia,129.000,,M,CSQ,FIA,FIA - Brisbane Centre - Ground Outside TWR HRS,AM,Aircraft
+Maroochydore Airport,Air Services Australia,135.200,,BM,CSQ,Brisbane CTR,Brisbane Centre,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,0.359,,,,AMB NDB,Non-Directional Beacon,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,118.300,,,CSQ,AMB TWR,Tower,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,121.200,,,CSQ,BNE CTR,Brisbane Centre - Outside AMB Hours,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,121.925,,,CSQ,AMB SMCV,Ground,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,126.200,,,CSQ,AMB APP,Approach,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,129.350,,,CSQ,SMC,Ground,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,134.300,,,CSQ,BNE CTR,Brisbane Centre - if no response to Brisbane Centre,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,134.600,,,CSQ,AMB ACD,Airways Clearance Delivery,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,234.550,,,,AMB TFC,Traffic,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,243.000,,,,GUARD,Military Aeronautical Distress,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,264.400,,,,AMB TWR,Tower,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,316.200,,,,AMB ATIS,ATIS,AM,Aircraft
+RAAF - Amberley,Air Traffic Control,335.800,,,,AMB APP,Approach,AM,Aircraft

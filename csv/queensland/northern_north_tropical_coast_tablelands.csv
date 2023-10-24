@@ -1,0 +1,41 @@
+category,group,frequency,license,type,tone,alpha tag,description,mode,tag
+Federal Agencies,Australian Federal Police - AFP,488.375,VL4AFP,RM,141 NAC,Cairns,Area Dispatch,P25,Federal
+Federal Agencies,Australian Federal Police - AFP,489.550,VL4AFP,RM,141 NAC,Cairns,Airport Dispatch,P25,Fire Dispatch
+General Frequencies,Cairns Airband,118.400,,BM,CSQ,APPROACH-DEP,APPROACH-DEPARTURES,AM,Aircraft
+General Frequencies,Cairns Airband,119.200,,BM,CSQ,CAIRNS SKYDI,CAIRNS SKYDIVE,AM,Aircraft
+General Frequencies,Cairns Airband,119.750,,BM,CSQ,AEIS WEATHER,AEIS WEATHER,AM,Aircraft
+General Frequencies,Cairns Airband,120.550,,BM,CSQ,CAIRNS AREA,CAIRNS AREA,AM,Aircraft
+General Frequencies,Cairns Airband,121.200,,BM,CSQ,BRISBANE CON,BRISBANE CONTROL,AM,Aircraft
+General Frequencies,Cairns Airband,121.500,,BM,CSQ,EPERB,EPERB,AM,Aircraft
+General Frequencies,Cairns Airband,121.700,,BM,CSQ,GROUND,GROUND,AM,Aircraft
+General Frequencies,Cairns Airband,123.400,,BM,CSQ,SHELL FUEL,SHELL FUEL,AM,Aircraft
+General Frequencies,Cairns Airband,123.450,,BM,CSQ,NUMBERS,NUMBERS,AM,Aircraft
+General Frequencies,Cairns Airband,123.800,,BM,CSQ,BRISBANE CON,BRISBANE CONTROL,AM,Aircraft
+General Frequencies,Cairns Airband,124.600,,BM,CSQ,CAIRNS AREA,CAIRNS AREA,AM,Aircraft
+General Frequencies,Cairns Airband,124.900,,BM,CSQ,TOWER,TOWER,AM,Aircraft
+General Frequencies,Cairns Airband,126.100,,BM,CSQ,APPROACH-DEP,APPROACH-DEPARTURES,AM,Aircraft
+General Frequencies,Cairns Airband,126.400,,BM,CSQ,AIR BP FUEL,AIR BP FUEL,AM,Aircraft
+General Frequencies,Cairns Airband,126.700,,BM,CSQ,INNISFAIL SK,INNISFAIL SKYDIVE,AM,Aircraft
+General Frequencies,Cairns Airband,127.000,,BM,CSQ,HELICOPTER R,HELICOPTER REEF TRIPS,AM,Aircraft
+General Frequencies,Cairns Airband,127.600,,BM,CSQ,AUSTRALIA WI,AUSTRALIA WIDE,AM,Aircraft
+General Frequencies,Cairns Airband,128.750,,BM,CSQ,CLEARANCE DE,CLEARANCE DELIVERY,AM,Aircraft
+General Frequencies,Cairns Airband,128.900,,BM,CSQ,SKYTRANS,SKYTRANS,AM,Aircraft
+General Frequencies,Cairns Airband,129.250,,BM,CSQ,COBHAM,COBHAM,AM,Aircraft
+General Frequencies,Cairns Airband,129.325,,BM,CSQ,HINTERLAND,HINTERLAND,AM,Aircraft
+General Frequencies,Cairns Airband,129.700,,BM,CSQ,AIR NIUGINI,AIR NIUGINI,AM,Aircraft
+General Frequencies,Cairns Airband,129.900,,BM,CSQ,CAIRNS CO-OR,CAIRNS CO-ORD,AM,Aircraft
+General Frequencies,Cairns Airband,130.475,,BM,CSQ,JETSTAR,JETSTAR,AM,Aircraft
+General Frequencies,Cairns Airband,130.900,,BM,CSQ,PNG AIR-,PNG AIR-,AM,Aircraft
+General Frequencies,Cairns Airband,131.000,,BM,CSQ,AIRPORT FIRE,AIRPORT FIRE,AM,Aircraft
+General Frequencies,Cairns Airband,131.100,,BM,CSQ,ATIS,ATIS,AM,Aircraft
+General Frequencies,Cairns Airband,131.150,,BM,CSQ,VIRGIN – ALL,VIRGIN – ALLIANCE,AM,Aircraft
+General Frequencies,Cairns Airband,131.325,,BM,CSQ,AEROCARE TIG,AEROCARE TIGER – REX,AM,Aircraft
+General Frequencies,Cairns Airband,131.450,,BM,CSQ,ACARS,ACARS,AM,Aircraft
+General Frequencies,Cairns Airband,131.550,,BM,CSQ,ACARS,ACARS,AM,Aircraft
+General Frequencies,Cairns Airband,131.600,,BM,CSQ,POLICE AIRWI,POLICE AIRWING,AM,Aircraft
+General Frequencies,Cairns Airband,131.800,,BM,CSQ,CATHAY PACIF,CATHAY PACIFIC,AM,Aircraft
+General Frequencies,Cairns Airband,131.900,,BM,CSQ,QANTAS,QANTAS,AM,Aircraft
+General Frequencies,Cairns Airband,132.700,,BM,CSQ,QANTAS LOAD,QANTAS LOAD CONTROL,AM,Aircraft
+General Frequencies,Cairns Airband,132.900,,BM,CSQ,INNISFAIL SK,INNISFAIL SKYDIVE,AM,Aircraft
+General Frequencies,Cairns Airband,133.200,,BM,CSQ,CONTROL,CONTROL,AM,Aircraft
+General Frequencies,Cairns Airband,135.950,,BM,CSQ,HAWKER PACIF,HAWKER PACIFIC,AM,Aircraft

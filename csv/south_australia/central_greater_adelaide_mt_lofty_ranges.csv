@@ -1,0 +1,31 @@
+category,group,frequency,license,type,tone,alpha tag,description,mode,tag
+Adelaide Airport,Air Services Australia,0.362,,M,,ADEL ATIS,Adelaide ATIS,AM,Aircraft
+Adelaide Airport,Air Services Australia,0.377,,M,,ADEL NDB,Adelaide NDB,AM,Aircraft
+Adelaide Airport,Air Services Australia,0.416,,BM,,PARAFLD ATIS,Parafield ATIS,AM,Aircraft
+Adelaide Airport,Air Services Australia,116.400,,M,,ADEL VOR/DEM,VOR/DEM,AM,Aircraft
+Adelaide Airport,Air Services Australia,118.200,,M,CSQ,ADEL APP SE,Approach - South East,AM,Aircraft
+Adelaide Airport,Air Services Australia,118.700,,M,CSQ,PARAFLD TWR,Parafield Tower,AM,Aircraft
+Adelaide Airport,Air Services Australia,118.950,,M,CSQ,CENTRE NW,Melbourne Centre North West,AM,Aircraft
+Adelaide Airport,Air Services Australia,119.900,,M,CSQ,PARAFLD GND,Parafield Ground,AM,Aircraft
+Adelaide Airport,Air Services Australia,120.500,,M,CSQ,ADEL TWR,Tower,AM,Aircraft
+Adelaide Airport,Air Services Australia,120.900,,M,CSQ,PARAFLD ATIS,Parafield ATIS,AM,Aircraft
+Adelaide Airport,Air Services Australia,121.700,,M,CSQ,ADEL GND SMC,Ground SMC,AM,Aircraft
+Adelaide Airport,Air Services Australia,123.500,,M,CSQ,ADEL APP,Approach,AM,Aircraft
+Adelaide Airport,Air Services Australia,124.200,,M,CSQ,ADEL APP,Approach - North West,AM,Aircraft
+Adelaide Airport,Air Services Australia,124.600,,M,CSQ,PARAFLD TWR,Parafield Tower,AM,Aircraft
+Adelaide Airport,Air Services Australia,125.300,,M,CSQ,CENTRE E,Melbourne Centre East,AM,Aircraft
+Adelaide Airport,Air Services Australia,126.100,,M,CSQ,ADE CLNC DEL,Clearance Delivery,AM,Aircraft
+Adelaide Airport,Air Services Australia,128.600,,M,CSQ,ADEL APP,Approach,AM,Aircraft
+Adelaide Airport,Air Services Australia,130.450,,M,CSQ,ADEL RADAR,Radar,AM,Aircraft
+Adelaide Airport,Air Services Australia,134.500,,M,CSQ,ADEL ATIS,ATIS,AM,Aircraft
+Adelaide Airport,Air Services Australia,135.750,,M,CSQ,ADEL FLGH WA,Flight Watch,AM,Aircraft
+Adelaide Airport,Air Services Australia,306.300,,M,,ADEL APP,Approach,AM,Aircraft
+Municipalities,Adelaide City,463.450,VH5VK,BM,123.0 PL,Royal Adelai,Royal Adelaide Hospital,FM,Hospital
+Municipalities,Adelaide City,463.775,VNS351,BM,156.7 PL,Adelaide Fes,Adelaide Festival Centre,FM,Business
+Municipalities,Adelaide City,464.625,,,,UNID,UNID,FM,Business
+Municipalities,Adelaide City,464.700,,,,UNID,UNID,FM,Public Works
+Municipalities,Adelaide City,464.800,,BM,,Yellow Cab,Yellow Cabs - South,FM,Business
+Municipalities,Adelaide City,465.100,VH5AAG,BM,127.3 PL,Uni Maint,University of Adelaide - Maintenance,FM,Schools
+Municipalities,Adelaide City,465.725,VZQ780,BM,,Westfield,Westfield - Modbury,FM,Business
+Municipalities,Adelaide City,465.900,VL5CC,BM,127.3 PL,Uni Securit,University of Adelaide - Security,FM,Schools
+Municipalities,Adelaide City,485.600,VZ5CI,BM,,City Adelaid,City of Adelaide,FM,Public Works

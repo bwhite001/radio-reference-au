@@ -1,0 +1,27 @@
+category,group,frequency,license,type,tone,alpha tag,description,mode,tag
+Jandakot Airport,Operations,118.100,,BM,CSQ,JandaktTower,Jandakot TWRCTF,AM,Aircraft
+Jandakot Airport,Operations,119.400,,BM,CSQ,Jandakot Twr,Jandakot Tower,AM,Aircraft
+Jandakot Airport,Operations,120.900,,BM,CSQ,ATIS,Jandakot ATIS,AM,Aircraft
+Jandakot Airport,Operations,123.900,,BM,CSQ,Jandakot Air,Jandakot Airport,AM,Aircraft
+Jandakot Airport,Operations,123.900,,BM,CSQ,Jandakot PAL,Jandakot PAL,AM,Aircraft
+Jandakot Airport,Operations,124.300,,BM,CSQ,JandakotGrnd,Jandakot Ground,AM,Aircraft
+Perth Airport,Airline Air-To-Air,120.800,,BM,CSQ,Skystar 1208,Skystar,AM,Aircraft
+Perth Airport,Airline Air-To-Air,128.350,,BM,CSQ,Skippers Air,Skippers Air,AM,Aircraft
+Perth Airport,Airline Air-To-Air,128.800,,BM,CSQ,Skywest Air,Skywest Air,AM,Aircraft
+Perth Airport,Airline Air-To-Air,129.250,,BM,CSQ,Cobham Air,Cobham Air,AM,Aircraft
+Perth Airport,Airline Air-To-Air,129.500,,BM,CSQ,Qantas Air,Qantas Air,AM,Aircraft
+Perth Airport,Airline Air-To-Air,130.575,,BM,CSQ,Jetstar,Jetstar,AM,Aircraft
+Perth Airport,Airline Air-To-Air,131.150,,BM,CSQ,Virgin Aust,Virgin Aust,AM,Aircraft
+Perth Airport,Airline Air-To-Air,131.800,,BM,CSQ,Cathay A/A,Cathay,AM,Aircraft
+Perth Airport,Airline Air-To-Air,131.900,,BM,CSQ,Quantas A2A,Qantas,AM,Aircraft
+Perth Airport,Airline Air-To-Air,132.650,,BM,CSQ,Qantas Load,Qantas Loading,AM,Transportation
+Perth Airport,Airline Air-To-Air,453.175,,BM,,Garuda,Garuda,FM,Aircraft
+Perth Airport,Airline Air-To-Air,463.000,,BM,,QantasDomest,Qantas Domestic,FM,Aircraft
+Perth Airport,Airline Air-To-Air,464.950,,BM,,Qantas Intl,Qantas Intl,FM,Aircraft
+RAAF Base Pearce,Civilian Ops,118.300,,BM,CSQ,Pearce Tower,Pearce Tower,AM,Aircraft
+RAAF Base Pearce,Civilian Ops,127.250,,BM,CSQ,PearceGround,Pearce Ground,AM,Aircraft
+RAAF Base Pearce,Civilian Ops,127.250,,BM,CSQ,PearceSMCGnd,Pearce SMC/Gnd,AM,Aircraft
+RAAF Base Pearce,Civilian Ops,130.200,,BM,CSQ,Approach,Pearce Approach,AM,Aircraft
+RAAF Base Pearce,Civilian Ops,134.100,,BM,CSQ,Pearce Deliv,Pearce Delivery,AM,Aircraft
+RAAF Base Pearce,Civilian Ops,135.900,,BM,CSQ,Departure,Pearce Departure,AM,Aircraft
+Transportation,TransPerth,472.775,,RM,,CAT Buses,Cat Buses - Operations,FM,Transportation

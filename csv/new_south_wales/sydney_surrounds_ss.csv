@@ -1,0 +1,24 @@
+category,group,frequency,license,type,tone,alpha tag,description,mode,tag
+Sydney Surrounds Shopping Centres,Wyong Shire Council Area,469.675,,,114.8 PL,Stockland Ma,Stockland Mall - Bateau Bay Village,FM,Business
+Aviation,General,119.900,,BM,CSQ,BNK GND,BANKSTOWN GROUND,AM,Aircraft
+Aviation,General,120.900,,BM,CSQ,BNK ATIS,BANKSTOWN ATIS,AM,Aircraft
+Aviation,General,123.600,,BM,CSQ,BNK CIR,BANKSTOWN CIRCUIT,AM,Aircraft
+Aviation,General,124.150,,BM,CSQ,Careflight E,Careflight Base Westmead,AM,EMS Dispatch
+Aviation,General,126.400,,BM,CSQ,CHC EMS,CHC Helicopter Bankstown,AM,EMS Dispatch
+Aviation,General,128.900,,BM,CSQ,RFDS Base,RFDS Base Bankstown,AM,EMS Dispatch
+Aviation,General,132.550,,BM,CSQ,ParkAir,ParkAir (NPWS) Bankstown,AM,Aircraft
+Aviation,General,132.750,,BM,CSQ,AirAmbulance,Air Ambulance Sydney,AM,EMS Dispatch
+Aviation,General,132.800,,BM,CSQ,BNK TWR,BANKSTOWN TOWER,AM,Aircraft
+Aviation,General,134.250,,BM,CSQ,BNK AIR SCHO,BNK AIR SCHOOL,AM,Aircraft
+Aviation,General,285.400,,BM,,BNK RAAF,BANKSTOWN RAAF,AM,Military
+Aviation,General,484.950,,BM,,Westpac Resc,Westpac Rescue Sydney,AM,EMS Dispatch
+Defence Force,ARMY - Holsworthy,72.350,,BM,,Hols Army 1,Primary,AM,Military
+Defence Force,ARMY - Holsworthy,82.400,,BM,,Hols Army 2,Secondary,AM,Military
+Defence Force,ARMY - Holsworthy,121.000,,BM,CSQ,Hols Blkhwks,Backhawks,AM,Military
+Defence Force,ARMY - Holsworthy,394.900,,BM,,Hols ArmyGnd,Ground,AM,Military
+EMS,Air Ambulance,128.950,,BM,CSQ,Toll,Toll Air Ambulance,AM,EMS-Tac
+Public Transport,Bus Companies,163.975,,,,METRO-LINK B,METRO-LINK BUSES,FMN,Transportation
+Public Transport,Bus Companies,164.5625,,,,LIVERPOOL BU,LIVERPOOL BUSES,FMN,Transportation
+Public Transport,Bus Companies,488.550,,,,BUSWAYS BLAC,BUSWAYS BLACKTOWN,FMN,Transportation
+Public Transport,Bus Companies,490.800,,,,HOLROYD BUSE,HOLROYD BUSES,FMN,Transportation
+Public Transport,Bus Companies,494.600,,,,BUSABOUT LIV,BUSABOUT LIVERPOOL,FMN,Transportation

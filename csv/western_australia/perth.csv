@@ -1,0 +1,27 @@
+category,group,frequency,license,type,tone,alpha tag,description,mode,tag
+Jandakot Airport,Airband,118.100,,BM,,CTAF,CTAF,AM,Aircraft
+Jandakot Airport,Airband,118.100,,BM,,Tower,Tower,AM,Aircraft
+Jandakot Airport,Airband,119.400,,BM,,Tower 2,Tower 2,AM,Aircraft
+Jandakot Airport,Airband,121.800,,BM,,VIVA Fuel,VIVA Fuel,AM,Aircraft
+Jandakot Airport,Airband,123.900,,BM,,PAL,PAL,AM,Aircraft
+Jandakot Airport,Airband,124.300,,BM,,Ground,Ground,AM,Aircraft
+Jandakot Airport,Airband,128.650,,BM,,ATIS,ATIS,AM,Aircraft
+Jandakot Airport,Airband,129.350,,BM,,Singapore Flying,Singapore Flying College,AM,Aircraft
+Jandakot Airport,Airband,130.125,,BM,,Pacific Flight,Pacific Flight,AM,Aircraft
+Jandakot Airport,Airband,135.250,,BM,,Center,Center,AM,Aircraft
+Jandakot Airport,Airband,135.350,,BM,,RFDS,RFDS,AM,Aircraft
+Perth Airport,Airband,118.550,,BM,,Delivery,Delivery,AM,Aircraft
+Perth Airport,Airband,118.700,,BM,,Departures,Departures,AM,Aircraft
+Perth Airport,Airband,121.700,,BM,,Ground West,Ground West,AM,Aircraft
+Perth Airport,Airband,122.200,,BM,,Ground East,Ground East,AM,Aircraft
+Perth Airport,Airband,123.600,,BM,,Approach,Approach,AM,Aircraft
+Perth Airport,Airband,123.800,,BM,,ATIS,ATIS,AM,Aircraft
+Perth Airport,Airband,127.400,,BM,,Tower,Tower,AM,Aircraft
+Perth Airport,Airband,128.350,,BM,,Skippers Aviatio,Skippers Aviation,AM,Aircraft
+Perth Airport,Airband,128.800,,BM,,Virgin Australia,Virgin Australia,AM,Aircraft
+Perth Airport,Airband,129.250,,BM,,National Jet Exp,National Jet Express / Cobham,AM,Aircraft
+Perth Airport,Airband,129.500,,BM,,Qantas,Qantas,AM,Aircraft
+Perth Airport,Airband,130.400,,BM,,Network Aviation,Network Aviation,AM,Aircraft
+Perth Airport,Airband,130.600,,BM,,Air North,Air North,AM,Aircraft
+Perth Airport,Airband,132.950,,BM,,Approach 2,Approach 2,AM,Aircraft
+Perth Airport,Airband,135.250,,BM,,Perth Center,Perth Center,AM,Aircraft

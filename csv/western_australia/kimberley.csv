@@ -1,0 +1,12 @@
+category,group,frequency,license,type,tone,alpha tag,description,mode,tag
+Broome YBRM,Airband,121.700,,BM,,Ground,Broome Ground,AM,Aircraft
+Broome YBRM,Airband,123.950,,BM,,Brisbane Center,Brisbane Center,AM,Aircraft
+Broome YBRM,Airband,126.000,,BM,,Broome Tower/CTA,Broome Tower/CTAF,AM,Aircraft
+Broome YBRM,Airband,128.200,,BM,,ATIS,Broome ATIS,AM,Aircraft
+Broome YBRM,Airband,129.500,,BM,,Qantas Broome,Qantas Broome,AM,Aircraft
+Broome YBRM,Airband,131.150,,BM,,Virgin Broome,Virgin Broome,AM,Aircraft
+Broome YBRM,Airband,136.125,,BM,,JetStar Broome,JetStar Broome,AM,Aircraft
+Onslow Airport YOLW,Airband,126.600,,BM,CSQ,YOLW CTAF,CTAF,AM,Aircraft
+Onslow Airport YOLW,Airband,122.400,,BM,CSQ,YOLW MEL CTR,MEL CTR,AM,Aircraft
+Onslow Airport YOLW,Airband,129.500,,BM,CSQ,YOLW Qantas,Qantas,AM,Business
+Onslow Airport YOLW,Airband,128.800,,BM,CSQ,YOLW Virgin Aus,Virgin Australia,AM,Business
