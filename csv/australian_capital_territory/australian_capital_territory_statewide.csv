@@ -1,0 +1,27 @@
+alpha tag,tag,entity,mode,description,type,tone,input,entity_type,group,license,category,tone in,frequency
+AMC 2,Corrections,ACT Corrective Services,FMN,Alexander Maconochie Centre,RM,,,Public Safety,Alexander Maconochie Centre,,Operations,,473.375
+AMC,Corrections,ACT Corrective Services,FMN,Alexander Maconochie Centre,RM,107.2 PL,,Public Safety,Alexander Maconochie Centre,,Operations,,474.275
+Prison Trans,Corrections,ACT Corrective Services,FMN,Prisoner Transport,BM,,,Public Safety,Alexander Maconochie Centre,,Operations,,487.750
+Main,Law Talk,ACT Justice and Community Safety,FMN,Main Repeater,RM,107.2 PL,,Public Safety,Law Courts,VKA988,DJCS,,487.150
+Secondary,Law Talk,ACT Justice and Community Safety,FMN,Secondary Repeater,RM,107.2 PL,,Public Safety,Law Courts,VKA989,DJCS,,487.750
+Bilack Mtn,Law Dispatch,ACT Police,P25,BlLACK MOUNTAIN,RM,,,Public Safety,General,,ACT Police,,467.925
+ACT Wide,Emergency Ops,ACT Police,P25,ACT WIDE EMERGENCY - ISSACS RIDGE,RM,,,Public Safety,General,,ACT Police,,468.475
+Oly4BlackMnt,Business,ACT Police,P25,OLYMPIC 1 - BLACK MOUNTAIN,RM,,,Public Safety,General,,ACT Police,,468.650
+Radio Techs,Other,ACT Police,P25,AFP RADIO TECHS - MOUNT STROMLO,RM,,,Public Safety,General,,ACT Police,,468.850
+MtAinslie PD,Law Dispatch,ACT Police,P25,MT AINSLIE,RM,,,Public Safety,General,,ACT Police,,468.950
+Bulls Head,Ham,Amateur VK1,FM,Bulls Head,RM,CSQ,146.300,Amateur Radio,Repeaters,VK1RAC,VK1,91.5 PL,146.900
+Isaacs Rdg DStar,Ham,Amateur VK1,D-STAR,Isaacs Ridge D-Star,RM,,146.1625,Amateur Radio,Repeaters,VK1RWN,VK1,,146.6625
+Isaacs Rdg DMR,Ham,Amateur VK1,DMR,Isaacs Ridge DMR,RM,CC 1TG 505SL 1,433.8125,Amateur Radio,Repeaters,VK1RBM,VK1,CC 1TG 505SL 1,438.8125
+Isaacs Rdg IRLP,Ham,Amateur VK1,FM,Isaacs Ridge IRLP (Node 6110),RM,CSQ,434.950,Amateur Radio,Repeaters,VK1RBM,VK1,91.5 PL,439.950
+Mt Ginini UHF,Ham,Amateur VK1,FM,Mt Ginini UHF,RM,CSQ,433.050,Amateur Radio,Repeaters,VK1RGI,VK1,91.5 PL,438.050
+Mt Ginini VHF,Ham,Amateur VK1,FM,Mt Ginini VHF,RM,CSQ,146.350,Amateur Radio,Repeaters,VK1RGI,VK1,91.5 PL,146.950
+Portable 1,Ham,Amateur VK1,FM,Portable 1,RM,CSQ,147.725,Amateur Radio,Repeaters,VK1RWP,VK1,CSQ,147.125
+Portable 2,Ham,Amateur VK1,FM,Portable 2,RM,CSQ,147.750,Amateur Radio,Repeaters,VK1RWP,VK1,CSQ,147.150
+Portable 3,Ham,Amateur VK1,FM,Portable 3,RM,CSQ,147.775,Amateur Radio,Repeaters,VK1RWP,VK1,CSQ,147.175
+Portable 4,Ham,Amateur VK1,FM,Portable 4,RM,CSQ,434.925,Amateur Radio,Repeaters,VK1RWP,VK1,CSQ,439.925
+Portable 5,Ham,Amateur VK1,FM,Portable 5,RM,CSQ,434.975,Amateur Radio,Repeaters,VK1RWP,VK1,CSQ,439.975
+CCSC 1 Sec,Security,Businesses,FM,Canberra Centre Shopping Complex - Ch. 1 Security,RM,107.2 PL,,Business Group,Retail,,Businesses,,485.900
+CCSC 2 Maint,Business,Businesses,FM,Canberra Centre Shopping Complex - Ch. 2 Maintenance,RM,131.8 PL,,Business Group,Retail,,Businesses,,486.500
+CCSC 3 Simpl,Business,Businesses,FM,Canberra Centre Shopping Complex - Ch. 3 Simplex,M,,,Business Group,Retail,,Businesses,,471.675
+THSC,Business,Businesses,FMN,Tuggeranong Hyperdone Shopping Centre,RM,192.8 PL,,Business Group,Retail,,Businesses,,474.625
+THSC,Business,Businesses,FMN,Tuggeranong Hyperdone Shopping Centre,RM,192.8 PL,,Business Group,Retail,,Businesses,,475.100

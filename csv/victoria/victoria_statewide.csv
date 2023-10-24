@@ -1,0 +1,767 @@
+alpha tag,tag,entity,mode,description,type,tone,entity_type,group,license,category,frequency
+ATC,Aircraft,Air Services Australia,AM,Air Services Australia,,CSQ,Aircraft / Airport,Air Traffic Control (ATC),VH3GYA,Statewide Allocation,120.000
+ATC,Aircraft,Air Services Australia,AM,Air Services Australia,,CSQ,Aircraft / Airport,Air Traffic Control (ATC),VH3GYA,Statewide Allocation,122.400
+ATC,Aircraft,Air Services Australia,AM,Air Services Australia,,CSQ,Aircraft / Airport,Air Traffic Control (ATC),VH3GYA,Statewide Allocation,126.800
+Air Services,Aircraft,Air Services Australia,AM,Air Services Australia,,CSQ,Aircraft / Airport,Air Traffic Control (ATC),VH3GYA,Statewide Allocation,127.000
+ATC,Aircraft,Air Services Australia,AM,Air Services Australia,,CSQ,Aircraft / Airport,Air Traffic Control (ATC),VH3GYA,Statewide Allocation,128.500
+ATC,Aircraft,Air Services Australia,AM,Air Services Australia,,CSQ,Aircraft / Airport,Air Traffic Control (ATC),VH3GYA,Statewide Allocation,134.325
+ATC,Aircraft,Air Services Australia,AM,Air Services Australia,,CSQ,Aircraft / Airport,Air Traffic Control (ATC),VH3GYA,Statewide Allocation,135.300
+Mildura,EMS Dispatch,Ambulance Victoria,FM,Mildura / North West,BM,CSQ,Public Safety,North Western,VJV684,Current Allocation,165.350
+Bendigo,EMS Dispatch,Ambulance Victoria,FM,Bendigo / North West,BM,110.9 PL,Public Safety,North Western,VZ3NW,Current Allocation,412.475
+Mildura,EMS Dispatch,Ambulance Victoria,FM,Mildura / North West,BM,103.5 PL,Public Safety,North Western,VZ3NW,Current Allocation,415.425
+VF 11,Emergency Ops,Australian Volunteer Coast Guard Association,FM,VF 11,M,CSQ,Public Safety,VF 11 - Albury / Lake Hume,,Current Allocation,154.575
+VF 11,Emergency Ops,Australian Volunteer Coast Guard Association,FM,VF 11,M,CSQ,Public Safety,VF 11 - Albury / Lake Hume,,Current Allocation,161.675
+1-REG-2A,Fire-Tac,Country Fire Authority,FM,-,M,103.5 PL,Public Safety,VHF,VLF300,Current Allocation,161.100
+2-REG-2B,Fire-Tac,Country Fire Authority,FM,-,M,103.5 PL,Public Safety,VHF,VLF300,Current Allocation,161.1875
+3-REG-2C,Fire-Tac,Country Fire Authority,FM,-,M,103.5 PL,Public Safety,VHF,VLF300,Current Allocation,161.0875
+4-IMC,Fire Dispatch,Country Fire Authority,FM,CFA IMC -Ceres,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.4625
+5-IMC,Fire Dispatch,Country Fire Authority,FM,CFA IMC -Pakenham,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.000
+6-REG-4A,Fire-Tac,Country Fire Authority,FM,-,M,107.2 PL,Public Safety,VHF,VLF300,Current Allocation,161.1125
+7-REG-4B,Fire-Tac,Country Fire Authority,FM,-,M,107.2 PL,Public Safety,VHF,VLF300,Current Allocation,160.9875
+8-REG-4C,Fire-Tac,Country Fire Authority,FM,-,M,107.2 PL,Public Safety,VHF,VLF300,Current Allocation,161.0875
+9-IMC,Fire Dispatch,Country Fire Authority,FM,CFA IMC -Kinglake,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,165.125
+10-IMC,Fire Dispatch,Country Fire Authority,FM,CFA IMC -Kallista,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.5125
+11-REG-5A,Fire-Tac,Country Fire Authority,FM,-,M,110.9 PL,Public Safety,VHF,VLF300,Current Allocation,161.050
+12-REG-5B,Fire-Tac,Country Fire Authority,FM,-,M,110.9 PL,Public Safety,VHF,VLF300,Current Allocation,161.0125
+13-REG-5C,Fire-Tac,Country Fire Authority,FM,-,M,110.9 PL,Public Safety,VHF,VLF300,Current Allocation,161.0375
+14-IMC,Fire Dispatch,Country Fire Authority,FM,CFA IMC -Mt. Cottrell,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,165.100
+15-IMC,Fire Dispatch,Country Fire Authority,FM,CFA IMC -Ferny Creek,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.250
+16-REG-6A,Fire-Tac,Country Fire Authority,FM,-,M,114.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.1875
+17-REG-6B,Fire-Tac,Country Fire Authority,FM,-,M,114.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.0875
+18-REG-6C,Fire-Tac,Country Fire Authority,FM,-,M,114.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.000
+19-IMC,Fire Dispatch,Country Fire Authority,FM,CFA IMC -Mt. Steiglitz,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.2875
+20-IMC,Fire Dispatch,Country Fire Authority,FM,CFA IMC -Sergeants Hill,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.625
+21-REG-7VF,Fire-Tac,Country Fire Authority,FM,Voting List 4 Mt. Marengo,BM,162.2 PL,Public Safety,VHF,VLF300,Current Allocation,163.600
+22-REG-7A,Fire-Tac,Country Fire Authority,FM,-,M,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,160.9875
+23-REG-7B,Fire-Tac,Country Fire Authority,FM,-,M,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.125
+24-REG-7C,Fire-Tac,Country Fire Authority,FM,-,M,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.0125
+25-IMC,Fire Dispatch,Country Fire Authority,FM,CFA Incident Management,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.275
+26-IMC,Fire Dispatch,Country Fire Authority,FM,CFA Incident Management,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.100
+27-REG-8VF,Fire-Tac,Country Fire Authority,FM,-,M,179.9 PL,Public Safety,VHF,VLF300,Current Allocation,162.675
+28-REG-8AV,Fire-Tac,Country Fire Authority,FM,-,M,179.9 PL,Public Safety,VHF,VLF300,Current Allocation,163.7875
+29-REG-8B,Fire-Tac,Country Fire Authority,FM,-,M,127.3 PL,Public Safety,VHF,VLF300,Current Allocation,161.1875
+30-REG-8C,Fire-Tac,Country Fire Authority,FM,-,M,127.3 PL,Public Safety,VHF,VLF300,Current Allocation,161.075
+31-REG-8D,Fire-Tac,Country Fire Authority,FM,-,M,127.3 PL,Public Safety,VHF,VLF300,Current Allocation,161.000
+32-REG-8E,Fire-Tac,Country Fire Authority,FM,-,M,127.3 PL,Public Safety,VHF,VLF300,Current Allocation,161.1375
+33-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.425
+34-REG-9A,Fire-Tac,Country Fire Authority,FM,-,M,131.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.1625
+35-REG-9B,Fire-Tac,Country Fire Authority,FM,-,M,131.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.0625
+36-REG-9C,Fire-Tac,Country Fire Authority,FM,-,M,131.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.025
+37-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.5625
+38-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.7125
+39-REG-10A,Fire-Tac,Country Fire Authority,FM,-,M,136.5 PL,Public Safety,VHF,VLF300,Current Allocation,161.000
+40-REG-10B,Fire-Tac,Country Fire Authority,FM,-,M,136.5 PL,Public Safety,VHF,VLF300,Current Allocation,160.9875
+41-REG-10C,Fire-Tac,Country Fire Authority,FM,-,M,136.5 PL,Public Safety,VHF,VLF300,Current Allocation,161.0375
+42-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.325
+43-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.7625
+44-REG-11A,Fire-Tac,Country Fire Authority,FM,-,M,141.3 PL,Public Safety,VHF,VLF300,Current Allocation,161.075
+45-REG-11B,Fire-Tac,Country Fire Authority,FM,-,M,141.3 PL,Public Safety,VHF,VLF300,Current Allocation,161.025
+46-REG-11C,Fire-Tac,Country Fire Authority,FM,-,M,141.3 PL,Public Safety,VHF,VLF300,Current Allocation,161.050
+47-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.9875
+48-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.0125
+49-REG-12A,Fire-Tac,Country Fire Authority,FM,-,M,146.2 PL,Public Safety,VHF,VLF300,Current Allocation,161.0125
+50-REG-12B,Fire-Tac,Country Fire Authority,FM,-,M,146.2 PL,Public Safety,VHF,VLF300,Current Allocation,161.225
+51-REG-12C,Fire-Tac,Country Fire Authority,FM,-,M,146.2 PL,Public Safety,VHF,VLF300,Current Allocation,161.1375
+52-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,164.075
+53-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.0875
+54-REG-13VF,Fire Dispatch,Country Fire Authority,FM,-,M,173.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.525
+55-REG-13A,Fire-Tac,Country Fire Authority,FM,-,M,156.7 PL,Public Safety,VHF,VLF300,Current Allocation,161.1125
+56-REG-13B,Fire-Tac,Country Fire Authority,FM,-,M,156.7 PL,Public Safety,VHF,VLF300,Current Allocation,161.175
+57-REG-13C,Fire-Tac,Country Fire Authority,FM,-,M,156.7 PL,Public Safety,VHF,VLF300,Current Allocation,161.200
+58-REG-13D,Fire-Tac,Country Fire Authority,FM,-,M,156.7 PL,Public Safety,VHF,VLF300,Current Allocation,161.100
+59-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.1625
+60-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.3375
+61-REG-14VF,Fire Dispatch,Country Fire Authority,FM,-,M,167.9 PL,Public Safety,VHF,VLF300,Current Allocation,162.775
+62-REG-14A,Fire-Tac,Country Fire Authority,FM,-,M,162.2 PL,Public Safety,VHF,VLF300,Current Allocation,161.0625
+63-REG-14B,Fire-Tac,Country Fire Authority,FM,-,M,162.2 PL,Public Safety,VHF,VLF300,Current Allocation,161.150
+64-REG-14C,Fire-Tac,Country Fire Authority,FM,-,M,162.2 PL,Public Safety,VHF,VLF300,Current Allocation,161.050
+65-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.3625
+66-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.3875
+67-REG-15A,Fire-Tac,Country Fire Authority,FM,-,M,167.9 PL,Public Safety,VHF,VLF300,Current Allocation,161.025
+68-REG-15B,Fire-Tac,Country Fire Authority,FM,-,M,167.9 PL,Public Safety,VHF,VLF300,Current Allocation,161.1625
+69-REG-15C,Fire-Tac,Country Fire Authority,FM,-,M,167.9 PL,Public Safety,VHF,VLF300,Current Allocation,161.200
+70-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.400
+71-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.4125
+72-REG-16A,Fire-Tac,Country Fire Authority,FM,-,M,173.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.075
+73-REG-16B,Fire-Tac,Country Fire Authority,FM,-,M,173.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.1375
+74-REG-16C,Fire-Tac,Country Fire Authority,FM,-,M,173.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.175
+75-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.4625
+76-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.500
+77-REG-17A,Fire-Tac,Country Fire Authority,FM,-,M,179.9 PL,Public Safety,VHF,VLF300,Current Allocation,161.225
+78-REG-17B,Fire-Tac,Country Fire Authority,FM,-,M,179.9 PL,Public Safety,VHF,VLF300,Current Allocation,161.150
+79-REG-17C,Fire-Tac,Country Fire Authority,FM,-,M,179.9 PL,Public Safety,VHF,VLF300,Current Allocation,161.000
+80-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.6625
+81-IMC,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.725
+82-REG-18A,Fire-Tac,Country Fire Authority,FM,-,M,186.2 PL,Public Safety,VHF,VLF300,Current Allocation,161.0125
+REG-18B-83,Fire-Tac,Country Fire Authority,FM,-,M,186.2 PL,Public Safety,VHF,VLF300,Current Allocation,161.0375
+REG-18C-84,Fire-Tac,Country Fire Authority,FM,-,M,186.2 PL,Public Safety,VHF,VLF300,Current Allocation,160.9875
+IMC 85,Fire Dispatch,Country Fire Authority,FM,CFA Incident Management Channel,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.2875
+IMC 86,Fire Dispatch,Country Fire Authority,FM,CFA Incident Management Channel,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.650
+REG-20A-87,Fire-Tac,Country Fire Authority,FM,-,M,192.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.125
+REG-20B-88,Fire-Tac,Country Fire Authority,FM,-,M,192.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.050
+REG-20C-89,Fire-Tac,Country Fire Authority,FM,-,M,192.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.025
+IMC 90,Fire Dispatch,Country Fire Authority,FM,"CFA IMC -Mt. Sabine, Mt. Broughton",BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.2625
+IMC 91,Fire Dispatch,Country Fire Authority,FM,"CFA IMC -Lake Gnotuk, Larkins Hill",BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.350
+REG-22A-92,Fire-Tac,Country Fire Authority,FM,-,M,203.5 PL,Public Safety,VHF,VLF300,Current Allocation,161.150
+REG-22B-93,Fire-Tac,Country Fire Authority,FM,-,M,203.5 PL,Public Safety,VHF,VLF300,Current Allocation,161.0375
+REG-22C-94,Fire-Tac,Country Fire Authority,FM,-,M,203.5 PL,Public Safety,VHF,VLF300,Current Allocation,160.9875
+IMC 95,Fire Dispatch,Country Fire Authority,FM,CFA Incident Management Channel,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.8625
+IMC 96,Fire Dispatch,Country Fire Authority,FM,CFA IMC -Loch,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,165.1625
+REG-23A-97,Fire-Tac,Country Fire Authority,FM,-,M,210.7 PL,Public Safety,VHF,VLF300,Current Allocation,161.050
+REG-23B-98,Fire-Tac,Country Fire Authority,FM,-,M,210.7 PL,Public Safety,VHF,VLF300,Current Allocation,161.1875
+REG-23C-99,Fire-Tac,Country Fire Authority,FM,-,M,210.7 PL,Public Safety,VHF,VLF300,Current Allocation,161.075
+IMC 100,Fire Dispatch,Country Fire Authority,FM,"CFA IMC -Neerim Junction, Upton Hill, Wodonga",BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,164.250
+IMC 101,Fire Dispatch,Country Fire Authority,FM,"CFA IMC -Drysdale, Bald Hill",BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.2125
+REG-24A-102,Fire-Tac,Country Fire Authority,FM,-,M,218.1 PL,Public Safety,VHF,VLF300,Current Allocation,161.125
+REG-24B-103,Fire-Tac,Country Fire Authority,FM,-,M,218.1 PL,Public Safety,VHF,VLF300,Current Allocation,161.0125
+REG-24C-104,Fire-Tac,Country Fire Authority,FM,-,M,218.1 PL,Public Safety,VHF,VLF300,Current Allocation,161.0875
+IMC 105,Fire Dispatch,Country Fire Authority,FM,CFA IMC -Reefton,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.075
+IMC 106,Fire Dispatch,Country Fire Authority,FM,"CFA IMC -Mt. Buninyong, Mt. Benambra",BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.4375
+AIRCRAFT-107,Fire-Tac,Country Fire Authority,FM,Aircraft,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,161.2125
+BORDER1-108,Fire-Tac,Country Fire Authority,FM,Border 1,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,161.175
+BORDER2-109,Fire-Tac,Country Fire Authority,FM,Border 2,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,161.200
+MFESB110,Fire-Tac,Country Fire Authority,FM,MFESB,M,94.8 PL,Public Safety,VHF,VLF300,Current Allocation,161.400
+DSE-PP1-111,Fire-Tac,Country Fire Authority,FM,-,M,107.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.2625
+DSE-PP2-112,Fire-Tac,Country Fire Authority,FM,-,M,107.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.375
+DSE-PP3-113,Fire-Tac,Country Fire Authority,FM,-,M,107.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.3875
+DSE-NW1-114,Fire-Tac,Country Fire Authority,FM,-,M,114.8 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.275
+DSE-NW2-115,Fire-Tac,Country Fire Authority,FM,-,M,114.8 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.3875
+DSE-NW3-116,Fire-Tac,Country Fire Authority,FM,-,M,114.8 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.2875
+DSE-SW1-117,Fire-Tac,Country Fire Authority,FM,-,M,123.0 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.375
+DSE-SW2-118,Fire-Tac,Country Fire Authority,FM,-,M,123.0 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.2875
+DSE-SW3-119,Fire-Tac,Country Fire Authority,FM,-,M,123.0 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.275
+DSE-NE1-120,Fire-Tac,Country Fire Authority,FM,-,M,131.8 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.3875
+DSE-NE2-121,Fire-Tac,Country Fire Authority,FM,-,M,131.8 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.2625
+DSE-NE3-122,Fire-Tac,Country Fire Authority,FM,-,M,131.8 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.375
+DSE-GP1-123,Fire-Tac,Country Fire Authority,FM,-,M,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.2875
+DSE-GP2-124,Fire-Tac,Country Fire Authority,FM,-,M,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.375
+DSE-GP3-125,Fire-Tac,Country Fire Authority,FM,-,M,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,161.275
+DSE-RP1-126,Fire-Tac,Country Fire Authority,FM,DSE Repeater Channel -1,BM,210.7 PL,Public Safety,VHF,VZ3CG,Current Allocation,162.2125
+DSE-RP2-127,Fire-Tac,Country Fire Authority,FM,DSE Repeater Channel -2,BM,151.4 PL,Public Safety,VHF,VZ3CG,Current Allocation,162.2125
+DSE-TA1-128,Fire-Tac,Country Fire Authority,FM,DSE Talk-Around,M,CSQ,Public Safety,VHF,VZ3CG,Current Allocation,162.2125
+DSE-RP3-129,Fire-Tac,Country Fire Authority,FM,DSE Repeater Channel -3,BM,210.7 PL,Public Safety,VHF,VZ3CG,Current Allocation,162.175
+DSE-RP4-130,Fire-Tac,Country Fire Authority,FM,DSE Repeater Channel -4,BM,151.4 PL,Public Safety,VHF,VZ3CG,Current Allocation,162.175
+DSE-TA2-131,Fire-Tac,Country Fire Authority,FM,DSE Talk-Around,M,CSQ,Public Safety,VHF,VZ3CG,Current Allocation,162.175
+DSE-RP5-132,Fire-Tac,Country Fire Authority,FM,DSE Repeater Channel -5,BM,210.7 PL,Public Safety,VHF,VZ3CG,Current Allocation,162.0625
+DSE-RP6-133,Fire-Tac,Country Fire Authority,FM,DSE Repeater Channel -6,BM,151.4 PL,Public Safety,VHF,VZ3CG,Current Allocation,162.0625
+DSE-TA3-134,Fire-Tac,Country Fire Authority,FM,DSE Talk-Around,M,CSQ,Public Safety,VHF,VZ3CG,Current Allocation,162.0625
+DSE-RP7-135,Fire-Tac,Country Fire Authority,FM,DSE Repeater Channel -7,BM,210.7 PL,Public Safety,VHF,VZ3CG,Current Allocation,162.475
+DSE-RP8-136,Fire-Tac,Country Fire Authority,FM,DSE Repeater Channel -8,BM,151.4 PL,Public Safety,VHF,VZ3CG,Current Allocation,162.475
+DSE-TA4-137,Fire-Tac,Country Fire Authority,FM,DSE Talk-Around,M,CSQ,Public Safety,VHF,VZ3CG,Current Allocation,162.475
+DSE-IC140,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Worth,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.1375
+DSE-IC141,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Pendergast,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.33125
+DSE-IC142,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Beenak,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.0625
+DSE-IC143,Fire-Tac,Country Fire Authority,FM,DSE IC -Jones Ridge,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.36875
+DSE-IC144,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Clay,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.19375
+DSE-IC145,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Arapiles,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.59375
+DSE-IC146,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. William,BM,146.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.64375
+DSE-IC147,Fire-Tac,Country Fire Authority,FM,DSE IC -Casterton,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.15625
+DSE-IC148,Fire-Tac,Country Fire Authority,FM,"DSE IC -Mt. Cowley, Mt. Major",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.53125
+DSE-IC149,Fire-Tac,Country Fire Authority,FM,"DSE IC -Beechforest, Mt. Moliagul, Ryan's Hill, Mt. Benambra",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.31875
+DSE-IC150,Fire-Tac,Country Fire Authority,FM,"DSE IC -Lookout Hill, Lady Franklin",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.09375
+DSE-IC151,Fire-Tac,Country Fire Authority,FM,"DSE IC -Mt. Warrenheip, Ada Divide Track",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,163.1875
+DSE-IC152,Fire-Tac,Country Fire Authority,FM,"DSE IC -Blue Mount, Bellevue",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.56875
+DSE-IC153,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Blackwood,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,163.075
+DSE-IC154,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Macedon,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,163.0625
+DSE-IC155,Fire-Tac,Country Fire Authority,FM,DSE IC -Arthur's Seat,BM,146.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,162.8125
+DSE-IC156,Fire-Tac,Country Fire Authority,FM,DSE IC -Dunns Hill,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,163.025
+DSE-IC157,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. St. Leonard,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,163.625
+DSE-IC158,Fire-Tac,Country Fire Authority,FM,DSE IC -Murrayville,BM,146.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.18125
+DSE-IC159,Fire-Tac,Country Fire Authority,FM,"DSE IC -Walpeup, Mt. Hickey",BM,146.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,163.1875
+DSE-IC160,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Ida,BM,146.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.45625
+DSE-IC161,Fire-Tac,Country Fire Authority,FM,"DSE IC -One Tree Hill (Bendigo), Tanybryn",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,163.7875
+DSE-IC162,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Terrible,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.20625
+DSE-IC163,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Despair,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.66875
+DSE-IC164,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Buller,BM,146.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,163.025
+DSE-IC165,Fire-Tac,Country Fire Authority,FM,"DSE IC -Mt. Wombat, Nypo",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.61875
+DSE-IC166,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Buffalo,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.18125
+DSE-IC167,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Hotham,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,162.8125
+DSE-IC168,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Stanley,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.39375
+DSE-IC169,Fire-Tac,Country Fire Authority,FM,"DSE IC -Mt. Wills, Crowes Lookout, Gunbower",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.54375
+DSE-IC170,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Granya,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.23125
+DSE-IC171,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Youngal,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.45625
+DSE-IC172,Fire-Tac,Country Fire Authority,FM,"DSE IC -Mt Lawson, Snowy Range",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.43125
+DSE-IC173,Fire-Tac,Country Fire Authority,FM,DSE IC -Picola,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.41875
+DSE-IC174,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Matlock,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.64375
+DSE-IC175,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Toorongo,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.69375
+DSE-IC176,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Useful,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.26875
+DSE-IC177,Fire-Tac,Country Fire Authority,FM,DSE IC -The Pinnacles,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.48125
+DSE-IC178,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Oberon,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.34375
+DSE-IC179,Fire-Tac,Country Fire Authority,FM,"DSE IC -Mt. Fatigue, Mt. Tower",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.55625
+DSE-IC180,Fire-Tac,Country Fire Authority,FM,"DSE IC -Mt. Taylor, Hattah",BM,146.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.69375
+DSE-IC181,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Sam,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.63125
+DSE-IC182,Fire-Tac,Country Fire Authority,FM,"DSE IC -Mt. Nugong, Mt. Victoria",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.46875
+DSE-IC183,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Seldom Seen,BM,146.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.66875
+DSE-IC184,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Nowa Nowa,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.68125
+DSE-IC185,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Tingaringy,BM,146.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.59375
+DSE-IC186,Fire-Tac,Country Fire Authority,FM,DSE IC -Mt. Delegate,BM,146.2 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.39375
+DSE-IC187,Fire-Tac,Country Fire Authority,FM,"DSE IC -Jersey West, Chetwynd Tower",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.60625
+DSE-IC188,Fire-Tac,Country Fire Authority,FM,DSE IC Mt. Raymond,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.16875
+DSE-IC189,Fire-Tac,Country Fire Authority,FM,DSE IC Cann Mountain,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.40625
+DSE-IC190,Fire-Tac,Country Fire Authority,FM,DSE IC Donald's Knob,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.21875
+DSE-IC191,Fire-Tac,Country Fire Authority,FM,DSE IC Maramingo Hill,BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.44375
+DSE-IC192,Fire-Tac,Country Fire Authority,FM,"DSE IC Rocky Ridge, Mt. Tassie",BM,141.3 PL,Public Safety,VHF,VZ3CG,Current Allocation,164.65625
+CFS-CH2-193,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.120
+CFS-CH7-194,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.090
+CFS-CH10-195,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.060
+CFS-CH18-196,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.510
+CFS-CH11-197,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.360
+CFS-CH5-198,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.210
+CFS-CH5-198,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.210
+CFS-CH5-198,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.210
+DISP-1-201,Fire-Tac,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.525
+DISP-2-202,Fire-Tac,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.6875
+DISP-3-203,Fire-Tac,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.275
+DISP-4-204,Fire-Tac,Country Fire Authority,FM,-,BM,107.2 PL,Public Safety,VHF,VLF300,Current Allocation,163.275
+DISP-5-205,Fire-Tac,Country Fire Authority,FM,-,BM,103.5 PL,Public Safety,VHF,VLF300,Current Allocation,163.275
+DISP-6-206,Fire-Tac,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.375
+IMC207,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.550
+IMC208,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.975
+IMC209,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.7375
+IMC210,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.225
+IMC211,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.250
+CFS-CH-3-212,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.240
+CFS-CH-12-21,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.075
+CFS-CH-13-21,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.165
+CFS-CH-16-21,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.570
+CFS-CH-17-21,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.405
+CFS-CH-19-21,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,163.525
+CFA-RPT 1-21,Fire-Tac,Country Fire Authority,FM,-,BM,131.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.200
+CFA-RPT 2-21,Fire-Tac,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.5375
+CFA-RPT 3-22,Fire-Tac,Country Fire Authority,FM,-,BM,123.0 PL,Public Safety,VHF,VLF300,Current Allocation,162.2625
+CFA-RPT 4-22,Fire-Tac,Country Fire Authority,FM,-,BM,131.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.175
+CFA-RPT 5-22,Fire-Tac,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.200
+CFA-RPT 6-22,Fire-Tac,Country Fire Authority,FM,-,BM,131.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.5375
+CFA-RPT 7-22,Fire-Tac,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.2625
+CFA-RPT 8-22,Fire-Tac,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.175
+IMC226,Fire Dispatch,Country Fire Authority,FM,-,BM,118.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.600
+CFA-VMR227,Fire-Tac,Country Fire Authority,FM,-,M,94.8 PL,Public Safety,VHF,VLF300,Current Allocation,153.225
+CFA-IBR228,Fire-Tac,Country Fire Authority,FM,"Knox City, Bay City Plaza, Dandenong Plaza, Frankston Town Centre",BM,107.2 PL,Public Safety,VHF,VLF300,Current Allocation,162.375
+IMC229,Fire Dispatch,Country Fire Authority,FM,R7VF Marengo (mrgo),BM,162.2 PL,Public Safety,VHF,VLF300,Current Allocation,163.600
+IMC230,Fire Dispatch,Country Fire Authority,FM,R7VF Mt Cowley (cowl),BM,162.2 PL,Public Safety,VHF,VLF300,Current Allocation,163.225
+IMC231,Fire Dispatch,Country Fire Authority,FM,R7VF Warrion Hill (whbl),BM,162.2 PL,Public Safety,VHF,VLF300,Current Allocation,163.5375
+IMC232,Fire Dispatch,Country Fire Authority,FM,R7VF Mt. Ingoldsby (ingd),BM,162.2 PL,Public Safety,VHF,VLF300,Current Allocation,162.400
+IMC233,Fire Dispatch,Country Fire Authority,FM,R7VF Bayview (bayv),BM,162.2 PL,Public Safety,VHF,VLF300,Current Allocation,162.575
+IMC234,Fire Dispatch,Country Fire Authority,FM,R7VF Mt. Blackwood (blkw),BM,162.2 PL,Public Safety,VHF,VLF300,Current Allocation,162.8375
+IMC235,Fire Dispatch,Country Fire Authority,FM,R8VF Dunns Hill (dunh). CFA IMC -Ben Nevis,BM,179.9 PL,Public Safety,VHF,VLF300,Current Allocation,162.675
+IMC236,Fire Dispatch,Country Fire Authority,FM,R8VF Arthur's Seat (arth),BM,179.9 PL,Public Safety,VHF,VLF300,Current Allocation,162.725
+IMC237,Fire Dispatch,Country Fire Authority,FM,R8VF Bass Hill (bass). CFA IMC -Glen Thompson,BM,179.9 PL,Public Safety,VHF,VLF300,Current Allocation,162.4125
+IMC238,Fire Dispatch,Country Fire Authority,FM,R8A Dunns Hill (dunh),BM,186.2 PL,Public Safety,VHF,VLF300,Current Allocation,163.7875
+IMC239,Fire Dispatch,Country Fire Authority,FM,R8A Arthur's Seat (arth),BM,186.2 PL,Public Safety,VHF,VLF300,Current Allocation,163.550
+IMC240,Fire Dispatch,Country Fire Authority,FM,"R8A Bass Hill (bass). CFA IMC -Smeaton Hill, The Paps",BM,186.2 PL,Public Safety,VHF,VLF300,Current Allocation,163.375
+IMC241,Fire Dispatch,Country Fire Authority,FM,R13VF Dunns Hill (dunh),BM,173.8 PL,Public Safety,VHF,VLF300,Current Allocation,163.525
+IMC242,Fire Dispatch,Country Fire Authority,FM,R13VF Mt. St. Leonard (msl),BM,173.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.6875
+IMC243,Fire Dispatch,Country Fire Authority,FM,R13VF Mt. Toorongo (too),BM,173.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.8875
+IMC244,Fire Dispatch,Country Fire Authority,FM,R13VF Mt. Victoria (vic),BM,173.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.2375
+IMC245,Fire Dispatch,Country Fire Authority,FM,R13VF Mt. Matlock (mat),BM,173.8 PL,Public Safety,VHF,VLF300,Current Allocation,162.1625
+IMC246,Fire Dispatch,Country Fire Authority,FM,R14VF Mt. Macedon (mdn),BM,167.9 PL,Public Safety,VHF,VLF300,Current Allocation,162.775
+IMC247,Fire Dispatch,Country Fire Authority,FM,Mt. Blackwood (blk). CFA IMC -Harrietville,BM,167.9 PL,Public Safety,VHF,VLF300,Current Allocation,163.200
+IMC248,Fire Dispatch,Country Fire Authority,FM,R14VF Werribee (wer),BM,167.9 PL,Public Safety,VHF,VLF300,Current Allocation,162.1875
+IMC249,Fire Dispatch,Country Fire Authority,FM,R14VF Kinglake (kin),BM,167.9 PL,Public Safety,VHF,VLF300,Current Allocation,163.5625
+CFA-V8-250,Fire-Tac,Country Fire Authority,FM,-,M,CSQ,Public Safety,VHF,VLF300,Current Allocation,148.1875
+251-D02A,Fire-Tac,Country Fire Authority,P25,,BM,40B NAC,Public Safety,VHF,,Current Allocation,161.100
+252-D02B,Fire-Tac,Country Fire Authority,P25,,BM,40B NAC,Public Safety,VHF,,Current Allocation,161.1875
+253-D02C,Fire-Tac,Country Fire Authority,P25,,BM,40B NAC,Public Safety,VHF,,Current Allocation,161.0875
+254-IMC,Fire-Tac,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.4625
+255-IMC,Fire-Tac,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.000
+256-D04A,Fire-Tac,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,161.1125
+257-D04B,Fire-Tac,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,160.9875
+258-D04C,Fire-Tac,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,161.0875
+259-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,165.125
+260-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.5125
+261-D05A,Fire-Tac,Country Fire Authority,P25,,BM,455 NAC,Public Safety,VHF,,Current Allocation,161.050
+262-D05B,Fire-Tac,Country Fire Authority,P25,,BM,455 NAC,Public Safety,VHF,,Current Allocation,161.0125
+263-D05C,Fire-Tac,Country Fire Authority,P25,,BM,455 NAC,Public Safety,VHF,,Current Allocation,161.0375
+264-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,165.100
+265-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.250
+266-D06A,Fire-Tac,Country Fire Authority,P25,,BM,47C NAC,Public Safety,VHF,,Current Allocation,161.1875
+267-D06B,Fire-Tac,Country Fire Authority,P25,,BM,47C NAC,Public Safety,VHF,,Current Allocation,161.0875
+268-D06C,Fire-Tac,Country Fire Authority,P25,,BM,47C NAC,Public Safety,VHF,,Current Allocation,161.000
+270-IMC,Fire-Tac,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.625
+272-D07A,Fire-Tac,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,160.9875
+273-D07B,Fire-Tac,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,161.125
+274-D07C,Fire-Tac,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,161.0125
+275-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.275
+276-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.100
+279-D08B,Fire-Tac,Country Fire Authority,P25,,BM,4F9 NAC,Public Safety,VHF,,Current Allocation,161.1875
+280-D08C,Fire-Tac,Country Fire Authority,P25,,BM,4F9 NAC,Public Safety,VHF,,Current Allocation,161.075
+281-D08D,Fire-Tac,Country Fire Authority,P25,,BM,4F9 NAC,Public Safety,VHF,,Current Allocation,161.000
+282-D08E,Fire-Tac,Country Fire Authority,P25,,BM,4F9 NAC,Public Safety,VHF,,Current Allocation,161.1375
+283-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.425
+284-D09A,Fire-Tac,Country Fire Authority,P25,,BM,526 NAC,Public Safety,VHF,,Current Allocation,161.1625
+285-D09B,Fire-Tac,Country Fire Authority,P25,,BM,526 NAC,Public Safety,VHF,,Current Allocation,161.0625
+286-D09C,Fire-Tac,Country Fire Authority,P25,,BM,526 NAC,Public Safety,VHF,,Current Allocation,161.025
+287-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.5625
+289-D10A,Fire-Tac,Country Fire Authority,P25,,BM,555 NAC,Public Safety,VHF,,Current Allocation,161.000
+290-D10B,Fire-Tac,Country Fire Authority,P25,,BM,555 NAC,Public Safety,VHF,,Current Allocation,160.9875
+291-D10C,Fire-Tac,Country Fire Authority,P25,,BM,555 NAC,Public Safety,VHF,,Current Allocation,161.0375
+292-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.325
+294-D11A,Fire-Tac,Country Fire Authority,P25,,BM,585 NAC,Public Safety,VHF,,Current Allocation,161.075
+295-D11B,Fire-Tac,Country Fire Authority,P25,,BM,585 NAC,Public Safety,VHF,,Current Allocation,161.025
+296-D11C,Fire-Tac,Country Fire Authority,P25,,BM,585 NAC,Public Safety,VHF,,Current Allocation,161.050
+297-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.9875
+298-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.0125
+299-D12A,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,161.0125
+300-D12B,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,161.225
+301-D12C,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,161.1375
+303-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.0875
+305-D13A,Fire-Tac,Country Fire Authority,P25,,BM,61F NAC,Public Safety,VHF,,Current Allocation,161.1125
+306-D13B,Fire-Tac,Country Fire Authority,P25,,BM,61F NAC,Public Safety,VHF,,Current Allocation,161.175
+307-D13C,Fire-Tac,Country Fire Authority,P25,,BM,61F NAC,Public Safety,VHF,,Current Allocation,161.200
+308-D13D,Fire-Tac,Country Fire Authority,P25,,BM,61F NAC,Public Safety,VHF,,Current Allocation,161.100
+310-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.3375
+312-D14A,Fire-Tac,Country Fire Authority,P25,,BM,656 NAC,Public Safety,VHF,,Current Allocation,161.0625
+313-D14B,Fire-Tac,Country Fire Authority,P25,,BM,656 NAC,Public Safety,VHF,,Current Allocation,161.150
+314-D14C,Fire-Tac,Country Fire Authority,P25,,BM,656 NAC,Public Safety,VHF,,Current Allocation,161.050
+315-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.3625
+316-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.3875
+317-D15A,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,161.025
+318-D15B,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,161.1625
+319-D15C,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,161.200
+320-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.400
+321-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.4125
+322-D16A,Fire-Tac,Country Fire Authority,P25,,BM,6CA NAC,Public Safety,VHF,,Current Allocation,161.075
+323-D16B,Fire-Tac,Country Fire Authority,P25,,BM,6CA NAC,Public Safety,VHF,,Current Allocation,161.1375
+324-D16C,Fire-Tac,Country Fire Authority,P25,,BM,6CA NAC,Public Safety,VHF,,Current Allocation,161.175
+326-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.500
+327-D17A,Fire-Tac,Country Fire Authority,P25,,BM,707 NAC,Public Safety,VHF,,Current Allocation,161.225
+328-D17B,Fire-Tac,Country Fire Authority,P25,,BM,707 NAC,Public Safety,VHF,,Current Allocation,161.150
+329-D17C,Fire-Tac,Country Fire Authority,P25,,BM,707 NAC,Public Safety,VHF,,Current Allocation,161.000
+330-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.6625
+331-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.725
+332-D18A,Fire-Tac,Country Fire Authority,P25,,BM,746 NAC,Public Safety,VHF,,Current Allocation,161.0125
+333-D18B,Fire-Tac,Country Fire Authority,P25,,BM,746 NAC,Public Safety,VHF,,Current Allocation,161.0375
+334-D18C,Fire-Tac,Country Fire Authority,P25,,BM,746 NAC,Public Safety,VHF,,Current Allocation,160.9875
+335-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.2875
+336-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.650
+337-D20A,Fire-Tac,Country Fire Authority,P25,,BM,788 NAC,Public Safety,VHF,,Current Allocation,161.125
+338-D20B,Fire-Tac,Country Fire Authority,P25,,BM,788 NAC,Public Safety,VHF,,Current Allocation,161.050
+339-D20C,Fire-Tac,Country Fire Authority,P25,,BM,788 NAC,Public Safety,VHF,,Current Allocation,161.025
+340-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.2625
+341-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.350
+342-D22A,Fire-Tac,Country Fire Authority,P25,,BM,7F3 NAC,Public Safety,VHF,,Current Allocation,161.150
+343-D22B,Fire-Tac,Country Fire Authority,P25,,BM,7F3 NAC,Public Safety,VHF,,Current Allocation,161.0375
+344-D22C,Fire-Tac,Country Fire Authority,P25,,BM,7F3 NAC,Public Safety,VHF,,Current Allocation,160.9875
+345-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.8625
+346-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,165.1625
+347-D23A,Fire-Tac,Country Fire Authority,P25,,BM,83B NAC,Public Safety,VHF,,Current Allocation,161.050
+348-D23B,Fire-Tac,Country Fire Authority,P25,,BM,83B NAC,Public Safety,VHF,,Current Allocation,161.1875
+349-D23C,Fire-Tac,Country Fire Authority,P25,,BM,83B NAC,Public Safety,VHF,,Current Allocation,161.075
+350-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,164.250
+351-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.2125
+352-D24A,Fire-Tac,Country Fire Authority,P25,,BM,885 NAC,Public Safety,VHF,,Current Allocation,161.125
+353-D24B,Fire-Tac,Country Fire Authority,P25,,BM,885 NAC,Public Safety,VHF,,Current Allocation,161.0125
+354-D24C,Fire-Tac,Country Fire Authority,P25,,BM,885 NAC,Public Safety,VHF,,Current Allocation,161.0875
+355-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.075
+356-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.4375
+357-AIR,Fire-Tac,Country Fire Authority,P25,,BM,F7E NAC,Public Safety,VHF,,Current Allocation,161.2125
+360-MFB,Fire-Tac,Country Fire Authority,P25,,BM,3B4 NAC,Public Safety,VHF,,Current Allocation,161.400
+361-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.1125
+365-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.3125
+367-VMR,Fire-Tac,Country Fire Authority,P25,,BM,F7E NAC,Public Safety,VHF,,Current Allocation,153.7125
+368-VMR,Fire-Tac,Country Fire Authority,P25,,BM,F7E NAC,Public Safety,VHF,,Current Allocation,153.750
+369-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.525
+370-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.6875
+371-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.275
+372-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,163.275
+374-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.375
+377-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.7375
+378-IBR,Fire-Tac,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,163.5125
+380-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.0375
+383-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,163.1125
+384-TR,Fire-Tac,Country Fire Authority,P25,,BM,526 NAC,Public Safety,VHF,,Current Allocation,162.200
+388-TR,Fire-Tac,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.5375
+390-TR,Fire-Tac,Country Fire Authority,P25,,BM,4CE NAC,Public Safety,VHF,,Current Allocation,162.2625
+392-TR,Fire-Tac,Country Fire Authority,P25,,BM,526 NAC,Public Safety,VHF,,Current Allocation,163.175
+394-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,4A4 NAC,Public Safety,VHF,,Current Allocation,162.600
+395-VMR,Fire-Tac,Country Fire Authority,P25,,BM,F7E NAC,Public Safety,VHF,,Current Allocation,153.225
+396-IBR,Fire-Tac,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,162.375
+397-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,656 NAC,Public Safety,VHF,,Current Allocation,163.600
+404-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,707 NAC,Public Safety,VHF,,Current Allocation,162.725
+405-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,707 NAC,Public Safety,VHF,,Current Allocation,162.4125
+408-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,746 NAC,Public Safety,VHF,,Current Allocation,163.375
+409-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,6CA NAC,Public Safety,VHF,,Current Allocation,163.525
+409-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,6CA NAC,Public Safety,VHF,,Current Allocation,163.525
+409-IMC,Fire Dispatch,Country Fire Authority,P25,,BM,6CA NAC,Public Safety,VHF,,Current Allocation,163.525
+498-VMR,Fire-Tac,Country Fire Authority,P25,,BM,F7E NAC,Public Safety,VHF,,Current Allocation,153.375
+499-VMR,Fire-Tac,Country Fire Authority,P25,,BM,F7E NAC,Public Safety,VHF,,Current Allocation,154.4125
+658-D27A,Fire-Tac,Country Fire Authority,P25,,BM,8D1 NAC,Public Safety,VHF,,Current Allocation,161.100
+659-D27B,Fire-Tac,Country Fire Authority,P25,,BM,8D1 NAC,Public Safety,VHF,,Current Allocation,161.175
+660-D27C,Fire-Tac,Country Fire Authority,P25,,BM,8D1 NAC,Public Safety,VHF,,Current Allocation,161.200
+661-PP-1,Fire-Tac,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,161.2625
+662-PP-2,Fire-Tac,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,161.375
+663-PP-3,Fire-Tac,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,161.3875
+664-NW-1,Fire-Tac,Country Fire Authority,P25,,BM,47C NAC,Public Safety,VHF,,Current Allocation,161.275
+665-NW-2,Fire-Tac,Country Fire Authority,P25,,BM,47C NAC,Public Safety,VHF,,Current Allocation,161.3875
+666-NW-3,Fire-Tac,Country Fire Authority,P25,,BM,47C NAC,Public Safety,VHF,,Current Allocation,161.2875
+667-SW-1,Fire-Tac,Country Fire Authority,P25,,BM,4CE NAC,Public Safety,VHF,,Current Allocation,161.375
+668-SW-2,Fire-Tac,Country Fire Authority,P25,,BM,4CE NAC,Public Safety,VHF,,Current Allocation,161.2875
+669-SW-3,Fire-Tac,Country Fire Authority,P25,,BM,4CE NAC,Public Safety,VHF,,Current Allocation,161.275
+670-NE-1,Fire-Tac,Country Fire Authority,P25,,BM,526 NAC,Public Safety,VHF,,Current Allocation,161.3875
+671-NE-2,Fire-Tac,Country Fire Authority,P25,,BM,526 NAC,Public Safety,VHF,,Current Allocation,161.2625
+672-NE-3,Fire-Tac,Country Fire Authority,P25,,BM,526 NAC,Public Safety,VHF,,Current Allocation,161.375
+673-GP-1,Fire-Tac,Country Fire Authority,P25,,BM,47C NAC,Public Safety,VHF,,Current Allocation,161.2875
+674-GP-2,Fire-Tac,Country Fire Authority,P25,,BM,47C NAC,Public Safety,VHF,,Current Allocation,161.375
+675-GP-3,Fire-Tac,Country Fire Authority,P25,,BM,47C NAC,Public Safety,VHF,,Current Allocation,161.275
+676-SP-1,Fire-Tac,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,161.300
+677-SP-2,Fire-Tac,Country Fire Authority,P25,,BM,47C NAC,Public Safety,VHF,,Current Allocation,161.300
+678-SP-3,Fire-Tac,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,161.3125
+679-SP-4,Fire-Tac,Country Fire Authority,P25,,BM,47C NAC,Public Safety,VHF,,Current Allocation,161.3125
+680-SP-5,Fire-Tac,Country Fire Authority,P25,,BM,4CE NAC,Public Safety,VHF,,Current Allocation,161.350
+681-SP-6,Fire-Tac,Country Fire Authority,P25,,BM,526 NAC,Public Safety,VHF,,Current Allocation,161.350
+682-SP-7,Fire-Tac,Country Fire Authority,P25,,BM,4CE NAC,Public Safety,VHF,,Current Allocation,161.4375
+683-SP-8,Fire-Tac,Country Fire Authority,P25,,BM,526 NAC,Public Safety,VHF,,Current Allocation,161.4375
+684-SP-9,Fire-Tac,Country Fire Authority,P25,,BM,585 NAC,Public Safety,VHF,,Current Allocation,161.425
+685-SP-10,Fire-Tac,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,161.425
+686-SP-11,Fire-Tac,Country Fire Authority,P25,,BM,430 NAC,Public Safety,VHF,,Current Allocation,161.325
+687-SP-12,Fire-Tac,Country Fire Authority,P25,,BM,47C NAC,Public Safety,VHF,,Current Allocation,161.3375
+688-SP-13,Fire-Tac,Country Fire Authority,P25,,BM,4CE NAC,Public Safety,VHF,,Current Allocation,161.3625
+689-SP-14,Fire-Tac,Country Fire Authority,P25,,BM,526 NAC,Public Safety,VHF,,Current Allocation,161.450
+690-SP-15,Fire-Tac,Country Fire Authority,P25,,BM,585 NAC,Public Safety,VHF,,Current Allocation,161.4125
+691-SP-a,Fire-Tac,Country Fire Authority,P25,,BM,83B NAC,Public Safety,VHF,,Current Allocation,162.2125
+692-SP-b,Fire-Tac,Country Fire Authority,P25,,BM,5EA NAC,Public Safety,VHF,,Current Allocation,162.2125
+693-SP-c,Fire-Tac,Country Fire Authority,P25,,BM,3E8 NAC,Public Safety,VHF,,Current Allocation,162.2125
+694-SP-d,Fire-Tac,Country Fire Authority,P25,,BM,83B NAC,Public Safety,VHF,,Current Allocation,162.175
+695-SP-e,Fire-Tac,Country Fire Authority,P25,,BM,5EA NAC,Public Safety,VHF,,Current Allocation,162.175
+696-SP-f,Fire-Tac,Country Fire Authority,P25,,BM,3E8 NAC,Public Safety,VHF,,Current Allocation,162.175
+697-SP-g,Fire-Tac,Country Fire Authority,P25,,BM,83B NAC,Public Safety,VHF,,Current Allocation,162.0625
+698-SP-h,Fire-Tac,Country Fire Authority,P25,,BM,5EA NAC,Public Safety,VHF,,Current Allocation,162.0625
+699-SP-i,Fire-Tac,Country Fire Authority,P25,,BM,3E8 NAC,Public Safety,VHF,,Current Allocation,162.0625
+700-SP-j,Fire-Tac,Country Fire Authority,P25,,BM,83B NAC,Public Safety,VHF,,Current Allocation,162.475
+701-SP-k,Fire-Tac,Country Fire Authority,P25,,BM,5EA NAC,Public Safety,VHF,,Current Allocation,162.475
+702-SP-l,Fire-Tac,Country Fire Authority,P25,,BM,3E8 NAC,Public Safety,VHF,,Current Allocation,162.475
+703-SP-m,Fire-Tac,Country Fire Authority,P25,,BM,83B NAC,Public Safety,VHF,,Current Allocation,163.8125
+704-SP-n,Fire-Tac,Country Fire Authority,P25,,BM,5EA NAC,Public Safety,VHF,,Current Allocation,163.8125
+705-SP-o,Fire-Tac,Country Fire Authority,P25,,BM,3E8 NAC,Public Safety,VHF,,Current Allocation,163.8125
+706-SP-p,Fire-Tac,Country Fire Authority,P25,,BM,83B NAC,Public Safety,VHF,,Current Allocation,163.5875
+707-SP-q,Fire-Tac,Country Fire Authority,P25,,BM,5EA NAC,Public Safety,VHF,,Current Allocation,163.5875
+708-SP-r,Fire-Tac,Country Fire Authority,P25,,BM,3E8 NAC,Public Safety,VHF,,Current Allocation,163.5875
+709-SP-s,Fire-Tac,Country Fire Authority,P25,,BM,83B NAC,Public Safety,VHF,,Current Allocation,163.4875
+710-SP-t,Fire-Tac,Country Fire Authority,P25,,BM,5EA NAC,Public Safety,VHF,,Current Allocation,163.4875
+711-SP-u,Fire-Tac,Country Fire Authority,P25,,BM,3E8 NAC,Public Safety,VHF,,Current Allocation,163.4875
+712-SP-v,Fire-Tac,Country Fire Authority,P25,,BM,83B NAC,Public Safety,VHF,,Current Allocation,165.0375
+713-SP-w,Fire-Tac,Country Fire Authority,P25,,BM,5EA NAC,Public Safety,VHF,,Current Allocation,165.0375
+714-SP-x,Fire-Tac,Country Fire Authority,P25,,BM,3E8 NAC,Public Safety,VHF,,Current Allocation,165.0375
+715-IC 21a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,163.0625
+716-IC 3a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.2375
+717-IC 8a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.175
+718-IC 2a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.2625
+719-IC 17a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.0625
+720-IC 6a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.200
+721-IC 23a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,163.7875
+722-IC 22a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,162.8125
+723-IC 10a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.150
+724-IC 1a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.275
+725-IC 11a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.1375
+726-IC 7a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.1875
+727-IC 15a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.0875
+728-IC 5a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.2125
+729-IC 8b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.175
+730-IC 3b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.2375
+731-IC 19a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,163.1875
+732-IC 12a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.125
+733-IC 15b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.0875
+734-IC 8c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.175
+735-IC 12b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.125
+736-IC 13a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.1125
+737-IC 5b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.2125
+738-IC 7b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.1875
+739-IC 16a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.075
+740-IC 6b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.200
+741-IC 17b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.0625
+742-IC 14a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.100
+743-IC 16b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.075
+744-IC 16c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.075
+745-IC 14b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.100
+746-IC 10b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.150
+747-IC 3c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.2375
+748-IC 2b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.2625
+749-IC 7c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.1875
+750-IC 4a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.225
+751-IC 6c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.200
+752-IC 22b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,162.8125
+753-IC 14c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.100
+754-IC 1b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.275
+755-IC 4b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.225
+756-IC 4a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,163.025
+757-IC 4c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.225
+758-IC 6d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.200
+759-IC 3d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.2375
+760-IC 13b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.1125
+761-IC 24b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,163.025
+762-IC 11b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.1375
+763-IC 18a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,163.625
+764-IC 8d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.175
+765-IC 16d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.075
+766-IC 10c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.150
+767-IC 23b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,163.7875
+768-IC 13c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.1125
+769-IC 5c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.2125
+770-IC 6e,Fire-Tac,Country Fire Authority,P25,,BM,6B1 NAC,Public Safety,VHF,,Current Allocation,164.200
+771-IC 3e,Fire-Tac,Country Fire Authority,P25,,BM,6B1 NAC,Public Safety,VHF,,Current Allocation,164.2375
+772-IC 4d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.225
+773-IC 12c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.125
+774-IC 9a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,164.1625
+775-IC 2c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.2625
+776-IC 10d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.150
+777-IC 14d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.100
+778-IC 5d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.2125
+779-IC 8e,Fire-Tac,Country Fire Authority,P25,,BM,6B1 NAC,Public Safety,VHF,,Current Allocation,164.175
+780-IC 7d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.1875
+781-IC 10e,Fire-Tac,Country Fire Authority,P25,,BM,6B1 NAC,Public Safety,VHF,,Current Allocation,164.150
+782-IC 12d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.125
+783-IC 2d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.2625
+784-IC 6f,Fire-Tac,Country Fire Authority,P25,,BM,72B NAC,Public Safety,VHF,,Current Allocation,164.200
+785-IC 14e,Fire-Tac,Country Fire Authority,P25,,BM,6B1 NAC,Public Safety,VHF,,Current Allocation,164.100
+786-IC 21b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,163.0625
+787-IC 5e,Fire-Tac,Country Fire Authority,P25,,BM,6B1 NAC,Public Safety,VHF,,Current Allocation,164.2125
+788-IC 1c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.275
+789-IC 12e,Fire-Tac,Country Fire Authority,P25,,BM,6B1 NAC,Public Safety,VHF,,Current Allocation,164.125
+790-IC 21c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,163.0625
+791-IC 18b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,163.625
+792-IC 7e,Fire-Tac,Country Fire Authority,P25,,BM,6B1 NAC,Public Safety,VHF,,Current Allocation,164.1875
+793-IC 13d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.1125
+794-IC 11c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.1375
+795-IC 3f,Fire-Tac,Country Fire Authority,P25,,BM,72B NAC,Public Safety,VHF,,Current Allocation,164.2375
+796-IC 5f,Fire-Tac,Country Fire Authority,P25,,BM,72B NAC,Public Safety,VHF,,Current Allocation,164.2125
+797-IC 19b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,163.1875
+798-IC 14f,Fire-Tac,Country Fire Authority,P25,,BM,72B NAC,Public Safety,VHF,,Current Allocation,164.100
+799-IC 2e,Fire-Tac,Country Fire Authority,P25,,BM,6B1 NAC,Public Safety,VHF,,Current Allocation,164.2625
+800-IC 9b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,164.1625
+801-IC 15c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.0875
+802-IC 17c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.0625
+803-IC 22c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,162.8125
+804-IC 20a,Fire-Tac,Country Fire Authority,P25,,BM,8F3 NAC,Public Safety,VHF,,Current Allocation,163.075
+805-IC 20b,Fire-Tac,Country Fire Authority,P25,,BM,5B6 NAC,Public Safety,VHF,,Current Allocation,163.0625
+806-IC 20c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,163.0625
+807-IC 20d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,163.0625
+808-IC 22d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,162.8125
+809-IC 24c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,163.025
+810-IC 24d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,163.025
+811-IC 21d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,163.0625
+812-IC 19c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,163.1875
+813-IC 19d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,163.1875
+814-IC 18c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,163.625
+815-IC 18d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,163.625
+816-IC 23c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,163.7875
+817-IC 17d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.0625
+818-IC 15d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.0875
+819-IC 13e,Fire-Tac,Country Fire Authority,P25,,BM,6B1 NAC,Public Safety,VHF,,Current Allocation,164.1125
+820-IC 11d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.1375
+821-IC 9c,Fire-Tac,Country Fire Authority,P25,,BM,63E NAC,Public Safety,VHF,,Current Allocation,164.1625
+822-IC 9d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.1625
+823-IC 9e,Fire-Tac,Country Fire Authority,P25,,BM,6B1 NAC,Public Safety,VHF,,Current Allocation,164.1625
+824-IC 4e,Fire-Tac,Country Fire Authority,P25,,BM,6B1 NAC,Public Safety,VHF,,Current Allocation,164.225
+825-IC 1d,Fire-Tac,Country Fire Authority,P25,,BM,68F NAC,Public Safety,VHF,,Current Allocation,164.275
+826-FLRE,Fire-Tac,Country Fire Authority,P25,,BM,920 NAC,Public Safety,VHF,,Current Allocation,163.5875
+827-FLRE,Fire-Tac,Country Fire Authority,P25,,BM,920 NAC,Public Safety,VHF,,Current Allocation,163.8125
+828-FLRE,Fire-Tac,Country Fire Authority,P25,,BM,920 NAC,Public Safety,VHF,,Current Allocation,163.4875
+829-FLRE,Fire-Tac,Country Fire Authority,P25,,BM,885 NAC,Public Safety,VHF,,Current Allocation,163.5875
+830-FLRE,Fire-Tac,Country Fire Authority,P25,,BM,885 NAC,Public Safety,VHF,,Current Allocation,163.8125
+831-PP-1,Fire-Tac,Country Fire Authority,FMN,,BM,107.2 PL,Public Safety,VHF,,Current Allocation,161.2625
+832-PP-2,Fire-Tac,Country Fire Authority,FMN,,BM,107.2 PL,Public Safety,VHF,,Current Allocation,161.375
+833-PP-3,Fire-Tac,Country Fire Authority,FMN,,BM,107.2 PL,Public Safety,VHF,,Current Allocation,161.3875
+834-NW-1,Fire-Tac,Country Fire Authority,FMN,,BM,114.8 PL,Public Safety,VHF,,Current Allocation,161.275
+835-NW-2,Fire-Tac,Country Fire Authority,FMN,,BM,114.8 PL,Public Safety,VHF,,Current Allocation,161.3875
+836-NW-3,Fire-Tac,Country Fire Authority,FMN,,BM,114.8 PL,Public Safety,VHF,,Current Allocation,161.2875
+837-SW-1,Fire-Tac,Country Fire Authority,FMN,,BM,123.0 PL,Public Safety,VHF,,Current Allocation,161.375
+838-SW-2,Fire-Tac,Country Fire Authority,FMN,,BM,123.0 PL,Public Safety,VHF,,Current Allocation,161.2875
+839-SW-3,Fire-Tac,Country Fire Authority,FMN,,BM,123.0 PL,Public Safety,VHF,,Current Allocation,161.275
+840-NE-1,Fire-Tac,Country Fire Authority,FMN,,BM,131.8 PL,Public Safety,VHF,,Current Allocation,161.3875
+841-NE-2,Fire-Tac,Country Fire Authority,FMN,,BM,131.8 PL,Public Safety,VHF,,Current Allocation,161.2625
+842-NE-3,Fire-Tac,Country Fire Authority,FMN,,BM,131.8 PL,Public Safety,VHF,,Current Allocation,161.375
+843-GP-1,Fire-Tac,Country Fire Authority,FMN,,BM,141.3 PL,Public Safety,VHF,,Current Allocation,161.2875
+844-GP-2,Fire-Tac,Country Fire Authority,FMN,,BM,141.3 PL,Public Safety,VHF,,Current Allocation,161.375
+845-GP-3,Fire-Tac,Country Fire Authority,FMN,,BM,141.3 PL,Public Safety,VHF,,Current Allocation,161.275
+846-SP-1,Fire-Tac,Country Fire Authority,FMN,,BM,107.2 PL,Public Safety,VHF,,Current Allocation,161.300
+847-SP-2,Fire-Tac,Country Fire Authority,FMN,,BM,114.8 PL,Public Safety,VHF,,Current Allocation,161.300
+848-SP-3,Fire-Tac,Country Fire Authority,FMN,,BM,107.2 PL,Public Safety,VHF,,Current Allocation,161.3125
+849-SP-4,Fire-Tac,Country Fire Authority,FMN,,BM,114.8 PL,Public Safety,VHF,,Current Allocation,161.3125
+850-SP-5,Fire-Tac,Country Fire Authority,FMN,,BM,123.0 PL,Public Safety,VHF,,Current Allocation,161.350
+851-SP-6,Fire-Tac,Country Fire Authority,FMN,,BM,131.8 PL,Public Safety,VHF,,Current Allocation,161.350
+852-SP-7,Fire-Tac,Country Fire Authority,FMN,,BM,123.0 PL,Public Safety,VHF,,Current Allocation,161.4375
+853-SP-8,Fire-Tac,Country Fire Authority,FMN,,BM,131.8 PL,Public Safety,VHF,,Current Allocation,161.4375
+854-SP-9,Fire-Tac,Country Fire Authority,FMN,,BM,141.3 PL,Public Safety,VHF,,Current Allocation,161.425
+855-SP-10,Fire-Tac,Country Fire Authority,FMN,,BM,107.2 PL,Public Safety,VHF,,Current Allocation,161.425
+856-SP-11,Fire-Tac,Country Fire Authority,FMN,,BM,107.2 PL,Public Safety,VHF,,Current Allocation,161.325
+857-SP-12,Fire-Tac,Country Fire Authority,FMN,,BM,114.8 PL,Public Safety,VHF,,Current Allocation,161.3375
+858-SP-13,Fire-Tac,Country Fire Authority,FMN,,BM,123.0 PL,Public Safety,VHF,,Current Allocation,161.3625
+859-SP-14,Fire-Tac,Country Fire Authority,FMN,,BM,131.8 PL,Public Safety,VHF,,Current Allocation,161.450
+860-SP-15,Fire-Tac,Country Fire Authority,FMN,,BM,141.3 PL,Public Safety,VHF,,Current Allocation,161.4125
+861-SP-a,Fire-Tac,Country Fire Authority,FMN,,BM,210.7 PL,Public Safety,VHF,,Current Allocation,162.2125
+862-SP-b,Fire-Tac,Country Fire Authority,FMN,,BM,151.4 PL,Public Safety,VHF,,Current Allocation,162.2125
+863-SP-c,Fire-Tac,Country Fire Authority,FMN,,BM,100.0 PL,Public Safety,VHF,,Current Allocation,162.2125
+864-SP-d,Fire-Tac,Country Fire Authority,FMN,,BM,210.7 PL,Public Safety,VHF,,Current Allocation,162.175
+865-SP-e,Fire-Tac,Country Fire Authority,FMN,,BM,151.4 PL,Public Safety,VHF,,Current Allocation,162.175
+866-SP-f,Fire-Tac,Country Fire Authority,FMN,,BM,100.0 PL,Public Safety,VHF,,Current Allocation,162.175
+867-SP-g,Fire-Tac,Country Fire Authority,FMN,,BM,210.7 PL,Public Safety,VHF,,Current Allocation,162.0625
+868-SP-h,Fire-Tac,Country Fire Authority,FMN,,BM,151.4 PL,Public Safety,VHF,,Current Allocation,162.0625
+869-SP-i,Fire-Tac,Country Fire Authority,FMN,,BM,100.0 PL,Public Safety,VHF,,Current Allocation,162.0625
+870-SP-j,Fire-Tac,Country Fire Authority,FMN,,BM,210.7 PL,Public Safety,VHF,,Current Allocation,162.475
+871-SP-k,Fire-Tac,Country Fire Authority,FMN,,BM,151.4 PL,Public Safety,VHF,,Current Allocation,162.475
+872-SP-l,Fire-Tac,Country Fire Authority,FMN,,BM,100.0 PL,Public Safety,VHF,,Current Allocation,162.475
+873-SP-m,Fire-Tac,Country Fire Authority,FMN,,BM,210.7 PL,Public Safety,VHF,,Current Allocation,163.8125
+874-SP-n,Fire-Tac,Country Fire Authority,FMN,,BM,151.4 PL,Public Safety,VHF,,Current Allocation,163.8125
+875-SP-o,Fire-Tac,Country Fire Authority,FMN,,BM,100.0 PL,Public Safety,VHF,,Current Allocation,163.8125
+876-SP-p,Fire-Tac,Country Fire Authority,FMN,,BM,210.7 PL,Public Safety,VHF,,Current Allocation,163.5875
+877-SP-q,Fire-Tac,Country Fire Authority,FMN,,BM,151.4 PL,Public Safety,VHF,,Current Allocation,163.5875
+878-SP-r,Fire-Tac,Country Fire Authority,FMN,,BM,100.0 PL,Public Safety,VHF,,Current Allocation,163.5875
+879-SP-s,Fire-Tac,Country Fire Authority,FMN,,BM,210.7 PL,Public Safety,VHF,,Current Allocation,163.4875
+880-SP-t,Fire-Tac,Country Fire Authority,FMN,,BM,151.4 PL,Public Safety,VHF,,Current Allocation,163.4875
+881-SP-u,Fire-Tac,Country Fire Authority,FMN,,BM,100.0 PL,Public Safety,VHF,,Current Allocation,163.4875
+882-SP-v,Fire-Tac,Country Fire Authority,FMN,,BM,210.7 PL,Public Safety,VHF,,Current Allocation,165.0375
+883-SP-w,Fire-Tac,Country Fire Authority,FMN,,BM,151.4 PL,Public Safety,VHF,,Current Allocation,165.0375
+884-SP-x,Fire-Tac,Country Fire Authority,FMN,,BM,100.0 PL,Public Safety,VHF,,Current Allocation,165.0375
+885-IC 21a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,163.0625
+886-IC 3a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.2375
+887-IC 8a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.175
+888-IC 2a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.2625
+889-IC 17a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.0625
+890-IC 6a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.200
+891-IC 23a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,163.7875
+892-IC 22a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,162.8125
+893-IC 10a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.150
+894-IC 1a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.275
+895-IC 11a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.1375
+896-IC 7a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.1875
+897-IC 15a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.0875
+898-IC 5a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.2125
+899-IC 8b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.175
+900-IC 3b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.2375
+901-IC 19a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,163.1875
+902-IC 12a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.125
+903-IC 15b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.0875
+904-IC 8c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.175
+905-IC 12b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.125
+906-IC 13a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.1125
+907-IC 5b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.2125
+908-IC 7b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.1875
+909-IC 16a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.075
+910-IC 6b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.200
+911-IC 17b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.0625
+912-IC 14a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.100
+913-IC 16b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.075
+914-IC 16c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.075
+915-IC 14b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.100
+916-IC 10b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.150
+917-IC 3c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.2375
+918-IC 2b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.2625
+919-IC 7c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.1875
+920-IC 4a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.225
+921-IC 6c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.200
+922-IC 22b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,162.8125
+923-IC 14c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.100
+924-IC 1b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.275
+925-IC 4b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.225
+926-IC 24a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,163.025
+927-IC 4c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.225
+928-IC 6d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.200
+929-IC 3d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.2375
+930-IC 13b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.1125
+931-IC 24b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,163.025
+932-IC 11b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.1375
+933-IC 18a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,163.625
+934-IC 8d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.175
+935-IC 16d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.075
+936-IC 10c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.150
+937-IC 23b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,163.7875
+938-IC 13c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.1125
+939-IC 5c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.2125
+940-IC 6e,Fire-Tac,Country Fire Authority,FMN,,BM,171.3 PL,Public Safety,VHF,,Current Allocation,164.200
+941-IC 3e,Fire-Tac,Country Fire Authority,FMN,,BM,171.3 PL,Public Safety,VHF,,Current Allocation,164.2375
+942-IC 4d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.225
+943-IC 12c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.125
+944-IC 9a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,164.1625
+945-IC 2c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.2625
+946-IC 10d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.150
+947-IC 14d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.100
+948-IC 5d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.2125
+949-IC 8e,Fire-Tac,Country Fire Authority,FMN,,BM,171.3 PL,Public Safety,VHF,,Current Allocation,164.175
+950-IC 7d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.1875
+951-IC 10e,Fire-Tac,Country Fire Authority,FMN,,BM,171.3 PL,Public Safety,VHF,,Current Allocation,164.150
+952-IC 12d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.125
+953-IC 2d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.2625
+954-IC 6f,Fire-Tac,Country Fire Authority,FMN,,BM,183.5 PL,Public Safety,VHF,,Current Allocation,164.200
+955-IC 14e,Fire-Tac,Country Fire Authority,FMN,,BM,171.3 PL,Public Safety,VHF,,Current Allocation,164.100
+956-IC 21b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,163.0625
+957-IC 5e,Fire-Tac,Country Fire Authority,FMN,,BM,171.3 PL,Public Safety,VHF,,Current Allocation,164.2125
+958-IC 1c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.275
+959-IC 12e,Fire-Tac,Country Fire Authority,FMN,,BM,171.3 PL,Public Safety,VHF,,Current Allocation,164.125
+960-IC 21c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,163.0625
+961-IC 18b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,163.625
+962-IC 7e,Fire-Tac,Country Fire Authority,FMN,,BM,171.3 PL,Public Safety,VHF,,Current Allocation,164.1875
+963-IC 13d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.1125
+964-IC 11c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.1375
+965-IC 3f,Fire-Tac,Country Fire Authority,FMN,,BM,183.5 PL,Public Safety,VHF,,Current Allocation,164.2375
+966-IC 5f,Fire-Tac,Country Fire Authority,FMN,,BM,183.5 PL,Public Safety,VHF,,Current Allocation,164.2125
+967-IC 19b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,163.1875
+968-IC 14f,Fire-Tac,Country Fire Authority,FMN,,BM,183.5 PL,Public Safety,VHF,,Current Allocation,164.100
+969-IC 2e,Fire-Tac,Country Fire Authority,FMN,,BM,171.3 PL,Public Safety,VHF,,Current Allocation,164.2625
+970-IC 9b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,164.1625
+971-IC 15c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.0875
+972-IC 17c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.0625
+973-IC 22c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,162.8125
+974-IC 20a,Fire-Tac,Country Fire Authority,FMN,,BM,229.1 PL,Public Safety,VHF,,Current Allocation,163.075
+975-IC 20b,Fire-Tac,Country Fire Authority,FMN,,BM,146.2 PL,Public Safety,VHF,,Current Allocation,163.0625
+976-IC 20c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,163.0625
+977-IC 20d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,163.0625
+978-IC 22d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,162.8125
+979-IC 24c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,163.025
+980-IC 24d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,163.025
+981-IC 21d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,163.0625
+982-IC 19c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,163.1875
+983-IC 19d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,163.1875
+984-IC 18c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,163.625
+985-IC 18d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,163.625
+986-IC 23c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,163.7875
+987-IC 17d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.0625
+988-IC 15d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.0875
+989-IC 13e,Fire-Tac,Country Fire Authority,FMN,,BM,171.3 PL,Public Safety,VHF,,Current Allocation,164.1125
+990-IC 11d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.1375
+991-IC 9c,Fire-Tac,Country Fire Authority,FMN,,BM,159.8 PL,Public Safety,VHF,,Current Allocation,164.1625
+992-IC 9d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.1625
+993-IC 9e,Fire-Tac,Country Fire Authority,FMN,,BM,171.3 PL,Public Safety,VHF,,Current Allocation,164.1625
+994-IC 4e,Fire-Tac,Country Fire Authority,FMN,,BM,171.3 PL,Public Safety,VHF,,Current Allocation,164.225
+995-IC 1d,Fire-Tac,Country Fire Authority,FMN,,BM,167.9 PL,Public Safety,VHF,,Current Allocation,164.275
+996-FLRE,Fire-Tac,Country Fire Authority,FMN,,BM,233.6 PL,Public Safety,VHF,,Current Allocation,163.5875
+997-FLRE,Fire-Tac,Country Fire Authority,FMN,,BM,233.6 PL,Public Safety,VHF,,Current Allocation,163.8125
+998-FLRE,Fire-Tac,Country Fire Authority,FMN,,BM,233.6 PL,Public Safety,VHF,,Current Allocation,163.4875
+999-FLRE,Fire-Tac,Country Fire Authority,FMN,,BM,218.1 PL,Public Safety,VHF,,Current Allocation,163.5875
+Air Force,Aircraft,Department of Defence,FM,Department of Defence,,CSQ,Military,Air Force,AXAA,Statewide,126.200
+BarwonPrison,Corrections,Department of Justice,FM,Barwon Prison,R,123.0 PL,Public Safety,Corrections Victoria,VL3SS,Current Allocation,486.175
+MDT Job Disp,Data,Melbourne Taxi Cab Service,FM,MDT Job Dispatcher,F,CSQ,Business Group,Burwood,VH3HNC,Statewide Allocation,486.675
+MDT Job Disp,Data,Melbourne Taxi Cab Service,FM,MDT Job Dispatcher,F,CSQ,Business Group,Burwood,VKV384,Statewide Allocation,488.925
+Mt. Holden,Data,SPI Networks (Gas),FM,Mt. Holden,F,CSQ,Utility,Victorian Frequencies,VZ3GS,Current Allocation,492.750
+Ceres,Data,SPI Networks (Gas),FM,Ceres,F,CSQ,Utility,Victorian Frequencies,VZ3GS,Current Allocation,492.775
+Ferny Creek,Data,SPI Networks (Gas),FM,Ferny Creek,F,CSQ,Utility,Victorian Frequencies,VZ3GS,Current Allocation,493.275
+Mt Buninyong,Data,SPI Networks (Gas),FM,Mt. Buninyong,F,CSQ,Utility,Victorian Frequencies,VZ3GS,Current Allocation,493.350
+MelborneCity,Data,SPI Networks (Gas),FM,Melbourne City,F,CSQ,Utility,Victorian Frequencies,VZ3GS,Current Allocation,493.725
+Arthurs Seat,Data,SPI Networks (Gas),FM,Arthurs Seat,F,CSQ,Utility,Victorian Frequencies,VZ3GS,Current Allocation,493.800
+MDT Job Dis,Data,Silver Top Taxi Service,FM,MDT Job Dispatcher,F,CSQ,Business Group,Carlton,VH3KF,Statewide Allocation,488.725
+SJAA CH 1,Emergency Ops,St John Ambulance,FM,SJAA CH 1,RM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,470.150
+SJAA CH 3,Emergency Ops,St John Ambulance,FM,SJAA CH 3,RM,107.2 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,465.9875
+SJAA CH 2,Emergency Ops,St John Ambulance,FM,SJAA CH 2,RM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,470.400
+SJAA CH 4,Emergency Ops,St John Ambulance,FM,SJAA CH 4,RM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,470.975
+SJAA CH 5,Emergency Ops,St John Ambulance,FM,SJAA CH 5,RM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,470.000
+SJAA CH 6,Emergency Ops,St John Ambulance,FM,SJAA CH 6,RM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,419.9625
+SJAA CH 7,Emergency Ops,St John Ambulance,FM,SJAA CH 7,RM,107.2 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,463.575
+SJAA CH 8,Emergency Ops,St John Ambulance,FM,SJAA CH 8,RM,107.2 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,462.850
+SJAA CH 9,Emergency Ops,St John Ambulance,FM,SJAA CH 9,RM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,419.875
+SJAA CH 10,Emergency Ops,St John Ambulance,FM,SJAA CH 10,RM,107.2 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,472.925
+SJAA CH 11,Emergency Ops,St John Ambulance,FMN,SJAA CH 11,BM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,470.150
+SJAA CH 12,Emergency Ops,St John Ambulance,FMN,SJAA CH 12,BM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,470.400
+SJAA CH 13,Emergency Ops,St John Ambulance,FMN,SJAA CH 13,BM,107.2 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,465.9875
+SJAA CH 14,Emergency Ops,St John Ambulance,FMN,SJAA CH 14,BM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,470.975
+SJAA CH 15,Emergency Ops,St John Ambulance,FMN,SJAA CH 15,BM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,470.000
+SJAA CH 16,Emergency Ops,St John Ambulance,FMN,SJAA CH 16,BM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,419.9625
+SJAA CH 17,Emergency Ops,St John Ambulance,FMN,SJAA CH 17,BM,107.2 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,463.575
+SJAA CH 18,Emergency Ops,St John Ambulance,FMN,SJAA CH 18,BM,107.2 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,462.850
+SJAA CH 19,Emergency Ops,St John Ambulance,FMN,SJAA CH 19,BM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,419.875
+SJAA CH 20,Emergency Ops,St John Ambulance,FMN,SJAA CH 20,BM,107.2 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,472.925
+SJAA CH 21,Emergency Ops,St John Ambulance,FMN,SJAA CH 21,BM,107.2 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,411.400
+SJAA CH 22,Emergency Ops,St John Ambulance,FMN,SJAA CH 22,BM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,412.100
+SJAA CH 23,Emergency Ops,St John Ambulance,FMN,SJAA CH 23,BM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,469.525
+SJAA CH 24,Emergency Ops,St John Ambulance,FMN,SJAA CH 24,BM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,462.0375
+SJAA CH 25,Emergency Ops,St John Ambulance,FMN,SJAA CH 25,BM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,472.150
+SJAA CH 26,Emergency Ops,St John Ambulance,FMN,SJAA CH 26,BM,114.8 PL,Public Safety,Victorian Frequencies,VM3SJ,Current Allocation,472.200
+CH 66,Railroad,VicTrack,FM,CRT Group - Shunting,M,107.2 PL,Railroad,Altona North,VZ3RS,Statewide Allocation,411.350

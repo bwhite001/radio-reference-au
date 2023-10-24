@@ -1,0 +1,22 @@
+alpha tag,tag,entity,mode,description,type,tone,entity_type,group,license,category,frequency
+BA Alpha - 200,Fire-Tac,"Department of Fire, Emergency Services",FMN,BA Alpha - 200,M,,Public Safety,UHF Command,,DFES,467.9875
+BA Bravo - 2,Fire-Tac,"Department of Fire, Emergency Services",FMN,BA Bravo - 201,M,,Public Safety,UHF Command,,DFES,457.9875
+BA Charlie - 202,Fire-Tac,"Department of Fire, Emergency Services",FMN,BA Charlie - 202,M,,Public Safety,UHF Command,,DFES,457.7375
+BA Delta - 203,Fire-Tac,"Department of Fire, Emergency Services",FMN,BA Delta - 203,M,,Public Safety,UHF Command,,DFES,467.7375
+BACO - 204,Fire-Tac,"Department of Fire, Emergency Services",FMN,BACO - 204,M,,Public Safety,UHF Command,,DFES,457.7875
+CBD Rptr 1 - 207,Fire-Tac,"Department of Fire, Emergency Services",FMN,CBD Repeater 1 - 207,M,,Public Safety,UHF Command,,DFES,469.4875
+CBD Rptr 2 - 208,Fire-Tac,"Department of Fire, Emergency Services",FMN,CBD Repeater 2 - 208,M,,Public Safety,UHF Command,,DFES,467.9375
+Command 1 - 205,Fire-Tac,"Department of Fire, Emergency Services",FMN,Command 1 - 205,M,,Public Safety,UHF Command,,DFES,467.7875
+Command 206,Fire-Tac,"Department of Fire, Emergency Services",FMN,Command 2 - 206,M,,Public Safety,UHF Command,,DFES,467.7125
+Emerg Svcs C 220,Fire-Tac,"Department of Fire, Emergency Services",FMN,Emergency Services C - 220,M,,Public Safety,UHF Command,,DFES,469.4375
+Emerg Svcs D 221,Fire-Tac,"Department of Fire, Emergency Services",FMN,Emergency Services D - 221,M,,Public Safety,UHF Command,,DFES,469.450
+Tunnel Exter 210,Fire-Tac,"Department of Fire, Emergency Services",FMN,Tunnel External - 210,M,,Public Safety,UHF Command,,DFES,469.5125
+Tunnel Inter 209,Fire-Tac,"Department of Fire, Emergency Services",FMN,Tunnel Internal - 209,M,,Public Safety,UHF Command,,DFES,467.6375
+UHF Simplex 1,Fire-Tac,"Department of Fire, Emergency Services",FMN,UHF Simplex 1 - 211,M,,Public Safety,UHF Command,,DFES,467.575
+UHF Simplex 2,Fire-Tac,"Department of Fire, Emergency Services",FMN,UHF Simplex 2 - 212,M,,Public Safety,UHF Command,,DFES,457.5875
+UHF Simplex 3,Fire-Tac,"Department of Fire, Emergency Services",FMN,UHF Simplex 3 - 213,M,,Public Safety,UHF Command,,DFES,467.5875
+UHF Simplex 4,Fire-Tac,"Department of Fire, Emergency Services",FMN,UHF Simplex 4 - 214,M,,Public Safety,UHF Command,,DFES,457.6875
+UHF Simplex 5,Fire-Tac,"Department of Fire, Emergency Services",FMN,UHF Simplex 5 - 215,M,,Public Safety,UHF Command,,DFES,467.6875
+UHF Simplex 6,Fire-Tac,"Department of Fire, Emergency Services",FMN,UHF Simplex 6 - 216,M,,Public Safety,UHF Command,,DFES,457.7125
+UHF Simplex 7,Fire-Tac,"Department of Fire, Emergency Services",FMN,UHF Simplex 7 - 217,M,,Public Safety,UHF Command,,DFES,457.575
+Firetower,Military,RAAF,AM,Firetower,BM,,Military,all,,Royal Australian Air Force,398.475

@@ -1,0 +1,104 @@
+alpha tag,tag,entity,mode,description,type,tone,entity_type,group,license,category,frequency
+VHF 01,Fire-Tac,Country Fire Service,FM,VHF 01,,103.5 PL,Public Safety,VHF Fireground,,SA CFS,161.100
+VHF 02,Fire-Tac,Country Fire Service,FM,VHF 02,,103.5 PL,Public Safety,VHF Fireground,,SA CFS,161.1875
+VHF 03,Fire-Tac,Country Fire Service,FM,VHF 03,,103.5 PL,Public Safety,VHF Fireground,,SA CFS,161.0875
+VHF 06,Fire-Tac,Country Fire Service,FM,VHF 06,,107.2 PL,Public Safety,VHF Fireground,,SA CFS,161.1125
+VHF 07,Fire-Tac,Country Fire Service,FM,VHF 07,,107.2 PL,Public Safety,VHF Fireground,,SA CFS,160.9875
+VHF 08,Fire-Tac,Country Fire Service,FM,VHF 08,,107.2 PL,Public Safety,VHF Fireground,,SA CFS,161.0875
+VHF 102,Fire-Tac,Country Fire Service,FM,VHF 102,,218.1 PL,Public Safety,VHF Fireground,,SA CFS,161.125
+VHF 103,Fire-Tac,Country Fire Service,FM,VHF 103,,218.1 PL,Public Safety,VHF Fireground,,SA CFS,161.0125
+VHF 104,Fire-Tac,Country Fire Service,FM,VHF 104,,218.1 PL,Public Safety,VHF Fireground,,SA CFS,161.0875
+VHF 107,Fire-Tac,Country Fire Service,FM,VHF 107,,CSQ,Public Safety,VHF Fireground,,SA CFS,161.2125
+VHF 108,Fire-Tac,Country Fire Service,FM,VHF 108,,CSQ,Public Safety,VHF Fireground,,SA CFS,161.175
+VHF 109,Fire-Tac,Country Fire Service,FM,VHF 109,,CSQ,Public Safety,VHF Fireground,,SA CFS,161.200
+VHF 11,Fire-Tac,Country Fire Service,FM,VHF 11,,110.9 PL,Public Safety,VHF Fireground,,SA CFS,161.050
+VHF 12,Fire-Tac,Country Fire Service,FM,VHF 12,,110.9 PL,Public Safety,VHF Fireground,,SA CFS,161.0125
+VHF 13,Fire-Tac,Country Fire Service,FM,VHF 13,,110.9 PL,Public Safety,VHF Fireground,,SA CFS,161.0375
+VHF 16,Fire-Tac,Country Fire Service,FM,VHF 16,,114.8 PL,Public Safety,VHF Fireground,,SA CFS,161.1875
+VHF 17,Fire-Tac,Country Fire Service,FM,VHF 17,,114.8 PL,Public Safety,VHF Fireground,,SA CFS,161.0875
+VHF 18,Fire-Tac,Country Fire Service,FM,VHF 18,,114.8 PL,Public Safety,VHF Fireground,,SA CFS,161.000
+VHF 22,Fire-Tac,Country Fire Service,FM,VHF 22,,118.8 PL,Public Safety,VHF Fireground,,SA CFS,160.9875
+VHF 23,Fire-Tac,Country Fire Service,FM,VHF 23,,118.8 PL,Public Safety,VHF Fireground,,SA CFS,161.125
+VHF 24,Fire-Tac,Country Fire Service,FM,VHF 24,,118.8 PL,Public Safety,VHF Fireground,,SA CFS,161.0125
+VHF 29,Fire-Tac,Country Fire Service,FM,VHF 29,,127.3 PL,Public Safety,VHF Fireground,,SA CFS,161.1875
+VHF 30,Fire-Tac,Country Fire Service,FM,VHF 30,,127.3 PL,Public Safety,VHF Fireground,,SA CFS,161.075
+VHF 31,Fire-Tac,Country Fire Service,FM,VHF 31,,127.3 PL,Public Safety,VHF Fireground,,SA CFS,161.000
+VHF 32,Fire-Tac,Country Fire Service,FM,VHF 32,,127.3 PL,Public Safety,VHF Fireground,,SA CFS,161.1375
+VHF 34,Fire-Tac,Country Fire Service,FM,VHF 34,,131.8 PL,Public Safety,VHF Fireground,,SA CFS,161.1625
+VHF 35,Fire-Tac,Country Fire Service,FM,VHF 35,,131.8 PL,Public Safety,VHF Fireground,,SA CFS,161.0625
+VHF 36,Fire-Tac,Country Fire Service,FM,VHF 36,,131.8 PL,Public Safety,VHF Fireground,,SA CFS,161.025
+VHF 39,Fire-Tac,Country Fire Service,FM,VHF 39,,136.5 PL,Public Safety,VHF Fireground,,SA CFS,161.000
+VHF 40,Fire-Tac,Country Fire Service,FM,VHF 40,,136.5 PL,Public Safety,VHF Fireground,,SA CFS,160.9875
+VHF 41,Fire-Tac,Country Fire Service,FM,VHF 41,,136.5 PL,Public Safety,VHF Fireground,,SA CFS,161.0375
+VHF 44,Fire-Tac,Country Fire Service,FM,VHF 44,,141.3 PL,Public Safety,VHF Fireground,,SA CFS,161.075
+VHF 45,Fire-Tac,Country Fire Service,FM,VHF 45,,141.3 PL,Public Safety,VHF Fireground,,SA CFS,161.025
+VHF 46,Fire-Tac,Country Fire Service,FM,VHF 46,,141.3 PL,Public Safety,VHF Fireground,,SA CFS,161.050
+VHF 49,Fire-Tac,Country Fire Service,FM,VHF 49,,146.2 PL,Public Safety,VHF Fireground,,SA CFS,161.0125
+VHF 50,Fire-Tac,Country Fire Service,FM,VHF 50,,146.2 PL,Public Safety,VHF Fireground,,SA CFS,161.225
+VHF 51,Fire-Tac,Country Fire Service,FM,VHF 51,,146.2 PL,Public Safety,VHF Fireground,,SA CFS,161.1375
+VHF 55,Fire-Tac,Country Fire Service,FM,VHF 55,,156.7 PL,Public Safety,VHF Fireground,,SA CFS,161.1125
+VHF 56,Fire-Tac,Country Fire Service,FM,VHF 56,,156.7 PL,Public Safety,VHF Fireground,,SA CFS,161.175
+VHF 57,Fire-Tac,Country Fire Service,FM,VHF 57,,156.7 PL,Public Safety,VHF Fireground,,SA CFS,161.200
+VHF 58,Fire-Tac,Country Fire Service,FM,VHF 58,,156.7 PL,Public Safety,VHF Fireground,,SA CFS,161.100
+VHF 62,Fire-Tac,Country Fire Service,FM,VHF 62,,162.2 PL,Public Safety,VHF Fireground,,SA CFS,161.0625
+VHF 63,Fire-Tac,Country Fire Service,FM,VHF 63,,162.2 PL,Public Safety,VHF Fireground,,SA CFS,161.150
+VHF 64,Fire-Tac,Country Fire Service,FM,VHF 64,,162.2 PL,Public Safety,VHF Fireground,,SA CFS,161.050
+VHF 67,Fire-Tac,Country Fire Service,FM,VHF 67,,167.9 PL,Public Safety,VHF Fireground,,SA CFS,161.025
+VHF 68,Fire-Tac,Country Fire Service,FM,VHF 68,,167.9 PL,Public Safety,VHF Fireground,,SA CFS,161.1625
+VHF 69,Fire-Tac,Country Fire Service,FM,VHF 69,,167.9 PL,Public Safety,VHF Fireground,,SA CFS,161.200
+VHF 72,Fire-Tac,Country Fire Service,FM,VHF 72,,173.8 PL,Public Safety,VHF Fireground,,SA CFS,161.075
+VHF 73,Fire-Tac,Country Fire Service,FM,VHF 73,,173.8 PL,Public Safety,VHF Fireground,,SA CFS,161.1375
+VHF 74,Fire-Tac,Country Fire Service,FM,VHF 74,,173.8 PL,Public Safety,VHF Fireground,,SA CFS,161.175
+VHF 77,Fire-Tac,Country Fire Service,FM,VHF 77,,179.9 PL,Public Safety,VHF Fireground,,SA CFS,161.225
+VHF 78,Fire-Tac,Country Fire Service,FM,VHF 78,,179.9 PL,Public Safety,VHF Fireground,,SA CFS,161.150
+VHF 79,Fire-Tac,Country Fire Service,FM,VHF 79,,179.9 PL,Public Safety,VHF Fireground,,SA CFS,161.100
+VHF 82,Fire-Tac,Country Fire Service,FM,VHF 82,,186.2 PL,Public Safety,VHF Fireground,,SA CFS,161.0125
+VHF 83,Fire-Tac,Country Fire Service,FM,VHF 83,,186.2 PL,Public Safety,VHF Fireground,,SA CFS,161.0375
+VHF 84,Fire-Tac,Country Fire Service,FM,VHF 84,,186.2 PL,Public Safety,VHF Fireground,,SA CFS,160.9875
+VHF 87,Fire-Tac,Country Fire Service,FM,VHF 87,,192.8 PL,Public Safety,VHF Fireground,,SA CFS,161.125
+VHF 88,Fire-Tac,Country Fire Service,FM,VHF 88,,192.8 PL,Public Safety,VHF Fireground,,SA CFS,161.050
+VHF 89,Fire-Tac,Country Fire Service,FM,VHF 89,,192.8 PL,Public Safety,VHF Fireground,,SA CFS,161.025
+VHF 92,Fire-Tac,Country Fire Service,FM,VHF 92,,203.5 PL,Public Safety,VHF Fireground,,SA CFS,161.150
+VHF 93,Fire-Tac,Country Fire Service,FM,VHF 93,,203.5 PL,Public Safety,VHF Fireground,,SA CFS,161.0375
+VHF 94,Fire-Tac,Country Fire Service,FM,VHF 94,,203.5 PL,Public Safety,VHF Fireground,,SA CFS,160.9875
+VHF 97,Fire-Tac,Country Fire Service,FM,VHF 97,,210.7 PL,Public Safety,VHF Fireground,,SA CFS,161.050
+VHF 98,Fire-Tac,Country Fire Service,FM,VHF 98,,210.7 PL,Public Safety,VHF Fireground,,SA CFS,161.1875
+VHF 99,Fire-Tac,Country Fire Service,FM,VHF 99,,210.7 PL,Public Safety,VHF Fireground,,SA CFS,161.075
+175 PARK OP,Public Works,"Department of Environment, Water and Natural Resources (DEWNR)",FM,175 Park Ops Country,BM,156.7 PL,Utility,Operations,,,410.775
+176 PARK OP,Public Works,"Department of Environment, Water and Natural Resources (DEWNR)",FM,176 Park Ops Metro,BM,156.7 PL,Utility,Operations,,,411.1375
+177 RES PRO,Public Works,"Department of Environment, Water and Natural Resources (DEWNR)",FM,177 Resource Protection Branch,BM,156.7 PL,Utility,Operations,,,411.250
+178 SURVEY,Public Works,"Department of Environment, Water and Natural Resources (DEWNR)",FM,178 Survey Groups,BM,156.7 PL,Utility,Operations,,,411.350
+179 BOT GAR,Public Works,"Department of Environment, Water and Natural Resources (DEWNR)",FM,179 Botanic Gardens,BM,179.9 PL,Utility,Operations,,,410.775
+180 PARK OP,Public Works,"Department of Environment, Water and Natural Resources (DEWNR)",FM,180 Park ops Inter Agency,BM,179.9 PL,Utility,Operations,,,411.1375
+182,Fire-Tac,Metropolitan Fire Service,FM,O'HALLORAN HILL & PARADISE & SALISBURY,,141.3 PL,Public Safety,MFS Channels,,Metro Fire Service,411.5875
+183,Fire-Tac,Metropolitan Fire Service,FM,CHRISTIE DOWNS & ELIZABETH,,141.3 PL,Public Safety,MFS Channels,,Metro Fire Service,411.7625
+184,Fire-Tac,Metropolitan Fire Service,FM,GLEN OSMOND & WOODVILLE,,141.3 PL,Public Safety,MFS Channels,,Metro Fire Service,411.8375
+185,Fire-Tac,Metropolitan Fire Service,FM,BROOKLYN PARK & GAWLER &PORT ADELAIDE,,141.3 PL,Public Safety,MFS Channels,,Metro Fire Service,412.0125
+186,Fire-Tac,Metropolitan Fire Service,FM,ADELAIDE & ANGLE PARK & SEAFORD,,141.3 PL,Public Safety,MFS Channels,,Metro Fire Service,412.175
+187,Fire-Tac,Metropolitan Fire Service,FM,PROSPECT & METRO SPARE1,,186.2 PL,Public Safety,MFS Channels,,Metro Fire Service,411.5875
+188,Fire-Tac,Metropolitan Fire Service,FM,LARGS NORTH	& METRO SPARE2,,186.2 PL,Public Safety,MFS Channels,,Metro Fire Service,411.7625
+189,Fire-Tac,Metropolitan Fire Service,FM,TRAINING & METRO SPARE3,,186.2 PL,Public Safety,MFS Channels,,Metro Fire Service,411.8375
+190,Fire-Tac,Metropolitan Fire Service,FM,OAKDEN & ST MARYS,,186.2 PL,Public Safety,MFS Channels,,Metro Fire Service,412.0125
+191,Fire-Tac,Metropolitan Fire Service,FM,BEULAH PARK & CAMDEN PARK & GOLDEN GROVE,,186.2 PL,Public Safety,MFS Channels,,Metro Fire Service,412.175
+CH 1,EMS-Tac,St John Ambulance Australia,FM,Channel 1,RM,114.8 PL,Public Safety,Nationwide Bandplan,VK5SJA,UHF,475.350
+CH 2,EMS-Tac,St John Ambulance Australia,FMN,Channel 2,RM,114.8 PL,Public Safety,Nationwide Bandplan,VK5SJA,UHF,470.400
+CH 3,EMS-Tac,St John Ambulance Australia,FM,Channel 3,M,114.8 PL,Public Safety,Nationwide Bandplan,VK5SJA,UHF,469.525
+CH 4,EMS-Tac,St John Ambulance Australia,FMN,Channel 4,RM,114.8 PL,Public Safety,Nationwide Bandplan,VK5SJA,UHF,470.975
+CH 5,EMS-Tac,St John Ambulance Australia,FMN,Channel 5,RM,114.8 PL,Public Safety,Nationwide Bandplan,VK5SJA,UHF,470.000
+CH 6,EMS-Tac,St John Ambulance Australia,FM,Channel 6,M,114.8 PL,Public Safety,Nationwide Bandplan,VK5SJA,UHF,472.150
+CH 7,EMS-Tac,St John Ambulance Australia,FM,Channel 7,M,114.8 PL,Public Safety,Nationwide Bandplan,VK5SJA,UHF,472.200
+CH 8,EMS-Tac,St John Ambulance Australia,FMN,Channel 8,RM,107.2 PL,Public Safety,Nationwide Bandplan,VK5SJA,UHF,462.850
+CH 9,EMS-Tac,St John Ambulance Australia,FMN,Channel 9,RM,107.2 PL,Public Safety,Nationwide Bandplan,VK5SJA,UHF,463.575
+CH 10,EMS-Tac,St John Ambulance Australia,FMN,Channel 10,RM,114.8 PL,Public Safety,Nationwide Bandplan,VK5SJA,UHF,472.925
+CH 13,EMS-Tac,St John Ambulance Australia,FM,Channel 13,M,107.2 PL,Public Safety,Nationwide Bandplan,VK5SJA,UHF,411.400
+CH 16,EMS-Tac,St John Ambulance Australia,FM,Channel 16,M,114.8 PL,Public Safety,Nationwide Bandplan,VK5SJA,UHF,412.100
+C06 CBD VOTE,Railroad,TransAdelaide,FMN,"C06 - City Vote - Channels 54, 55, 56, 57",BM,,Railroad,Channels,,TransAdelaide,0.000
+C09 DRY CK01,Railroad,TransAdelaide,FM,C09 - Dry Creek -  Used for Entry/Exit into Dry Creek,RM,,Railroad,Channels,,TransAdelaide,418.600
+C11 SHUNT 1,Railroad,TransAdelaide,FM,C11 - Shunt 1,BM,,Railroad,Channels,,TransAdelaide,411.375
+C12 SHUNT 2,Railroad,TransAdelaide,FM,C12 - Shunt 2,BM,,Railroad,Channels,,TransAdelaide,450.4125
+C13 ARTC 1,Railroad,TransAdelaide,FM,C13 - Train to Train on ARTC Track,BM,,Railroad,Channels,,TransAdelaide,418.425
+C14 ARTC 2,Railroad,TransAdelaide,FM,C14 - Train to Train on ARTC Track,BM,,Railroad,Channels,,TransAdelaide,450.050
+C54 NORTH RP,Railroad,TransAdelaide,FM,C54 NORTH RPTR,RM,,Railroad,Channels,,TransAdelaide,414.9125
+C55 CITY RPT,Railroad,TransAdelaide,FM,C55 CITY RPTR,RM,,Railroad,Channels,,TransAdelaide,414.975
+C56 SOUTH RP,Railroad,TransAdelaide,FM,C56 SOUTH RPTR,RM,,Railroad,Channels,,TransAdelaide,415.4125
+C57 COAST RP,Railroad,TransAdelaide,FM,C57 COAST RPTR,RM,,Railroad,Channels,,TransAdelaide,414.5625

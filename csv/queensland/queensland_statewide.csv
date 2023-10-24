@@ -1,0 +1,961 @@
+alpha tag,tag,entity,mode,description,input,type,tone,entity_type,group,license,category,tone in,frequency
+VK4RGT,Ham,Amateur Radio,FM,Maurice Hill - Gladstone city,146.025,RM,,Amateur Radio,2 Metre,VK4RGT,VK4,,146.625
+VK4ROM,Ham,Amateur Radio,FM,Grafton Range - Roma,146.050,RM,,Amateur Radio,2 Metre,VK4ROM,VK4,,146.650
+VK4RHB,Ham,Amateur Radio,FM,Ghost Hill - Hervey Bay,146.050,RM,,Amateur Radio,2 Metre,VK4RHB,VK4,,146.650
+VK4RBY,Ham,Amateur Radio,FM,Black Mountain -  Mackay,146.050,RM,,Amateur Radio,2 Metre,VK4RBY,VK4,,146.650
+VK4RET,Ham,Amateur Radio,FM,Mt Kiangrow  - South Burnet & Darling Downs,146.075,RM,,Amateur Radio,2 Metre,VK4RET,VK4,,146.675
+VK4RSA,Ham,Amateur Radio,FM,Sarina - Mackay,146.075,RM,,Amateur Radio,2 Metre,VK4RSA,VK4,,146.675
+VK4RTA,Ham,Amateur Radio,FM,Longlands Gap - Atherton Tableland,146.075,RM,,Amateur Radio,2 Metre,VK4RTA,VK4,,146.675
+VK4RAR,Ham,Amateur Radio,FM,Mt Archer - Rockhampton,146.100,RM,,Amateur Radio,2 Metre,VK4RAR,VK4,,146.700
+VK4RAT,Ham,Amateur Radio,FM,Mt Stuart - Townsville,146.100,RM,,Amateur Radio,2 Metre,VK4RAT,VK4,,146.700
+VK4RMI,Ham,Amateur Radio,FM,Four Mile Hill - Mount Isa,146.100,RM,,Amateur Radio,2 Metre,VK4RMI,VK4,,146.700
+VK4RCM,Ham,Amateur Radio,FM,Mt Boulder - Gympie & Wide Bay,146.125,RM,,Amateur Radio,2 Metre,VK4RCM,VK4,,146.725
+VK4RSB,Ham,Amateur Radio,FM,Mt Roundback - Bowen,146.125,RM,,Amateur Radio,2 Metre,VK4RSB,VK4,,146.725
+VK4RDD,Ham,Amateur Radio,FM,O'Rourke's House - Toowoomba,146.150,RM,,Amateur Radio,2 Metre,VK4RDD,VK4,,146.750
+VK4RGY,Ham,Amateur Radio,FM,Mt Wolvi - Gympie,146.175,RM,,Amateur Radio,2 Metre,VK4RGY,VK4,,146.775
+VK4RBM,Ham,Amateur Radio,FM,Blue Mountain - Mackay,146.175,RM,,Amateur Radio,2 Metre,VK4RBM,VK4,,146.775
+VK4RBU,Ham,Amateur Radio,FM,Mt Goonaneman - Bundaberg,146.200,RM,,Amateur Radio,2 Metre,VK4RBU,VK4,,146.800
+VK4RMP,Ham,Amateur Radio,FM,Midge Point - Proserpine,146.200,RM,,Amateur Radio,2 Metre,VK4RMP,VK4,,146.800
+VK4RCR,Ham,Amateur Radio,FM,Braeside - Stanthorpe,146.225,RM,,Amateur Radio,2 Metre,VK4RCR,VK4,,146.825
+VK4RSP,Ham,Amateur Radio,FM,Roddas Lookout - Springsure,146.225,RM,,Amateur Radio,2 Metre,VK4RSP,VK4,,146.825
+VK4RHT,Ham,Amateur Radio,FM,Hann Tableland - Atherton Tablelands,146.250,RM,,Amateur Radio,2 Metre,VK4RHT,VK4,,146.850
+VK4RHR,Ham,Amateur Radio,FM,Hodgson Range West - Central Highlands,146.325,RM,,Amateur Radio,2 Metre,VK4RHR,VK4,,146.925
+VK4RBD,Ham,Amateur Radio,FM,Blackdown Tableland - Blackwater,146.350,RM,,Amateur Radio,2 Metre,VK4RBD,VK4,,146.950
+VK4RRR,Ham,Amateur Radio,FM,Mt.Seaview North - Central Highlands,146.375,RM,,Amateur Radio,2 Metre,VK4RRR,VK4,,146.975
+VK4RMK,Ham,Amateur Radio,FM,Mt.Blackwood - Mackay,146.400,RM,,Amateur Radio,2 Metre,VK4RMK,VK4,,147.000
+VK4RCQ,Ham,Amateur Radio,FM,Banana Range,146.400,RM,,Amateur Radio,2 Metre,VK4RCQ,VK4,,147.000
+VK4RBP,Ham,Amateur Radio,FM,Butchers Creek - Atherton Tableland,147.700,RM,,Amateur Radio,2 Metre,VK4RBP,VK4,,147.100
+VK4RIL,Ham,Amateur Radio,FM,Hatton Vale - Laidley,147.100,RM,,Amateur Radio,2 Metre,VK4RIL,VK4,,147.700
+VK4RBG,Ham,Amateur Radio,FM,The Hummock - Bundaberg,147.200,RM,,Amateur Radio,2 Metre,VK4RBG,VK4,,147.800
+VK4RED,Ham,Amateur Radio,FM,Dalby,147.250,RM,,Amateur Radio,2 Metre,VK4RED,VK4,,147.850
+ARFF,Aircraft,Aviation Rescue and Fire Fighting (ARFF),AM,National ARFF Aircraft,,BM,CSQ,Federal,National,VKE787,Queensland Airports,,131.000
+ARFF,Federal,Aviation Rescue and Fire Fighting (ARFF),P25,National P25 Simplex,,BM,A5A NAC,Federal,National,,Queensland Airports,,509.625
+FAR NTH,Public Works,Department of Transport and Main Roads,FM,Cairns,,M,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,161.225
+FAR NTH,Public Works,Department of Transport and Main Roads,FM,Saddle Mountain,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.1875
+NORTHERN,Public Works,Department of Transport and Main Roads,FM,Mt Cudmore - Ingham,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,163.6125
+NORTHERN,Public Works,Department of Transport and Main Roads,FM,Mt Stuart,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.150
+MACKAY/WICK,Public Works,Department of Transport and Main Roads,FM,Summer Hill,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,163.9625
+MACKAY/WICK,Public Works,Department of Transport and Main Roads,FM,Mt Devlin,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.1875
+MACKAY/WICK,Public Works,Department of Transport and Main Roads,FM,Mt Rolfe,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.250
+MACKAY/WICK,Public Works,Department of Transport and Main Roads,FM,Mt Devlin,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.725
+FITZROY,Public Works,Department of Transport and Main Roads,FM,Expedition Range - Baralaba,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,163.9625
+FITZROY,Public Works,Department of Transport and Main Roads,FM,Mt Hopeful - Rockhampton,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.150
+FITZROY,Public Works,Department of Transport and Main Roads,FM,Mt Tabletop - Emerald,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.1875
+NORTH CST,Public Works,Department of Transport and Main Roads,FM,Wilkes Knob,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.1875
+SOUTHERN,Public Works,Department of Transport and Main Roads,FM,Mt Tamborine,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.250
+SOUTHERN,Public Works,Department of Transport and Main Roads,FM,Mt Tamborine,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.725
+WIDE BAY/BUR,Public Works,Department of Transport and Main Roads,FM,Westwood Range - Bundaberg,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.250
+DARLING DWNS,Public Works,Department of Transport and Main Roads,FM,Bony Mountain,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.0625
+DARLING DWNS,Public Works,Department of Transport and Main Roads,FM,Passchendaele,,RM,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,164.2625
+SIMPLEX,Public Works,Department of Transport and Main Roads,FM,Queensland Wide,,M,,Public Safety,RoadTek,AXG327,TMR - Transport and Main Roads,,467.025
+SIMPLEX,Public Works,Department of Transport and Main Roads,FM,Queensland Wide,,M,,Public Safety,RoadTek,VLB258,TMR - Transport and Main Roads,,467.075
+SIMPLEX,Public Works,Department of Transport and Main Roads,FM,Queensland Wide,,M,,Public Safety,RoadTek,VLB260,TMR - Transport and Main Roads,,469.950
+QLD,Public Works,Department of Transport and Main Roads,FM,Queensland Wide,,M,,Public Safety,RoadTek,VL4TC,TMR - Transport and Main Roads,,509.650
+NORTHERN,Utilities,Ergon Energy,FM,Mt Stuart,,RM,,Utility,VHF Mid,VL4CH,Communications Network,,78.775
+SOUTHERN,Utilities,Ergon Energy,FM,Mt Goonaneman,,RM,,Utility,VHF Mid,VL4DN,Communications Network,,78.775
+CENTRAL,Utilities,Ergon Energy,FM,Mt Esk,,RM,,Utility,VHF Mid,VL4CB,Communications Network,,78.7875
+NORTHERN,Utilities,Ergon Energy,FM,Cameron Hill,,RM,,Utility,VHF Mid,VL4CH,Communications Network,,78.8125
+NORTHERN,Utilities,Ergon Energy,FM,Kelly Mountain,,RM,,Utility,VHF Mid,VL4CH,Communications Network,,78.950
+NORTHERN,Utilities,Ergon Energy,FM,Mt Walker,,RM,,Utility,VHF Mid,VL4CH,Communications Network,,78.9625
+SOUTHERN,Utilities,Ergon Energy,FM,Mundubbera,,RM,,Utility,VHF Mid,VL4DN,Communications Network,,78.9625
+SOUTHERN,Utilities,Ergon Energy,FM,Legume,,RM,,Utility,VHF Mid,VL4TB,Communications Network,,78.9625
+SOUTHERN,Utilities,Ergon Energy,FM,Mt Watalgan,,RM,,Utility,VHF Mid,VL4DN,Communications Network,,78.9875
+NORTHERN,Utilities,Ergon Energy,FM,Mt Isa,,RM,,Utility,VHF Mid,VL4CH,Communications Network,,79.000
+SOUTHERN,Utilities,Ergon Energy,FM,Mt Boo Boo,,RM,,Utility,VHF Mid,VL4DN,Communications Network,,79.050
+CENTRAL,Utilities,Ergon Energy,FM,Mt Perry,,RM,,Utility,VHF Mid,VL4CB,Communications Network,,79.050
+SOUTHERN,Utilities,Ergon Energy,FM,Musket Flats,,RM,,Utility,VHF Mid,VL4DN,Communications Network,,79.0875
+CENTRAL,Utilities,Ergon Energy,FM,Mt Stuart,,RM,,Utility,VHF Mid,VL4CH,Communications Network,,79.0875
+STATEWIDE,Utilities,Ergon Energy,FM,STATEWIDE,,M,,Utility,VHF Mid,VLB653,Communications Network,,410.625
+STATEWIDE,Utilities,Ergon Energy,FM,STATEWIDE,,M,,Utility,VHF Mid,VLB654,Communications Network,,410.825
+1 V,EMS Dispatch,Queensland Ambulance Service,FMN,"Vote West - CH - 11, 13, 16, 17, 19, 23, 25, 30",,RM,,Public Safety,UHF Channels,,QAS,,0.000
+2 V,EMS Dispatch,Queensland Ambulance Service,FMN,"Vote South East - CH - 10, 20, 21, 22",,RM,,Public Safety,UHF Channels,,QAS,,0.000
+3 V,EMS Dispatch,Queensland Ambulance Service,FMN,"Vote Central - CH - 10, 13, 16, 17, 19, 20, 21, 22,  23, 25",,RM,,Public Safety,UHF Channels,,QAS,,0.000
+4 V,EMS Dispatch,Queensland Ambulance Service,FMN,"Vote Caboolture - CH - 24, 26, 27, 31, 32, 33, 61, 92, 97, 108",,RM,,Public Safety,UHF Channels,,QAS,,0.000
+5 V,EMS Dispatch,Queensland Ambulance Service,FMN,"Vote Brisbane/ North - CH - 28, 29, 34, 37, 39, 42, 46, 107, 111, 112",,RM,,Public Safety,UHF Channels,,QAS,,0.000
+6 V,EMS Dispatch,Queensland Ambulance Service,FMN,"Vote South/ Bayside - CH - 38, 41, 43, 45, 47, 59, 67, 85, 124, 130",,RM,,Public Safety,UHF Channels,,QAS,,0.000
+7 V,EMS Dispatch,Queensland Ambulance Service,FMN,"Vote Ipswich - CH - 12, 50, 52, 53, 66, 69, 76, 87, 91, 96, 116",,RM,,Public Safety,UHF Channels,,QAS,,0.000
+8 V,EMS Dispatch,Queensland Ambulance Service,FMN,"Vote Beenleigh - CH - 40, 44, 48, 62, 70, 72, 74, 86, 99",,RM,,Public Safety,UHF Channels,,QAS,,0.000
+9 V,EMS Dispatch,Queensland Ambulance Service,FMN,"Vote Gold Coast - CH - 36, 68, 71, 73, 77, 98, 103, 117",,RM,,Public Safety,UHF Channels,,QAS,,0.000
+10,EMS Dispatch,Queensland Ambulance Service,FMN,Caloundra,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.175
+11,EMS Dispatch,Queensland Ambulance Service,FMN,Nambour (Widgee Mountain),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.1125
+12,EMS Dispatch,Queensland Ambulance Service,FMN,Ipswich-Laidley (Mt Perseverance),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.150
+13,EMS Dispatch,Queensland Ambulance Service,FMN,Gympie (Mt Boulder),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.275
+14,EMS Dispatch,Queensland Ambulance Service,FMN,Gympie (Mt Kanighan),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.1375
+15,EMS Dispatch,Queensland Ambulance Service,FMN,Nambour (Wilkes Knob),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.650
+16,EMS Dispatch,Queensland Ambulance Service,FMN,Cooroy (Black Mountain),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.575
+17,EMS Dispatch,Queensland Ambulance Service,FMN,Nambour (Wilkes Knob),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.025
+18,EMS Dispatch,Queensland Ambulance Service,FMN,Gympie (Mt Kanighan),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.125
+19,EMS Dispatch,Queensland Ambulance Service,FMN,Gympie (Mt Boulder),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.075
+20,EMS Dispatch,Queensland Ambulance Service,FMN,Noosa (Noosa Hill),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.200
+21,EMS Dispatch,Queensland Ambulance Service,FMN,Coolum (Mt Coolum),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.550
+22,EMS Dispatch,Queensland Ambulance Service,FMN,Maroochydore (Point Cartwright),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.300
+23,EMS Dispatch,Queensland Ambulance Service,FMN,Nambour (Mt Allan),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.400
+24,EMS Dispatch,Queensland Ambulance Service,FMN,Woodford-Kilcoy (Mt Kilcoy),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.875
+25,EMS Dispatch,Queensland Ambulance Service,FMN,Nambour (Kelks Hill),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.825
+26,EMS Dispatch,Queensland Ambulance Service,FMN,Bruce Highway (Moreton Island),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.1625
+27,EMS Dispatch,Queensland Ambulance Service,FMN,Redcliffe (Redcliffe Hospital),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.375
+28,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane North (Prince Charles Hospital),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.150
+29,EMS Dispatch,Queensland Ambulance Service,FMN,Brendale (Clear Mountain),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.2125
+30,EMS Dispatch,Queensland Ambulance Service,FMN,Rainbow Beach,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.750
+31,EMS Dispatch,Queensland Ambulance Service,FMN,Dayboro-D'Aguilar (Mt Mee),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.1375
+32,EMS Dispatch,Queensland Ambulance Service,FMN,Caboolture (D'Aguilar Range),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.475
+33,EMS Dispatch,Queensland Ambulance Service,FMN,Caboolture (Constitution Hill),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.275
+34,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane North (D'Aguilar Range),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.225
+35,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane Central (Constitution Hill),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.575
+36,EMS Dispatch,Queensland Ambulance Service,FMN,Broadbeach (Jupiters Casino),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.0875
+37,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane Central (Constitution Hill),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.850
+38,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane South (Constitution Hill),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.100
+39,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane Central (Royal Brisbane Hospital),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.1875
+40,EMS Dispatch,Queensland Ambulance Service,FMN,Beenleigh (Mt Cotton),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.125
+41,EMS Dispatch,Queensland Ambulance Service,FMN,Bayside (Mt Cotton),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.750
+42,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane-Fort.Valley (Mineral House),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.175
+43,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane (111 George St),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.400
+44,EMS Dispatch,Queensland Ambulance Service,FMN,Beaudesert-Border (Mt Cainbable),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,414.6625
+45,EMS Dispatch,Queensland Ambulance Service,FMN,Bayside (Alexandra Hills Water Tower),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.875
+46,EMS Dispatch,Queensland Ambulance Service,FMN,Samford Valley Area (Mt Glorious),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.350
+47,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane South (Mt Gravatt),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.550
+48,EMS Dispatch,Queensland Ambulance Service,FMN,Beenleigh-Beaudesert (Flinders Peak),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.075
+49,EMS Dispatch,Queensland Ambulance Service,FMN,Ipswich-Laidley (Mt Stradbroke),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.025
+50,EMS Dispatch,Queensland Ambulance Service,FMN,Ipswich-Boonah (Flinders Peak),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.300
+51,EMS Dispatch,Queensland Ambulance Service,FMN,Ipswich-Laidley (Mt Perseverance),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.3875
+52,EMS Dispatch,Queensland Ambulance Service,FMN,Ipswich-Esk (Mt Brisbane),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.975
+53,EMS Dispatch,Queensland Ambulance Service,FMN,Ipswich (Ipswich Hospital),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.0875
+54,EMS Dispatch,Queensland Ambulance Service,FMN,Cooroy (Black Mountain),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.350
+56,EMS Dispatch,Queensland Ambulance Service,FMN,Nambour (Wilkes Knob),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.425
+57,EMS Dispatch,Queensland Ambulance Service,FMN,QAS U57,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.4125
+58,EMS Dispatch,Queensland Ambulance Service,FMN,QAS U58,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.200
+59,EMS Dispatch,Queensland Ambulance Service,FMN,Bayside (Wynnum Water Tower),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.3875
+60,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane (Constitution Hill),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.650
+61,EMS Dispatch,Queensland Ambulance Service,FMN,Caboolture (Clear Mountain),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.0875
+62,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane / Gold Coast Highway (Darlington Range),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.1125
+63,EMS Dispatch,Queensland Ambulance Service,FMN,Ipswich-Beaudesert (Flinders Peak),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.825
+64,EMS Dispatch,Queensland Ambulance Service,FMN,Gold Coast (Springbrook),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.425
+65,EMS Dispatch,Queensland Ambulance Service,FMN,Coolangatta-Tweed (Razorback),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.850
+66,EMS Dispatch,Queensland Ambulance Service,FMN,Rosewood-Laidley (Rosewood),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.1875
+67,EMS Dispatch,Queensland Ambulance Service,FMN,Russell Island (North Stradbroke Island),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.3625
+68,EMS Dispatch,Queensland Ambulance Service,FMN,Gold Coast (Elanora),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.3875
+69,EMS Dispatch,Queensland Ambulance Service,FMN,Ipswich (Mt Stradbroke),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.025
+70,EMS Dispatch,Queensland Ambulance Service,FMN,Mt Tamborine (Eagle Heights),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.475
+71,EMS Dispatch,Queensland Ambulance Service,FMN,Coolangatta (Razorback),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.550
+72,EMS Dispatch,Queensland Ambulance Service,FMN,Beaudesert (Mt Mahomet),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.1625
+73,EMS Dispatch,Queensland Ambulance Service,FMN,Southport (Gold Coast Hospital),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.200
+74,EMS Dispatch,Queensland Ambulance Service,FMN,Tamborine-Canungra (Lahey's Lookout),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.400
+75,EMS Dispatch,Queensland Ambulance Service,FMN,Beaudesert-Border (Mt Cainbable),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.875
+76,EMS Dispatch,Queensland Ambulance Service,FMN,Boonah-Border (Mt French),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.200
+77,EMS Dispatch,Queensland Ambulance Service,FMN,Gold Coast (Springbrook),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.2125
+78,EMS Dispatch,Queensland Ambulance Service,FMN,Toowoomba (Picnic Point),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.375
+79,EMS Dispatch,Queensland Ambulance Service,FMN,Vehicle Crossband,,RM,186.2 PL,Public Safety,UHF Channels,VH4AMB,QAS,,465.450
+80,EMS Dispatch,Queensland Ambulance Service,FMN,State Wide (Simplex),,M,CSQ,Public Safety,UHF Channels,VH4AMB,QAS,,410.600
+81,EMS Dispatch,Queensland Ambulance Service,FMN,State Wide (Simplex),,M,CSQ,Public Safety,UHF Channels,VH4AMB,QAS,,410.800
+82,EMS Dispatch,Queensland Ambulance Service,FMN,Vehicle Crossband,,RM,186.2 PL,Public Safety,UHF Channels,VH4AMB,QAS,,465.850
+83,EMS Dispatch,Queensland Ambulance Service,FMN,Vehicle Crossband,,RM,186.2 PL,Public Safety,UHF Channels,VH4AMB,QAS,,466.050
+84,EMS Dispatch,Queensland Ambulance Service,FMN,Bayside (Mt Cotton),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.4125
+85,EMS Dispatch,Queensland Ambulance Service,FMN,North Stradbroke Island (Point Lookout),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.975
+86,EMS Dispatch,Queensland Ambulance Service,FMN,Park Ridge (Park Ridge Water Tower),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.225
+87,EMS Dispatch,Queensland Ambulance Service,FMN,Ipswich (Constitution Hill),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,414.8125
+88,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane / Gold Coast (111 George St / Surfers Paradise),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,414.9625
+89,EMS Dispatch,Queensland Ambulance Service,FMN,Gold Coast (Springbrook),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.1125
+90,Interop,Queensland Ambulance Service,FMN,State Wide (Emergency Services Common),,M,CSQ,Public Safety,UHF Channels,VH4AMB,QAS,,467.975
+91,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane Valley Area (Mt Glorious),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.4125
+92,EMS Dispatch,Queensland Ambulance Service,FMN,Caboolture,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.1125
+93,EMS Dispatch,Queensland Ambulance Service,FMN,Caboolture (D'Aguilar Range),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,414.6625
+94,EMS Dispatch,Queensland Ambulance Service,FMN,Maryborough (Takura Hill),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,414.8125
+95,EMS Dispatch,Queensland Ambulance Service,FMN,Event Repeater,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,414.9625
+96,EMS Dispatch,Queensland Ambulance Service,FMN,Moore (Blackbutt Range),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.1125
+97,EMS Dispatch,Queensland Ambulance Service,FMN,Bribie Island (Bribie Island),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.2625
+98,EMS Dispatch,Queensland Ambulance Service,FMN,Gold Coast (Surfers Paradise CBD),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.4125
+99,EMS Dispatch,Queensland Ambulance Service,FMN,Beenleigh-Beaudesert (Hendersons Knob),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.2625
+100,EMS Dispatch,Queensland Ambulance Service,FMN,Gympie,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.475
+101,EMS Dispatch,Queensland Ambulance Service,FMN,Toowoomba,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.725
+102,EMS Dispatch,Queensland Ambulance Service,FMN,QAS U102,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.8125
+103,EMS Dispatch,Queensland Ambulance Service,FMN,Gold Coast (Pacific Pines),,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.8875
+104,EMS Dispatch,Queensland Ambulance Service,FMN,QAS U104,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.9625
+105,EMS Dispatch,Queensland Ambulance Service,FMN,Toowoomba,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.0375
+106,EMS Dispatch,Queensland Ambulance Service,FMN,Maryborough,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.3625
+107,EMS Dispatch,Queensland Ambulance Service,FMN,Enoggera Hill,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.725
+108,EMS Dispatch,Queensland Ambulance Service,FMN,Mango Hill,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.8125
+109,EMS Dispatch,Queensland Ambulance Service,FMN,Beerburrum (Wild Horse Mtn),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.8875
+110,EMS Dispatch,Queensland Ambulance Service,FMN,Bellbird Park,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.9625
+111,EMS Dispatch,Queensland Ambulance Service,FMN,Samford Valley (D'Aguilar Range),,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.0375
+112,EMS Dispatch,Queensland Ambulance Service,FMN,Brisbane Airport,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.2625
+113,EMS Dispatch,Queensland Ambulance Service,FMN,QAS U113,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.725
+114,EMS Dispatch,Queensland Ambulance Service,FMN,QAS U114,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.8125
+115,EMS Dispatch,Queensland Ambulance Service,FMN,Laidley,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.8875
+116,EMS Dispatch,Queensland Ambulance Service,FMN,Springfield Lakes,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.9625
+117,EMS Dispatch,Queensland Ambulance Service,FMN,Gold Coast (Burleigh Heads),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.0375
+118,EMS Dispatch,Queensland Ambulance Service,FMN,Toowoomba (Darling Heights),,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.3625
+119,EMS Dispatch,Queensland Ambulance Service,FMN,Fortitude Valley,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.425
+120,EMS Dispatch,Queensland Ambulance Service,FMN,QAS U120,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.1375
+121,EMS Dispatch,Queensland Ambulance Service,FM,QAS U121,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.7125
+122,EMS Dispatch,Queensland Ambulance Service,FM,QAS U122,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.7125
+123,EMS Dispatch,Queensland Ambulance Service,FM,QAS U123,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.7125
+124,EMS Dispatch,Queensland Ambulance Service,FM,Runcorn,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.4875
+125,EMS Dispatch,Queensland Ambulance Service,FM,QAS U125,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.4875
+126,EMS Dispatch,Queensland Ambulance Service,FM,QAS U126,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.4875
+127,EMS Dispatch,Queensland Ambulance Service,FM,QAS U127,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.8375
+128,EMS Dispatch,Queensland Ambulance Service,FM,QAS U128,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.8375
+129,EMS Dispatch,Queensland Ambulance Service,FM,QAS U129,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.8375
+130,EMS Dispatch,Queensland Ambulance Service,FM,Mt Cotton,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.700
+131,EMS Dispatch,Queensland Ambulance Service,FM,QAS U131,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.700
+132,EMS Dispatch,Queensland Ambulance Service,FM,QAS U132,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.700
+133,EMS Dispatch,Queensland Ambulance Service,FM,QAS U133,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.7375
+134,EMS Dispatch,Queensland Ambulance Service,FM,QAS U134,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.7375
+135,EMS Dispatch,Queensland Ambulance Service,FM,QAS U135,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.7375
+136,EMS Dispatch,Queensland Ambulance Service,FM,QAS U136,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.2375
+137,EMS Dispatch,Queensland Ambulance Service,FM,QAS U137,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.2375
+138,EMS Dispatch,Queensland Ambulance Service,FM,QAS U138,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.2375
+139,EMS Dispatch,Queensland Ambulance Service,FM,Wacol,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.7875
+140,EMS Dispatch,Queensland Ambulance Service,FM,QAS U140,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.7875
+141,EMS Dispatch,Queensland Ambulance Service,FM,QAS U141,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.7875
+142,EMS Dispatch,Queensland Ambulance Service,FM,QAS U142,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.5125
+143,EMS Dispatch,Queensland Ambulance Service,FM,QAS U143,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.5125
+144,EMS Dispatch,Queensland Ambulance Service,FM,QAS U144,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.5125
+145,EMS Dispatch,Queensland Ambulance Service,FM,QAS U145,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.8625
+146,EMS Dispatch,Queensland Ambulance Service,FM,QAS U146,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.8625
+147,EMS Dispatch,Queensland Ambulance Service,FM,QAS U147,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,412.8625
+148,EMS Dispatch,Queensland Ambulance Service,FM,QAS U148,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.000
+149,EMS Dispatch,Queensland Ambulance Service,FM,QAS U149,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.000
+150,EMS Dispatch,Queensland Ambulance Service,FM,QAS U150,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.000
+151,EMS Dispatch,Queensland Ambulance Service,FM,QAS U151,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.3375
+152,EMS Dispatch,Queensland Ambulance Service,FM,QAS U152,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.3375
+153,EMS Dispatch,Queensland Ambulance Service,FM,QAS U153,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,413.3375
+154,EMS Dispatch,Queensland Ambulance Service,FM,QAS U154,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,414.650
+155,EMS Dispatch,Queensland Ambulance Service,FM,QAS U155,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,414.650
+156,EMS Dispatch,Queensland Ambulance Service,FM,QAS U156,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,414.650
+157,EMS Dispatch,Queensland Ambulance Service,FM,QAS U157,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,414.9125
+158,EMS Dispatch,Queensland Ambulance Service,FM,QAS U158,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,414.9125
+159,EMS Dispatch,Queensland Ambulance Service,FM,QAS U159,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,414.9125
+160,EMS Dispatch,Queensland Ambulance Service,FM,QAS U160,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.0625
+161,EMS Dispatch,Queensland Ambulance Service,FM,QAS U161,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.0625
+162,EMS Dispatch,Queensland Ambulance Service,FM,QAS U162,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.0625
+163,EMS Dispatch,Queensland Ambulance Service,FM,QAS U163,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.3375
+164,EMS Dispatch,Queensland Ambulance Service,FM,QAS U164,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.3375
+165,EMS Dispatch,Queensland Ambulance Service,FM,QAS U165,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,415.3375
+201,EMS Dispatch,Queensland Ambulance Service,FM,79 Crossband 1,,RM,186.2 PL,Public Safety,UHF Channels,VH4AMB,QAS,,465.450
+202,EMS Dispatch,Queensland Ambulance Service,FM,82 Crossband 1,,RM,186.2 PL,Public Safety,UHF Channels,VH4AMB,QAS,,465.850
+203,EMS Dispatch,Queensland Ambulance Service,FM,83 Crossband 1,,RM,186.2 PL,Public Safety,UHF Channels,VH4AMB,QAS,,466.050
+204,EMS Dispatch,Queensland Ambulance Service,FM,79 Crossband 2,,RM,192.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,465.450
+205,EMS Dispatch,Queensland Ambulance Service,FM,82 Crossband 2,,RM,192.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,465.850
+206,EMS Dispatch,Queensland Ambulance Service,FM,83 Crossband 2,,RM,192.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,466.050
+207,EMS Dispatch,Queensland Ambulance Service,FM,79 Crossband 3,,RM,203.5 PL,Public Safety,UHF Channels,VH4AMB,QAS,,465.450
+208,EMS Dispatch,Queensland Ambulance Service,FM,82 Crossband 3,,RM,203.5 PL,Public Safety,UHF Channels,VH4AMB,QAS,,465.850
+209,EMS Dispatch,Queensland Ambulance Service,FM,83 Crossband 3,,RM,203.5 PL,Public Safety,UHF Channels,VH4AMB,QAS,,466.050
+210,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 10,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,462.975
+211,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 11,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,463.275
+212,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 12,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,463.575
+213,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 13,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,463.875
+214,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 14,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,464.175
+215,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 15,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,464.475
+216,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 16,,RM,131.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,465.975
+220,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 20,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,462.975
+221,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 21,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,463.275
+222,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 22,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,463.575
+223,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 23,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,463.875
+224,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 24,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,464.175
+225,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 25,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,464.475
+226,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 26,,RM,118.8 PL,Public Safety,UHF Channels,VH4AMB,QAS,,465.975
+230,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 30,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,462.975
+231,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 31,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,463.275
+232,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 32,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,463.575
+233,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 33,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,463.875
+234,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 34,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,464.175
+235,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 35,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,464.475
+236,EMS Dispatch,Queensland Ambulance Service,FM,Regional UHF 36,,RM,123.0 PL,Public Safety,UHF Channels,VH4AMB,QAS,,465.975
+1,Fire Dispatch,Queensland Fire and Emergency Service,FMN,FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.525
+2,Fire Dispatch,Queensland Fire and Emergency Service,FMN,FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.525
+3,Fire Dispatch,Queensland Fire and Emergency Service,FMN,FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.550
+4,Fire Dispatch,Queensland Fire and Emergency Service,FMN,FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.550
+5,Fire Dispatch,Queensland Fire and Emergency Service,FMN,FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.675
+6,Fire Dispatch,Queensland Fire and Emergency Service,FMN,FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.675
+7,Fire Dispatch,Queensland Fire and Emergency Service,FMN,FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.725
+8,Fire Dispatch,Queensland Fire and Emergency Service,FMN,FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.725
+9,Fire Dispatch,Queensland Fire and Emergency Service,FMN,INC,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.975
+10,Fire Dispatch,Queensland Fire and Emergency Service,FMN,10,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.150
+11,Fire Dispatch,Queensland Fire and Emergency Service,FMN,11,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.400
+12,Fire Dispatch,Queensland Fire and Emergency Service,FMN,12,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.925
+13,Fire Dispatch,Queensland Fire and Emergency Service,FMN,13,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.025
+14,Fire Dispatch,Queensland Fire and Emergency Service,FMN,14,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.250
+15,Fire Dispatch,Queensland Fire and Emergency Service,FMN,15,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.325
+16,Fire Dispatch,Queensland Fire and Emergency Service,FMN,16,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.600
+17,Fire Dispatch,Queensland Fire and Emergency Service,FMN,17,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.850
+18,Fire Dispatch,Queensland Fire and Emergency Service,FMN,18,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.875
+19,Fire Dispatch,Queensland Fire and Emergency Service,FMN,19,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.925
+20,Fire Dispatch,Queensland Fire and Emergency Service,FMN,20,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.950
+21,Fire Dispatch,Queensland Fire and Emergency Service,FMN,21,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.975
+22,Fire Dispatch,Queensland Fire and Emergency Service,FMN,22,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,467.275
+23,Fire Dispatch,Queensland Fire and Emergency Service,FMN,23,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,467.325
+24,Fire Dispatch,Queensland Fire and Emergency Service,FMN,24,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,467.350
+25,Fire Dispatch,Queensland Fire and Emergency Service,FMN,25,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,467.500
+26,Fire Dispatch,Queensland Fire and Emergency Service,FMN,26,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,467.650
+27,Fire Dispatch,Queensland Fire and Emergency Service,FMN,27,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,467.675
+28,Fire Dispatch,Queensland Fire and Emergency Service,FMN,28,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,467.700
+29,Fire Dispatch,Queensland Fire and Emergency Service,FMN,29,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,467.800
+30,Fire Dispatch,Queensland Fire and Emergency Service,FMN,30,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.950
+31,Fire Dispatch,Queensland Fire and Emergency Service,FMN,31,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.150
+32,Fire Dispatch,Queensland Fire and Emergency Service,FMN,32,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.500
+33,Fire Dispatch,Queensland Fire and Emergency Service,FMN,33,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,467.300
+34,Fire Dispatch,Queensland Fire and Emergency Service,FMN,34,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.575
+35,Fire Dispatch,Queensland Fire and Emergency Service,FMN,35,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,467.225
+36,Fire Dispatch,Queensland Fire and Emergency Service,FMN,36,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.450
+37,Fire Dispatch,Queensland Fire and Emergency Service,FMN,37,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.0375
+38,Fire Dispatch,Queensland Fire and Emergency Service,FMN,38,,RM,179.9 PL,Public Safety,UHF HGS,,QFES - Operations,,465.975
+40,Fire Dispatch,Queensland Fire and Emergency Service,FMN,40,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,465.150
+41,Fire Dispatch,Queensland Fire and Emergency Service,FMN,41,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,465.400
+42,Fire Dispatch,Queensland Fire and Emergency Service,FMN,42,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,465.925
+43,Fire Dispatch,Queensland Fire and Emergency Service,FMN,43,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,466.025
+44,Fire Dispatch,Queensland Fire and Emergency Service,FMN,44,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,466.250
+45,Fire Dispatch,Queensland Fire and Emergency Service,FMN,45,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,466.325
+46,Fire Dispatch,Queensland Fire and Emergency Service,FMN,46,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,466.600
+47,Fire Dispatch,Queensland Fire and Emergency Service,FMN,47,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,466.850
+48,Fire Dispatch,Queensland Fire and Emergency Service,FMN,48,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,466.875
+49,Fire Dispatch,Queensland Fire and Emergency Service,FMN,49,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,466.925
+50,Fire Dispatch,Queensland Fire and Emergency Service,FMN,50,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,466.950
+51,Fire Dispatch,Queensland Fire and Emergency Service,FMN,51,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,466.975
+52,Fire Dispatch,Queensland Fire and Emergency Service,FMN,52,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,467.275
+53,Fire Dispatch,Queensland Fire and Emergency Service,FMN,53,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,467.325
+54,Fire Dispatch,Queensland Fire and Emergency Service,FMN,54,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,467.350
+55,Fire Dispatch,Queensland Fire and Emergency Service,FMN,55,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,467.500
+56,Fire Dispatch,Queensland Fire and Emergency Service,FMN,56,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,467.650
+57,Fire Dispatch,Queensland Fire and Emergency Service,FMN,57,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,467.675
+58,Fire Dispatch,Queensland Fire and Emergency Service,FMN,58,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,467.700
+59,Fire Dispatch,Queensland Fire and Emergency Service,FMN,59,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,467.800
+60,Fire Dispatch,Queensland Fire and Emergency Service,FMN,60,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,465.950
+61,Fire Dispatch,Queensland Fire and Emergency Service,FMN,61,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,466.150
+62,Fire Dispatch,Queensland Fire and Emergency Service,FMN,62,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,465.500
+63,Fire Dispatch,Queensland Fire and Emergency Service,FMN,63,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,467.300
+64,Fire Dispatch,Queensland Fire and Emergency Service,FMN,64,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,466.575
+65,Fire Dispatch,Queensland Fire and Emergency Service,FMN,65,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,467.225
+66,Fire Dispatch,Queensland Fire and Emergency Service,FMN,66,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,469.450
+67,Fire Dispatch,Queensland Fire and Emergency Service,FMN,67,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,465.0375
+68,Fire Dispatch,Queensland Fire and Emergency Service,FMN,68,,RM,141.3 PL,Public Safety,UHF HGS,,QFES - Operations,,465.975
+69,Fire Dispatch,Queensland Fire and Emergency Service,FMN,ESO S1,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,412.275
+70,Fire Dispatch,Queensland Fire and Emergency Service,FMN,ESO S2,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,412.325
+71,Fire Dispatch,Queensland Fire and Emergency Service,FMN,ESO S3,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,412.350
+72,Fire Dispatch,Queensland Fire and Emergency Service,FMN,ESO S4,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,412.400
+73,Fire Dispatch,Queensland Fire and Emergency Service,FMN,ESO S5,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,412.450
+74,Fire Dispatch,Queensland Fire and Emergency Service,FMN,ESO R1,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,421.8375
+75,Fire Dispatch,Queensland Fire and Emergency Service,FMN,ESO R2,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,421.925
+76,Fire Dispatch,Queensland Fire and Emergency Service,FMN,ESOAR1,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,468.575
+90,Fire Dispatch,Queensland Fire and Emergency Service,FMN,90 ESS,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.975
+91,Fire Dispatch,Queensland Fire and Emergency Service,FMN,91-38H,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.975
+92,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB 5S,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.525
+93,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB 5R,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.525
+94,Fire Dispatch,Queensland Fire and Emergency Service,FMN,94 RPT,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.8625
+95,Fire Dispatch,Queensland Fire and Emergency Service,FMN,95 RPT,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.8125
+96,Fire Dispatch,Queensland Fire and Emergency Service,FMN,96 RPT,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.7625
+97,Fire Dispatch,Queensland Fire and Emergency Service,FMN,97 RPT,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.7375
+98,Fire Dispatch,Queensland Fire and Emergency Service,FMN,98 RPT,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.7125
+101,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB 1R,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.425
+102,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB 2R,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.450
+103,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB 3R,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.475
+104,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB 4R,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.500
+105,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB 5R,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.525
+106,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB 6R,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.550
+107,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB 7R,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.575
+108,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB 8R,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.600
+109,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB 9,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.625
+110,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB10,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.650
+111,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB11,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.675
+112,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB12,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.700
+113,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB13,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.725
+114,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB14,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.750
+115,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB15,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.775
+116,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB16,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.800
+117,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB17,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.825
+118,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB18,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.850
+119,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB19,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.875
+120,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB20,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.900
+121,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB21,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,476.925
+124,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB24,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.000
+125,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB25,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.025
+126,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB26,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.050
+127,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB27,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.075
+128,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB28,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.100
+129,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB29,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.125
+130,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB30,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.150
+131,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB31,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.175
+132,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB32,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.200
+133,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB33,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.225
+134,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB34,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.250
+135,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB35,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.275
+136,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB36,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.300
+137,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB37,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.325
+138,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB38,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.350
+139,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB39,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.375
+140,Fire Dispatch,Queensland Fire and Emergency Service,FMN,CB40,,RM,CSQ,Public Safety,UHF HGS,,QFES - Operations,,477.400
+141,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo 1,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,468.600
+142,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo 2,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,468.625
+143,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo 3,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,468.650
+144,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo 4,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.125
+145,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo 5,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.250
+146,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo 6,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.525
+147,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo 7,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.625
+148,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo 8,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.725
+149,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo 9,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.775
+150,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo10,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.425
+151,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo11,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,466.725
+152,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo12,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.000
+155,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo21,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,468.600
+156,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo22,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,468.625
+157,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo23,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,468.650
+158,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo24,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.125
+159,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo25,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.250
+160,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo26,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.525
+161,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo27,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.625
+162,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo28,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.725
+163,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo29,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.775
+164,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo30,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.425
+165,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo31,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,466.725
+166,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESo32,,RM,107.2 PL,Public Safety,UHF HGS,,QFES - Operations,,467.000
+167,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES 1,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.9375
+168,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES 2,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.8875
+169,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES 3,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.8375
+170,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES 4,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.7875
+171,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES 5,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.7375
+172,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES 6,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.6875
+173,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES 7,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.6375
+174,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES 8,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.5875
+175,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES 9,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.5375
+176,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES10,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.4875
+177,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES11,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.4375
+178,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES12,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.3875
+179,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES13,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.3375
+180,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES14,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.2875
+181,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES15,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.2375
+182,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES16,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.1875
+183,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES17,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.1375
+184,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES18,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.0875
+185,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES19,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.0375
+186,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES20,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.9875
+187,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES21,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.9375
+188,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES22,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.8875
+189,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESPR1,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.8375
+190,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SESPR2,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.7875
+191,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES31,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.9375
+192,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES32,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.8875
+193,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES33,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.8375
+194,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES34,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.7875
+195,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES35,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.7375
+196,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES36,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.6875
+197,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES37,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.6375
+198,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES38,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.5875
+199,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES39,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.5375
+200,Fire Dispatch,Queensland Fire and Emergency Service,FMN,SES40,,RM,110.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.4875
+201,Fire Dispatch,Queensland Fire and Emergency Service,FMN,201 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.8625
+202,Fire Dispatch,Queensland Fire and Emergency Service,FMN,202 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,458.8625
+203,Fire Dispatch,Queensland Fire and Emergency Service,FMN,203 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.8125
+204,Fire Dispatch,Queensland Fire and Emergency Service,FMN,204 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,458.8125
+205,Fire Dispatch,Queensland Fire and Emergency Service,FMN,205 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.7625
+206,Fire Dispatch,Queensland Fire and Emergency Service,FMN,206 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,458.7625
+207,Fire Dispatch,Queensland Fire and Emergency Service,FMN,207 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.7375
+208,Fire Dispatch,Queensland Fire and Emergency Service,FMN,208 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,458.7375
+209,Fire Dispatch,Queensland Fire and Emergency Service,FMN,209 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.7125
+210,Fire Dispatch,Queensland Fire and Emergency Service,FMN,210 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,458.7125
+211,Fire Dispatch,Queensland Fire and Emergency Service,FMN,211,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.9625
+212,Fire Dispatch,Queensland Fire and Emergency Service,FMN,212,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.9125
+213,Fire Dispatch,Queensland Fire and Emergency Service,FMN,213,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.8625
+214,Fire Dispatch,Queensland Fire and Emergency Service,FMN,214,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.8125
+215,Fire Dispatch,Queensland Fire and Emergency Service,FMN,215,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.7625
+216,Fire Dispatch,Queensland Fire and Emergency Service,FMN,216,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.7125
+217,Fire Dispatch,Queensland Fire and Emergency Service,FMN,217,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.6625
+218,Fire Dispatch,Queensland Fire and Emergency Service,FMN,218,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.6125
+219,Fire Dispatch,Queensland Fire and Emergency Service,FMN,219,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.5625
+220,Fire Dispatch,Queensland Fire and Emergency Service,FMN,220,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.5125
+221,Fire Dispatch,Queensland Fire and Emergency Service,FMN,221,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.4625
+222,Fire Dispatch,Queensland Fire and Emergency Service,FMN,222,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.4125
+223,Fire Dispatch,Queensland Fire and Emergency Service,FMN,223,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.3625
+224,Fire Dispatch,Queensland Fire and Emergency Service,FMN,224,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.3125
+225,Fire Dispatch,Queensland Fire and Emergency Service,FMN,225,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.2625
+226,Fire Dispatch,Queensland Fire and Emergency Service,FMN,226,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.2125
+227,Fire Dispatch,Queensland Fire and Emergency Service,FMN,227,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.1625
+228,Fire Dispatch,Queensland Fire and Emergency Service,FMN,228,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.1125
+229,Fire Dispatch,Queensland Fire and Emergency Service,FMN,229,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.0625
+230,Fire Dispatch,Queensland Fire and Emergency Service,FMN,230,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,469.0125
+231,Fire Dispatch,Queensland Fire and Emergency Service,FMN,231,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.9625
+232,Fire Dispatch,Queensland Fire and Emergency Service,FMN,232,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.9125
+233,Fire Dispatch,Queensland Fire and Emergency Service,FMN,233,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.8625
+234,Fire Dispatch,Queensland Fire and Emergency Service,FMN,234,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.8125
+235,Fire Dispatch,Queensland Fire and Emergency Service,FMN,235,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.7625
+236,Fire Dispatch,Queensland Fire and Emergency Service,FMN,236,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.7125
+237,Fire Dispatch,Queensland Fire and Emergency Service,FMN,237,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.6625
+238,Fire Dispatch,Queensland Fire and Emergency Service,FMN,238,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.6125
+239,Fire Dispatch,Queensland Fire and Emergency Service,FMN,239,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.5625
+240,Fire Dispatch,Queensland Fire and Emergency Service,FMN,240,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,468.5125
+241,Fire Dispatch,Queensland Fire and Emergency Service,FMN,241 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,456.025
+243,Fire Dispatch,Queensland Fire and Emergency Service,FMN,243 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,456.050
+245,Fire Dispatch,Queensland Fire and Emergency Service,FMN,245 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,456.175
+247,Fire Dispatch,Queensland Fire and Emergency Service,FMN,247 FG,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,456.225
+249,Fire Dispatch,Queensland Fire and Emergency Service,FMN,249INC,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,457.475
+250,Fire Dispatch,Queensland Fire and Emergency Service,FMN,250INC,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,466.975
+251,Fire Dispatch,Queensland Fire and Emergency Service,FMN,ARFF,,RM,123.0 PL,Public Safety,UHF HGS,,QFES - Operations,,465.750
+254,Fire Dispatch,Queensland Fire and Emergency Service,FMN,254LOC,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,455.650
+255,Fire Dispatch,Queensland Fire and Emergency Service,FMN,255LOC,,RM,167.9 PL,Public Safety,UHF HGS,,QFES - Operations,,455.900
+300 QPWS Sim,Public Works,Queensland Parks and Wildlife Service,FMN,300 QPWS Sim,,BM,107.2 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+301 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,301 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+302 Springbrook,Public Works,Queensland Parks and Wildlife Service,FMN,302 Springbrook,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+303 Tamborine,Public Works,Queensland Parks and Wildlife Service,FMN,303 Tamborine,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+304 Binna Burra,Public Works,Queensland Parks and Wildlife Service,FMN,304 Binna Burra,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+305 Bald Mtn,Public Works,Queensland Parks and Wildlife Service,FMN,305 Bald Mtn,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+306 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,306 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+307 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,307 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+308 LManchester,Public Works,Queensland Parks and Wildlife Service,FMN,308 LManchester,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+309 Mt Nebo,Public Works,Queensland Parks and Wildlife Service,FMN,309 Mt Nebo,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+310 Mt Glorious,Public Works,Queensland Parks and Wildlife Service,FMN,310 Mt Glorious,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+311 Mt Mee,Public Works,Queensland Parks and Wildlife Service,FMN,311 Mt Mee,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+312 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,312 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+313 Sbrook MP,Public Works,Queensland Parks and Wildlife Service,FMN,313 Sbrook MP,,RM,107.2 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.125
+314 NStradbroke,Public Works,Queensland Parks and Wildlife Service,FMN,314 NStradbroke,,RM,118.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.0375
+315 Moreton Is,Public Works,Queensland Parks and Wildlife Service,FMN,315 Moreton Is,,RM,127.3 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.200
+316 Oceanview,Public Works,Queensland Parks and Wildlife Service,FMN,316 Oceanview,,RM,131.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.375
+321 SE PortRpt,Public Works,Queensland Parks and Wildlife Service,FMN,321 SE PortRpt,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+322 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,322 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5375
+323 Girraween,Public Works,Queensland Parks and Wildlife Service,FMN,323 Girraween,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5375
+324 Paschendale,Public Works,Queensland Parks and Wildlife Service,FMN,324 Paschendale,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5375
+325 Warwick,Public Works,Queensland Parks and Wildlife Service,FMN,325 Warwick,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5375
+326 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,326 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5375
+327 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,327 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5375
+328 Inglewood,Public Works,Queensland Parks and Wildlife Service,FMN,328 Inglewood,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5375
+329 Merinda,Public Works,Queensland Parks and Wildlife Service,FMN,329 Merinda,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5375
+330 Pechey,Public Works,Queensland Parks and Wildlife Service,FMN,330 Pechey,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5375
+331 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,331 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+332 Western Ck,Public Works,Queensland Parks and Wildlife Service,FMN,332 Western Ck,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+333 Durabilla,Public Works,Queensland Parks and Wildlife Service,FMN,333 Durabilla,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+334 Bunya Mtn,Public Works,Queensland Parks and Wildlife Service,FMN,334 Bunya Mtn,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+335 Barakula,Public Works,Queensland Parks and Wildlife Service,FMN,335 Barakula,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+336 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,336 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+342 W PortRpt,Public Works,Queensland Parks and Wildlife Service,FMN,342 W PortRpt,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+344 Yuleba,Public Works,Queensland Parks and Wildlife Service,FMN,344 Yuleba,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.150
+345 Roma,Public Works,Queensland Parks and Wildlife Service,FMN,345 Roma,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+346 Taroom,Public Works,Queensland Parks and Wildlife Service,FMN,346 Taroom,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.550
+347 Expedition,Public Works,Queensland Parks and Wildlife Service,FMN,347 Expedition,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.1875
+348 Coorada,Public Works,Queensland Parks and Wildlife Service,FMN,348 Coorada,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.125
+349 Carnarvon,Public Works,Queensland Parks and Wildlife Service,FMN,349 Carnarvon,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.275
+350 Mt Moffatt,Public Works,Queensland Parks and Wildlife Service,FMN,350 Mt Moffatt,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.325
+351 Injune,Public Works,Queensland Parks and Wildlife Service,FMN,351 Injune,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3125
+352 Salvatore,Public Works,Queensland Parks and Wildlife Service,FMN,352 Salvatore,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.100
+353 Springsure,Public Works,Queensland Parks and Wildlife Service,FMN,353 Springsure,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+354 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,354 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,78.5375
+355 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,355 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,78.5375
+356 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,356 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,78.5375
+357 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,357 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,78.5375
+358 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,358 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,78.5375
+366 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,366 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.100
+367 Tewantin,Public Works,Queensland Parks and Wildlife Service,FMN,367 Tewantin,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.100
+368 Maleny,Public Works,Queensland Parks and Wildlife Service,FMN,368 Maleny,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.100
+369 Noosa,Public Works,Queensland Parks and Wildlife Service,FMN,369 Noosa,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.100
+370 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,370 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.100
+371 Kenilworth,Public Works,Queensland Parks and Wildlife Service,FMN,371 Kenilworth,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.100
+372 Imbil,Public Works,Queensland Parks and Wildlife Service,FMN,372 Imbil,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.100
+373 Jimna,Public Works,Queensland Parks and Wildlife Service,FMN,373 Jimna,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.100
+374 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,374 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.100
+375 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,375 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,78.5375
+376 Blackbutt,Public Works,Queensland Parks and Wildlife Service,FMN,376 Blackbutt,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,78.5375
+377 Yarraman,Public Works,Queensland Parks and Wildlife Service,FMN,377 Yarraman,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,78.5375
+378 Nanango,Public Works,Queensland Parks and Wildlife Service,FMN,378 Nanango,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,78.5375
+379 Bunya Mtn2,Public Works,Queensland Parks and Wildlife Service,FMN,379 Bunya Mtn2,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,78.5375
+380 Gympie,Public Works,Queensland Parks and Wildlife Service,FMN,380 Gympie,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3375
+381 Galangowan,Public Works,Queensland Parks and Wildlife Service,FMN,381 Galangowan,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3375
+382 Murgon,Public Works,Queensland Parks and Wildlife Service,FMN,382 Murgon,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3375
+383 Brooyar,Public Works,Queensland Parks and Wildlife Service,FMN,383 Brooyar,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3375
+384 Marybrough,Public Works,Queensland Parks and Wildlife Service,FMN,384 Marybrough,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3375
+385 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,385 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3375
+386 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,386 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+387 Allies Ck,Public Works,Queensland Parks and Wildlife Service,FMN,387 Allies Ck,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+388 Mundubbera,Public Works,Queensland Parks and Wildlife Service,FMN,388 Mundubbera,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+389 Yule,Public Works,Queensland Parks and Wildlife Service,FMN,389 Yule,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+390 Monto,Public Works,Queensland Parks and Wildlife Service,FMN,390 Monto,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+391 Kroombit,Public Works,Queensland Parks and Wildlife Service,FMN,391 Kroombit,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+392 Kalpower,Public Works,Queensland Parks and Wildlife Service,FMN,392 Kalpower,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+393 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,393 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+394 Elliott R,Public Works,Queensland Parks and Wildlife Service,FMN,394 Elliott R,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+395 Bundaberg,Public Works,Queensland Parks and Wildlife Service,FMN,395 Bundaberg,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+396 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,396 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+406 SB PortRpt,Public Works,Queensland Parks and Wildlife Service,FMN,406 SB PortRpt,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+407 Wolvi,Public Works,Queensland Parks and Wildlife Service,FMN,407 Wolvi,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.150
+408 Cooloola,Public Works,Queensland Parks and Wildlife Service,FMN,408 Cooloola,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.150
+409 Double Is,Public Works,Queensland Parks and Wildlife Service,FMN,409 Double Is,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.150
+410 Ungowa,Public Works,Queensland Parks and Wildlife Service,FMN,410 Ungowa,,RM,127.3 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+411 Eurong,Public Works,Queensland Parks and Wildlife Service,FMN,411 Eurong,,RM,118.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5375
+412 Orchid Bch,Public Works,Queensland Parks and Wildlife Service,FMN,412 Orchid Bch,,RM,123.0 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.375
+413 Bowarrady,Public Works,Queensland Parks and Wildlife Service,FMN,413 Bowarrady,,RM,136.5 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.0375
+414 Sandy Cape,Public Works,Queensland Parks and Wildlife Service,FMN,414 Sandy Cape,,RM,131.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+419 GS PortRpt,Public Works,Queensland Parks and Wildlife Service,FMN,419 GS PortRpt,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+420 Byfield,Public Works,Queensland Parks and Wildlife Service,FMN,420 Byfield,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+421 AgnesWater,Public Works,Queensland Parks and Wildlife Service,FMN,421 AgnesWater,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+422 Townof1770,Public Works,Queensland Parks and Wildlife Service,FMN,422 Townof1770,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+423 Kroombit 2,Public Works,Queensland Parks and Wildlife Service,FMN,423 Kroombit 2,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+424 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,424 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+425 Mt Hopeful,Public Works,Queensland Parks and Wildlife Service,FMN,425 Mt Hopeful,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+426 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,426 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+427 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,427 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+428 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,428 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+429 Blackdown,Public Works,Queensland Parks and Wildlife Service,FMN,429 Blackdown,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+430 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,430 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+431 Springsure,Public Works,Queensland Parks and Wildlife Service,FMN,431 Springsure,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+432 Emerald,Public Works,Queensland Parks and Wildlife Service,FMN,432 Emerald,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+433 Clermont,Public Works,Queensland Parks and Wildlife Service,FMN,433 Clermont,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+434 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,434 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+435 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,435 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3125
+436 Prudhoe Is,Public Works,Queensland Parks and Wildlife Service,FMN,436 Prudhoe Is,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3125
+437 Eungella,Public Works,Queensland Parks and Wildlife Service,FMN,437 Eungella,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3125
+438 Cathu,Public Works,Queensland Parks and Wildlife Service,FMN,438 Cathu,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3125
+439 WhitsundyIs,Public Works,Queensland Parks and Wildlife Service,FMN,439 WhitsundyIs,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3125
+440 Bowen,Public Works,Queensland Parks and Wildlife Service,FMN,440 Bowen,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3125
+441 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,441 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3125
+447 C PortRpt,Public Works,Queensland Parks and Wildlife Service,FMN,447 C PortRpt,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+448 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,448 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.125
+449 Ingham,Public Works,Queensland Parks and Wildlife Service,FMN,449 Ingham,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.125
+450 Cardwell,Public Works,Queensland Parks and Wildlife Service,FMN,450 Cardwell,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.125
+451 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,451 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.125
+452 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,452 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.125
+453 Ravenshoe,Public Works,Queensland Parks and Wildlife Service,FMN,453 Ravenshoe,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+454 Atherton,Public Works,Queensland Parks and Wildlife Service,FMN,454 Atherton,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+455 BelendenKer,Public Works,Queensland Parks and Wildlife Service,FMN,455 BelendenKer,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+456 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,456 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+457 Mossman,Public Works,Queensland Parks and Wildlife Service,FMN,457 Mossman,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+458 Windsor Tbl,Public Works,Queensland Parks and Wildlife Service,FMN,458 Windsor Tbl,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+459 Cape Trib,Public Works,Queensland Parks and Wildlife Service,FMN,459 Cape Trib,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+460 Spare,Public Works,Queensland Parks and Wildlife Service,FMN,460 Spare,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5625
+465 WT PortRpt,Public Works,Queensland Parks and Wildlife Service,FMN,465 WT PortRpt,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+466 Inkerman,Public Works,Queensland Parks and Wildlife Service,FMN,466 Inkerman,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+467 BowlGreenB,Public Works,Queensland Parks and Wildlife Service,FMN,467 BowlGreenB,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+468 Townsville,Public Works,Queensland Parks and Wildlife Service,FMN,468 Townsville,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+469 Charters T,Public Works,Queensland Parks and Wildlife Service,FMN,469 Charters T,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.1875
+470 Moorrinya,Public Works,Queensland Parks and Wildlife Service,FMN,470 Moorrinya,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+471 Poison Val,Public Works,Queensland Parks and Wildlife Service,FMN,471 Poison Val,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,78.5375
+472 Warang,Public Works,Queensland Parks and Wildlife Service,FMN,472 Warang,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.2875
+473 Porc Gorge,Public Works,Queensland Parks and Wildlife Service,FMN,473 Porc Gorge,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.3375
+474 Blackbraes,Public Works,Queensland Parks and Wildlife Service,FMN,474 Blackbraes,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+477 Undara,Public Works,Queensland Parks and Wildlife Service,FMN,477 Undara,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.275
+478 Bulleringa,Public Works,Queensland Parks and Wildlife Service,FMN,478 Bulleringa,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.125
+479 Chillagoe,Public Works,Queensland Parks and Wildlife Service,FMN,479 Chillagoe,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5125
+482 Boodja Nth,Public Works,Queensland Parks and Wildlife Service,FMN,482 Boodja Nth,,RM,127.3 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.500
+483 Boodja Sth,Public Works,Queensland Parks and Wildlife Service,FMN,483 Boodja Sth,,RM,136.5 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.200
+498 CS PortRpt,Public Works,Queensland Parks and Wildlife Service,FMN,498 CS PortRpt,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.300
+499 Training,Public Works,Queensland Parks and Wildlife Service,FMN,499 Training,,BM,127.3 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5375
+500 Incident Rpt,Public Works,Queensland Parks and Wildlife Service,FMN,500 Incident Rpt,,RM,114.8 PL,Public Safety,PMR,,Queensland Parks & Wildlife Service,,79.5375
+1,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,467.8375
+2,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,467.850
+3,Law Dispatch,Queensland Police Service,P25,Brisbane North - Redcliffe,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,467.8625
+4,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,467.875
+5,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,467.8875
+6,Law Dispatch,Queensland Police Service,P25,Brisbane Central - Enoggera Hill,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,467.900
+7,Law Dispatch,Queensland Police Service,P25,Brisbane North - Chermside,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,467.9125
+8,Law Dispatch,Queensland Police Service,P25,Brisbane Oxley - Forest Lake,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,467.925
+9,Law Dispatch,Queensland Police Service,P25,Brisbane Central - Mt Glorious,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,467.9375
+10,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,467.950
+11,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,467.9625
+12,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,467.975
+13,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VH4AMB,UHF,,467.9875
+14,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.000
+15,Law Dispatch,Queensland Police Service,P25,Mt Cotton,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.0125
+16,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.025
+17,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.0375
+18,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.050
+19,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.0625
+20,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.075
+21,Law Dispatch,Queensland Police Service,P25,Brisbane Wynnum - Manly West,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.0875
+22,Law Dispatch,Queensland Police Service,P25,Mt Cotton,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.100
+23,Law Dispatch,Queensland Police Service,P25,Event Channel - Suncorp Stadium,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.1125
+24,Law Dispatch,Queensland Police Service,P25,Mt Cotton,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.125
+25,Law Dispatch,Queensland Police Service,P25,Brisbane Wynnum - Carina,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.1375
+26,Law Dispatch,Queensland Police Service,P25,Brisbane North - Eatons Hill,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.150
+27,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.1675
+28,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.175
+29,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.1875
+30,Law Dispatch,Queensland Police Service,P25,Brisbane North - Ocean View,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.200
+31,Law Dispatch,Queensland Police Service,P25,Brisbane North - Petrie,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.2125
+32,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.225
+33,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.225
+34,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.250
+35,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.250
+36,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.275
+37,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKG,UHF,,468.2875
+38,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.300
+39,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.3125
+40,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.325
+41,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.325
+42,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.350
+43,Law Dispatch,Queensland Police Service,P25,Brisbane North - Enoggera Hill,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.3625
+45,Law Dispatch,Queensland Police Service,P25,Brisbane North - Chermside,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.3875
+46,Law Dispatch,Queensland Police Service,P25,Brisbane Central - Mt Coot-tha,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.400
+47,Law Dispatch,Queensland Police Service,P25,Windsor,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.4125
+48,Law Dispatch,Queensland Police Service,P25,Brisbane Central - Brisbane City,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.425
+49,Law Dispatch,Queensland Police Service,P25,Brisbane Central - Fortitude Valley,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.4375
+50,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.450
+51,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.4625
+52,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.475
+54,Law Dispatch,Queensland Police Service,P25,Brisbane Wynnum - Mt Gravatt,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.500
+55,Law Dispatch,Queensland Police Service,P25,Brisbane Wynnum - Manly West,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.5125
+56,Law Dispatch,Queensland Police Service,P25,Mt Coot-tha,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.525
+57,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.525
+58,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.525
+59,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.5625
+60,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.575
+61,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.575
+62,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.600
+63,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.600
+64,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.625
+65,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.650
+66,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.650
+67,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.675
+68,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.675
+69,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.700
+70,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.700
+71,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.7125
+72,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.725
+73,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKG,UHF,,468.7375
+74,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.750
+75,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.7625
+32,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.225
+34,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.250
+64,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.625
+76,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.775
+77,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.7875
+78,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.800
+79,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.8125
+80,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKG,UHF,,468.825
+81,Law Dispatch,Queensland Police Service,P25,Brisbane Central - Mt Coot-tha,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.8375
+82,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.850
+83,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.850
+84,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.850
+85,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.8875
+87,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.900
+86,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.900
+88,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.925
+89,Law Dispatch,Queensland Police Service,P25,Brisbane Wynnum - Brisbane City,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.9375
+90,Law Dispatch,Queensland Police Service,P25,Mt Coot-tha,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,468.950
+93,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,468.9875
+94,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.000
+95,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.0125
+96,Law Dispatch,Queensland Police Service,P25,Toowoomba,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,469.025
+97,Law Dispatch,Queensland Police Service,P25,Brisbane Oxley - Wacol,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,469.0375
+98,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.050
+99,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.0625
+100,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.075
+101,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKG,UHF,,469.0875
+102,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.100
+104,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.125
+106,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.150
+108,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.175
+109,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.1875
+110,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.200
+111,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.2125
+112,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.225
+115,Law Dispatch,Queensland Police Service,P25,Mt Coot-tha,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,469.2625
+116,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.275
+117,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.2875
+118,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.300
+118,Law Dispatch,Queensland Police Service,P25,Brisbane Central - Mt Coot-tha,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,469.300
+119,Law Dispatch,Queensland Police Service,P25,Brisbane Central - Enoggera,,RM,293 NAC,Public Safety,P25 Digital,VKR,UHF,,469.3125
+120,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.325
+122,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.350
+124,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.375
+125,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKG,UHF,,469.3875
+126,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.400
+128,Law Dispatch,Queensland Police Service,P25,NIU,,RM,,Public Safety,P25 Digital,VKR,UHF,,469.425
+1,Railroad,Queensland Rail,FM,WAYSIDE,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.375
+2,Railroad,Queensland Rail,FM,SHUNT,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.275
+3,Railroad,Queensland Rail,FM,SHUNT,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.300
+4,Railroad,Queensland Rail,FM,SHUNT,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.325
+5,Railroad,Queensland Rail,FM,SHUNT,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.575
+6,Railroad,Queensland Rail,FM,SHUNT,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.600
+7,Railroad,Queensland Rail,FM,SHUNT,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.625
+8,Railroad,Queensland Rail,FM,SHUNT,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.200
+9,Railroad,Queensland Rail,FM,WAYSIDE,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.425
+10,Railroad,Queensland Rail,FM,WAYSIDE,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.625
+11,Railroad,Queensland Rail,FM,SHUNT,,M,123.0 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.425
+12,Railroad,Queensland Rail,FM,SHUNT,,M,123.0 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.625
+13,Railroad,Queensland Rail,FM,SHUNT,,M,141.3 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.425
+14,Railroad,Queensland Rail,FM,SHUNT,,M,141.3 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.625
+15,Railroad,Queensland Rail,FM,SHUNT,,M,162.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.425
+16,Railroad,Queensland Rail,FM,SHUNT,,M,162.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.625
+17,Railroad,Queensland Rail,FM,SHUNT,,M,179.9 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.425
+18,Railroad,Queensland Rail,FM,SHUNT,,M,179.9 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.625
+19,Railroad,Queensland Rail,FM,SHUNT,,M,203.5 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.425
+20,Railroad,Queensland Rail,FM,SHUNT,,M,203.5 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.625
+21,Railroad,Queensland Rail,FM,TCR 211,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.100
+22,Railroad,Queensland Rail,FM,TCR 212,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.125
+23,Railroad,Queensland Rail,FM,TCR 213,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.150
+24,Railroad,Queensland Rail,FM,TCR 221,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.400
+25,Railroad,Queensland Rail,FM,TCR 222,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.450
+26,Railroad,Queensland Rail,FM,TCR 223,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.500
+27,Railroad,Queensland Rail,FM,TCR 231,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.700
+28,Railroad,Queensland Rail,FM,TCR 232,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.750
+29,Railroad,Queensland Rail,FM,TCR 233,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.800
+30,Railroad,Queensland Rail,FM,VOTE ALL,,,,Railroad,Queensland Rail - UHF,,Queensland Rail,,0.000
+31,Railroad,Queensland Rail,FM,TAR 211,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.100
+32,Railroad,Queensland Rail,FM,TAR 212,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.125
+33,Railroad,Queensland Rail,FM,TAR 213,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.150
+34,Railroad,Queensland Rail,FM,TAR 221,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.400
+35,Railroad,Queensland Rail,FM,TAR 222,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.450
+36,Railroad,Queensland Rail,FM,TAR 223,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.500
+37,Railroad,Queensland Rail,FM,TAR 231,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.700
+38,Railroad,Queensland Rail,FM,TAR 232,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.750
+39,Railroad,Queensland Rail,FM,TAR 233,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.800
+40,Railroad,Queensland Rail,FM,Acacia Ridge Intermodel Manager,,RM,241.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.900
+41,Railroad,Queensland Rail,FM,WAYSIDE,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.375
+42,Railroad,Queensland Rail,FM,MSR - 42,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.175
+43,Railroad,Queensland Rail,FM,MSR - 43,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.475
+44,Railroad,Queensland Rail,FM,MSR - 44,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.775
+45,Railroad,Queensland Rail,FM,MSR - 45,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.075
+46,Railroad,Queensland Rail,FM,MSR - 46,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.375
+47,Railroad,Queensland Rail,FM,MSR - 47,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.100
+48,Railroad,Queensland Rail,FM,MSR - 48,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.400
+49,Railroad,Queensland Rail,FM,MSR - 49,,RM,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.700
+50,Railroad,Queensland Rail,FM,VOTE MSR,,,,Railroad,Queensland Rail - UHF,,Queensland Rail,,0.000
+51,Railroad,Queensland Rail,FM,WAYSIDE,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.375
+52,Railroad,Queensland Rail,FM,TAR 42,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.175
+53,Railroad,Queensland Rail,FM,TAR 43,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.475
+54,Railroad,Queensland Rail,FM,TAR 44,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.775
+55,Railroad,Queensland Rail,FM,TAR 45,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.075
+56,Railroad,Queensland Rail,FM,TAR 46,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.375
+57,Railroad,Queensland Rail,FM,TAR 47,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.100
+58,Railroad,Queensland Rail,FM,TAR 48,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.400
+59,Railroad,Queensland Rail,FM,TAR 49,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.700
+61,Railroad,Queensland Rail,FM,WAYSIDE,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.375
+62,Railroad,Queensland Rail,FM,SPARE SHUNT,,RM,141.3 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.275
+63,Railroad,Queensland Rail,FM,SPARE SHUNT,,RM,151.4 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.300
+64,Railroad,Queensland Rail,FM,SPARE SHUNT,,RM,179.9 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.325
+65,Railroad,Queensland Rail,FM,SPARE SHUNT,,RM,203.5 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.575
+66,Railroad,Queensland Rail,FM,SPARE SHUNT - Normanby Wash,,RM,218.1 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.600
+67,Railroad,Queensland Rail,FM,SPARE SHUNT - Mayne Yard,,RM,233.6 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.625
+68,Railroad,Queensland Rail,FM,SPARE SHUNT,,RM,241.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.200
+69,Railroad,Queensland Rail,FM,SPARE SHUNT,,M,241.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.425
+70,Railroad,Queensland Rail,FM,SPARE SHUNT,,M,241.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.625
+71,Railroad,Queensland Rail,FM,WAYSIDE,,M,CSQ,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.375
+72,Railroad,Queensland Rail,FM,SPARE SHUNT - Fishermans Island Yard,,RM,110.9 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.275
+73,Railroad,Queensland Rail,FM,SPARE SHUNT,,RM,123.0 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.300
+74,Railroad,Queensland Rail,FM,SPARE SHUNT,,RM,136.5 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.325
+75,Railroad,Queensland Rail,FM,SPARE SHUNT,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.575
+76,Railroad,Queensland Rail,FM,SPARE SHUNT,,RM,173.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.600
+77,Railroad,Queensland Rail,FM,SPARE SHUNT,,RM,186.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.625
+78,Railroad,Queensland Rail,FM,SPARE SHUNT,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.200
+79,Railroad,Queensland Rail,FM,SPARE SHUNT,,M,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.425
+80,Railroad,Queensland Rail,FM,SPARE SHUNT,,M,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,411.625
+91,Railroad,Queensland Rail,FM,Vote - Ipswich,,RM,,Railroad,Queensland Rail - UHF,,Queensland Rail,,0.000
+93,Railroad,Queensland Rail,FM,Vote - Doomben,,RM,,Railroad,Queensland Rail - UHF,,Queensland Rail,,0.000
+94,Railroad,Queensland Rail,FM,Vote - Northgate,,RM,,Railroad,Queensland Rail - UHF,,Queensland Rail,,0.000
+95,Railroad,Queensland Rail,FM,Vote - Mayne,,RM,,Railroad,Queensland Rail - UHF,,Queensland Rail,,0.000
+96,Railroad,Queensland Rail,FM,Roma Street Station,,RM,141.3 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.025
+97,Railroad,Queensland Rail,FM,Central Station,,RM,173.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.625
+98,Railroad,Queensland Rail,FM,Fortitude Valley Station,,RM,131.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.725
+101,Railroad,Queensland Rail,FM,N211,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.100
+102,Railroad,Queensland Rail,FM,N212,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.125
+103,Railroad,Queensland Rail,FM,N213,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.150
+104,Railroad,Queensland Rail,FM,N221 - Northgate,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.400
+105,Railroad,Queensland Rail,FM,N222 - Roma Street,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.450
+106,Railroad,Queensland Rail,FM,N223 - Mayne,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.500
+107,Railroad,Queensland Rail,FM,N231,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.700
+108,Railroad,Queensland Rail,FM,N232,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.750
+109,Railroad,Queensland Rail,FM,N233,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.800
+111,Railroad,Queensland Rail,FM,S211 - Ipswich,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.100
+112,Railroad,Queensland Rail,FM,"S212 - Ormeau, Ipswich",,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.125
+113,Railroad,Queensland Rail,FM,S213 - Nerang,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.150
+114,Railroad,Queensland Rail,FM,S221 - Robina,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.400
+115,Railroad,Queensland Rail,FM,S222 - Varsity Lakes,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.450
+116,Railroad,Queensland Rail,FM,S223,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.500
+117,Railroad,Queensland Rail,FM,S231 - Yerongpilly,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.700
+118,Railroad,Queensland Rail,FM,S232 - Beenleigh,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.750
+119,Railroad,Queensland Rail,FM,S233 - Cleveland,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.800
+120,Railroad,Queensland Rail,FM,120 - Doomben,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.925
+121,Railroad,Queensland Rail,FM,121 - Northgate,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.225
+122,Railroad,Queensland Rail,FM,122 - Wynnum,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.300
+123,Railroad,Queensland Rail,FM,Banoon,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.000
+124,Railroad,Queensland Rail,FM,BEERBURRUM,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.000
+125,Railroad,Queensland Rail,FM,125 - Fishermans Island,,RM,,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,414.7875
+130,Railroad,Queensland Rail,FM,130 Wilkes Knob,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,417.550
+131,Railroad,Queensland Rail,FM,131,,RM,,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,417.850
+132,Railroad,Queensland Rail,FM,132 Southbank,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.425
+133,Railroad,Queensland Rail,FM,133,,RM,,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,418.725
+134,Railroad,Queensland Rail,FM,134 Rosewood,,RM,192.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.025
+135 YARD OPS,Railroad,Queensland Rail,FM,135 Aurizon Yard Ops,,RM,,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.325
+136 Cabooltu,Railroad,Queensland Rail,FM,136 Caboolture,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.625
+137 North,Railroad,Queensland Rail,FM,137 North,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.050
+138 NSB,Railroad,Queensland Rail,FM,138 NSB,,RM,146.2 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.350
+139,Railroad,Queensland Rail,FM,139,,RM,,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.650
+140,Railroad,Queensland Rail,FM,140,,RM,,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,419.950
+199 SRA,Railroad,Queensland Rail,FMN,NSW WB - Acacia Ridge - NSW Border,,BM,173.8 PL,Railroad,Queensland Rail - UHF,VL4QR,Queensland Rail,,450.050
+SESRPT 1,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 1,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.9375
+SESRPT 2,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 2,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.8875
+SESRPT 3,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 3,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.8375
+SESRPT 4,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 4,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.7875
+SESRPT 5,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 5,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.7375
+SESRPT 6,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 6,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.6875
+SESRPT 7,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 7,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.6375
+SESRPT 8,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 8,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.5875
+SESRPT 9,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 9,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.5375
+SESRPT 10,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 10,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.4875
+SESRPT 11,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 11,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.4375
+SESRPT 12,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 12,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.3875
+SESRPT 13,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 13,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.3375
+SESRPT 14,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 14,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.2875
+SESRPT 15,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 15,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.2375
+SESRPT 16,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 16,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.1875
+SESRPT 17,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 17,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.1375
+SESRPT 18,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 18,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.0875
+SESRPT 19,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 19,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.0375
+SESRPT 20,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 20,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,468.9875
+SESRPT 21,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 21,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,468.9375
+SESRPT 22,EMS Dispatch,Queensland State Emergency Service,FMN,SESRPT 22,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,468.8875
+PRTRPT 1,EMS Dispatch,Queensland State Emergency Service,FMN,PRTRPT 1,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,468.8375
+PRTRPT 2,EMS Dispatch,Queensland State Emergency Service,FMN,PRTRPT 2,,RM,107.2 PL,Public Safety,HGS Bandplan,,SES,,468.7875
+SESTA 31,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 31,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.9375
+SESTA 32,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 32,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.8875
+SESTA 33,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 33,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.8375
+SESTA 34,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 34,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.7875
+SESTA 35,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 35,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.7375
+SESTA 36,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 36,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.6875
+SESTA 37,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 37,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.6375
+SESTA 38,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 38,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.5875
+SESTA 39,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 39,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.5375
+SESTA 40,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 40,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.4875
+SESTA 41,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 41,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.4375
+SESTA 42,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 42,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.3875
+SESTA 43,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 43,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.3375
+SESTA 44,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 44,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.2875
+SESTA 45,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 45,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.2375
+SESTA 46,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 46,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.1875
+SESTA 47,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 47,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.1375
+SESTA 48,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 48,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.0875
+SESTA 49,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 49,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,469.0375
+SESTA 50,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 50,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,468.9875
+SESTA 51,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 51,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,468.9375
+SESTA 52,EMS-Tac,Queensland State Emergency Service,FMN,SESTA 52,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,468.8875
+PRT TA 1,EMS-Tac,Queensland State Emergency Service,FMN,PRT TA 1,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,468.8375
+PRT TA 2,EMS-Tac,Queensland State Emergency Service,FMN,PRT TA 2,,BM,107.2 PL,Public Safety,HGS Bandplan,,SES,,468.7875
+CH 1,EMS-Tac,St Johns Ambulance Service,FM,Channel 1,,RM,114.8 PL,Public Safety,Nationwide Bandplan,VK4SJA,UHF,,475.350
+CH 2,EMS-Tac,St Johns Ambulance Service,FMN,Channel 2,,RM,114.8 PL,Public Safety,Nationwide Bandplan,VK4SJA,UHF,,470.400
+CH 3,EMS-Tac,St Johns Ambulance Service,FMN,Channel 3,,M,114.8 PL,Public Safety,Nationwide Bandplan,VK4SJA,UHF,,469.525
+CH 4,EMS-Tac,St Johns Ambulance Service,FMN,Channel 4,,RM,114.8 PL,Public Safety,Nationwide Bandplan,VK4SJA,UHF,,470.975
+CH 5,EMS-Tac,St Johns Ambulance Service,FMN,Channel 5,,RM,114.8 PL,Public Safety,Nationwide Bandplan,VK4SJA,UHF,,470.000
+CH 6,EMS-Tac,St Johns Ambulance Service,FMN,Channel 6,,M,114.8 PL,Public Safety,Nationwide Bandplan,VK4SJA,UHF,,472.150
+CH 7,EMS-Tac,St Johns Ambulance Service,FMN,Channel 7,,BM,114.8 PL,Public Safety,Nationwide Bandplan,VK4SJA,UHF,,472.200
+CH 8,EMS-Tac,St Johns Ambulance Service,FMN,Channel 8,,RM,107.2 PL,Public Safety,Nationwide Bandplan,VK4SJA,UHF,,462.850
+CH 9,EMS-Tac,St Johns Ambulance Service,FMN,Channel 9,,RM,107.2 PL,Public Safety,Nationwide Bandplan,VK4SJA,UHF,,463.575
+CH 10,EMS-Tac,St Johns Ambulance Service,FM,Channel 10,,RM,114.8 PL,Public Safety,Nationwide Bandplan,VK4SJA,UHF,,472.925
+CH 13,EMS-Tac,St Johns Ambulance Service,FM,Channel 13,,M,107.2 PL,Public Safety,Nationwide Bandplan,VK4SJA,UHF,,411.400
+CH 16,EMS-Tac,St Johns Ambulance Service,FM,Channel 16,,M,114.8 PL,Public Safety,Nationwide Bandplan,VK4SJA,UHF,,412.100
+CH 25,EMS-Tac,St Johns Ambulance Service,FMN,Channel 25,,BM,114.8 PL,Public Safety,Nationwide Bandplan,VH6SJA,UHF,,472.150
+DIGITAL 1,EMS-Tac,Surf Life Saving Queensland,NXDN,DIGITAL 1 - NATIONAL COMMON SIMPLEX,,BM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,484.950
+DIGITAL 2,EMS-Tac,Surf Life Saving Queensland,NXDN,DIGITAL 2 - NATIONAL COMMON SIMPLEX 2,,BM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,485.000
+DIGITAL 3,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 3 - NIU,,BM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,483.800
+DIGITAL 4,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 4 - GC SPRINGBROOK,,RM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,487.625
+DIGITAL 5,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 5 - GC POINT DANGER,,RM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,487.950
+DIGITAL 6,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 6 - GC BURLEIGH HILL,,RM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,488.650
+DIGITAL 7,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 7 - GC Q1,,RM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,488.775
+DIGITAL 8,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 8 - SC REDCLIFFE,,RM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,500.800
+DIGITAL 9,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 9 - POINT LOOKOUT,,RM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,485.250
+DIGITAL 10,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 10 - SC MORETON ISLAND,,RM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,486.050
+DIGITAL 11,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 11 - BRISBANE CITY,,RM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,489.075
+DIGITAL 13,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 13 - SC POINT CARTWRIGHT,,BM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,485.900
+DIGITAL 12,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 12 - SC CALOUNDRA,,RM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,487.075
+DIGITAL 14,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 14 - SC COOLUM,,BM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,488.925
+DIGITAL 15,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 15 - SC NOOSA,,BM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,489.225
+DIGITAL 16,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 16 - SC DOUBLE ISLAND POINT,,BM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,489.000
+DIGITAL 17,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 17 - WBC HERVEY BAY,,RM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,488.775
+DIGITAL 18,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 18 - WBC BUNDABERG,,RM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,488.650
+DIGITAL 19,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 19 - WBC AGNES WATER,,RM,1 RAN,Public Safety,UHF Channels,VN4SP,SLSQ,,489.000
+DIGITAL 20,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 20 - WBC TANNUM SANDS,,RM,1 RAN,Public Safety,UHF Channels,,SLSQ,,507.2375
+DIGITAL 22,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 22 - WBC YEPPOON,,RM,1 RAN,Public Safety,UHF Channels,,SLSQ,,507.8375
+DIGITAL 21,EMS Dispatch,Surf Life Saving Queensland,NXDN,DIGITAL 21 - WBC EMU PARK,,RM,1 RAN,Public Safety,UHF Channels,,SLSQ,,506.9375

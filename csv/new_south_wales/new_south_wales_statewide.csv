@@ -1,0 +1,1187 @@
+alpha tag,tag,entity,mode,description,type,tone,entity_type,group,license,category,frequency
+Bourke 3.4624,Aircraft,Airservices Australia,AM,Bourke 3.4624,BM,,Aircraft / Airport,Bourke Receivers,,HF Station,3.4624
+Bourke 3.4684,Aircraft,Airservices Australia,AM,Bourke 3.4684,BM,,Aircraft / Airport,Bourke Receivers,,HF Station,3.4684
+Bourke 5.6444,Aircraft,Airservices Australia,AM,Bourke 5.6444,BM,,Aircraft / Airport,Bourke Receivers,,HF Station,5.6444
+Bourke 6.5664,Aircraft,Airservices Australia,AM,Bourke 6.5664,BM,,Aircraft / Airport,Bourke Receivers,,HF Station,6.5664
+Bourke 8.8234,Aircraft,Airservices Australia,AM,Bourke 8.8234,BM,,Aircraft / Airport,Bourke Receivers,,HF Station,8.8234
+Bourke 8.8684,Aircraft,Airservices Australia,AM,Bourke 8.8684,BM,,Aircraft / Airport,Bourke Receivers,,HF Station,8.8684
+Bourke 13.2624,Aircraft,Airservices Australia,AM,Bourke 13.2624,BM,,Aircraft / Airport,Bourke Receivers,,HF Station,13.2624
+Bourke 17.9054,Aircraft,Airservices Australia,AM,Bourke 17.9054,BM,,Aircraft / Airport,Bourke Receivers,,HF Station,17.9054
+1 MICHLAGO,EMS Dispatch,Ambulance Service of NSW,FM,,RM,162.2 PL,Public Safety,Snowy Mtn Region,VL2KJ,Ambulance Service of NSW (ASNSW),462.7875
+2 ROBERTS,EMS Dispatch,Ambulance Service of NSW,FM,,RM,162.2 PL,Public Safety,Snowy Mtn Region,VL2KJ,Ambulance Service of NSW (ASNSW),462.225
+3 WAMBROOK,EMS Dispatch,Ambulance Service of NSW,FM,,RM,162.2 PL,Public Safety,Snowy Mtn Region,VL2KJ,Ambulance Service of NSW (ASNSW),462.025
+4 COOMA,EMS Dispatch,Ambulance Service of NSW,FM,,RM,162.2 PL,Public Safety,Snowy Mtn Region,VL2KJ,Ambulance Service of NSW (ASNSW),462.350
+5 JINDABYNE,EMS Dispatch,Ambulance Service of NSW,FM,,RM,162.2 PL,Public Safety,Snowy Mtn Region,VL2KJ,Ambulance Service of NSW (ASNSW),462.200
+6 PERISHER,EMS Dispatch,Ambulance Service of NSW,FM,,RM,162.2 PL,Public Safety,Snowy Mtn Region,VL2KJ,Ambulance Service of NSW (ASNSW),462.6625
+7 CRAKNBAK,EMS Dispatch,Ambulance Service of NSW,FM,,RM,162.2 PL,Public Safety,Snowy Mtn Region,VL2KJ,Ambulance Service of NSW (ASNSW),462.875
+8 SELWYN,EMS Dispatch,Ambulance Service of NSW,FM,,RM,162.2 PL,Public Safety,Snowy Mtn Region,VL2KJ,Ambulance Service of NSW (ASNSW),462.7875
+9 NIMTABEL,EMS Dispatch,Ambulance Service of NSW,FM,,RM,162.2 PL,Public Safety,Snowy Mtn Region,VL2KJ,Ambulance Service of NSW (ASNSW),462.750
+10 BOMBALA,EMS Dispatch,Ambulance Service of NSW,FM,,RM,162.2 PL,Public Safety,Snowy Mtn Region,VL2KJ,Ambulance Service of NSW (ASNSW),462.6875
+11 DELEGATE,EMS Dispatch,Ambulance Service of NSW,FM,,RM,162.2 PL,Public Safety,Snowy Mtn Region,VL2KJ,Ambulance Service of NSW (ASNSW),462.8875
+CustomsSydny,Security,Australian Customs Service,P25,Tx Sydney CBD 50w,RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.325
+Customs,Security,Australian Customs Service,P25,Tx Horsley Park 50w,RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.325
+Customs Serv,Security,Australian Customs Service,P25,Tx Bigola Plateau 50w,RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.325
+LucsHghtCust,Federal,Australian Customs Service,P25,Tx Lucas Heights 50w,RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.325
+CustomsMasco,Security,Australian Customs Service,P25,"Tx Sydney Airport, Mascot 0w",RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.600
+Customs,Security,Australian Customs Service,P25,Tx Mt Kiera 50w,RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.600
+Customs,Security,Australian Customs Service,P25,"Tx Cooks Hill, Newcastle 50w",RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.600
+Customs Svc,Security,Australian Customs Service,P25,"Tx Bimmil Hill, Eden 50w",RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.600
+Customs,Security,Australian Customs Service,P25,"Tx Mt Wondurrigah, Coffs Harbour 50w",RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.600
+ACS CBD,Security,Australian Customs Service,P25,Tx Sydney CBD 0w,RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.625
+ACS,Law Talk,Australian Customs Service,P25,Tx Green Cape 50w,RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.625
+AUst.Customs,Security,Australian Customs Service,P25,Tx Lucas Heights 50w,RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.650
+Tx Mt. Kiera,Security,Australian Customs Service,P25,Tx Mt Kiera 0w,RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.650
+Horsley Park,Security,Australian Customs Service,P25,Tx Horsley Park 50w,RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.650
+Tx Bigola 50,Security,Australian Customs Service,P25,Tx Bigola Plateau 50w,RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.650
+CstmsSloafNc,Security,Australian Customs Service,P25,"Tx Mt Sugarloaf, Newcastle 0w",RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.650
+Ex Sydney AP,Security,Australian Customs Service,P25,"Tx Sydney Airport, Mascot 0w",RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.650
+Customs,Security,Australian Customs Service,P25,"Tx Sydney Airport, Mascot 0w",RM,,Federal,Austalian Customs Service (NSW),VL2CUS,Australian Customs Service,489.825
+GPT,Law Tac,Australian Federal Police,P25,"Governor Phillip Tower, Sydney",RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),485.525
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (International Terminal Building) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),486.000
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (International Terminal Building) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),486.150
+AAP,Law Tac,Australian Federal Police,P25,AAP Building Sydney,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),486.150
+Lucas Height,Law Tac,Australian Federal Police,P25,Lucas Heights,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),487.200
+GPT,Law Tac,Australian Federal Police,P25,"Governor Phillip Tower, Sydney",RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),487.800
+GPT,Law Tac,Australian Federal Police,P25,"Governor Phillip Tower, Sydney",RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),488.325
+Charle ULM,Law Tac,Australian Federal Police,P25,"Charles Ulm Building, Mascot",RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),488.325
+GPT,Law Tac,Australian Federal Police,P25,"Governor Phillip Tower, Sydney",RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),488.375
+RAAF GLEN,Law Tac,Australian Federal Police,P25,"RAAF Base, Glenbrook",RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),488.3875
+Bondi,Law Tac,Australian Federal Police,P25,Bondi Junction,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),488.400
+Lucas Height,Law Tac,Australian Federal Police,P25,Lucas Heights,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),488.4125
+Bilgola,Law Tac,Australian Federal Police,P25,Bilgola Plateau,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),488.4375
+AAP,Law Tac,Australian Federal Police,P25,AAP Building Sydney,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),488.450
+Bilgola,Law Tac,Australian Federal Police,P25,Bilgola Plateau,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.375
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (Domestic Terminal URS) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.525
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (Domestic Terminal Building) Mascot,RM,,Federal,Sydney,VlL2AFP,Australian Federal Police (AFP),489.525
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (International Terminal URS) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.525
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (International Terminal Building) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.525
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (International Terminal Building) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.5375
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (International Terminal Building) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.550
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (Domestic Terminal URS) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.550
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (Domestic Terminal Building) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.550
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (International Terminal URS) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.550
+KurrajongHts,Law Tac,Australian Federal Police,P25,Kurrajong Heights,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.5625
+Greenacre,Law Tac,Australian Federal Police,P25,Greenacre,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.575
+GPT,Law Tac,Australian Federal Police,P25,"Governor Phillip Tower, Sydney",RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.800
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (Domestic Terminal URS) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.900
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (Domestic Terminal Building) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.900
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (International Terminal URS) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.900
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (International Terminal Building) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.900
+RAAF GLEN,Law Tac,Australian Federal Police,P25,"RAAF Base, Glenbrook",RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.9125
+Greenacre,Law Tac,Australian Federal Police,P25,Greenacre,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.925
+Lucas Height,Law Tac,Australian Federal Police,P25,Lucas Heights,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.9375
+Kurrajong,Law Tac,Australian Federal Police,P25,Kurrajong Heights,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),489.950
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (Domestic Terminal Building) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),500.875
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (Domestic Terminal URS) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),500.875
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (International Terminal Building) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),500.875
+Mascot,Law Tac,Australian Federal Police,P25,Sydney Airport (International Terminal URS) Mascot,RM,,Federal,Sydney,VL2AFP,Australian Federal Police (AFP),500.875
+A501 TASK 1,Fire-Tac,Fire and Rescue NSW,FM,A501 TASK 1,M,218.1 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),415.475
+A502 TASK 2,Fire-Tac,Fire and Rescue NSW,FM,A502 TASK 2,M,218.1 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),422.6375
+A503 TASK 3,Fire-Tac,Fire and Rescue NSW,FM,A503 TASK 3,M,218.1 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),426.0375
+A504 TASK 4,Fire-Tac,Fire and Rescue NSW,FM,A504 TASK 4,M,218.1 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),422.8875
+A505 TASK 5,Fire-Tac,Fire and Rescue NSW,FM,A505 TASK 5,M,218.1 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),426.2875
+A506 TASK 6,Fire-Tac,Fire and Rescue NSW,FM,A506 TASK 6,M,218.1 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),425.2625
+A507 TASK 7,Fire-Tac,Fire and Rescue NSW,FM,A507 TASK 7,M,218.1 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),425.2875
+A508 TASK 8,Fire-Tac,Fire and Rescue NSW,FM,A508 TASK 8,M,218.1 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),425.3625
+A509 TASK 9,Fire-Tac,Fire and Rescue NSW,FM,A509 TASK 9,M,218.1 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),425.500
+A510 TASK 10,Fire-Tac,Fire and Rescue NSW,FM,A510 TASK 10,M,218.1 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),425.5875
+A511 TASKRPT 1,Fire-Tac,Fire and Rescue NSW,FM,A511 TASK REPEATER 1,RM,192.8 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),421.875
+A512 TASKRPT 2,Fire-Tac,Fire and Rescue NSW,FM,A512 TASK REPEATER 2,RM,192.8 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),421.9875
+A513 TASKRPT 3,Fire-Tac,Fire and Rescue NSW,FM,A513 TASK REPEATER 3,RM,192.8 PL,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),421.7625
+D501 TASK 01,Fire-Tac,Fire and Rescue NSW,P25,D501 TASK 01,M,293 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),415.475
+D502 TASK 02,Fire-Tac,Fire and Rescue NSW,P25,D502 TASK 02,M,293 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),422.6375
+D503 TASK 03,Fire-Tac,Fire and Rescue NSW,P25,D503 TASK 03,M,293 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),426.0375
+D504 TASK 04,Fire-Tac,Fire and Rescue NSW,P25,D504 TASK 04,M,293 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),422.8875
+D505 TASK 05,Fire-Tac,Fire and Rescue NSW,P25,D505 TASK 05,M,293 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),426.2875
+D506 TASK 06,Fire-Tac,Fire and Rescue NSW,P25,D506 TASK 06,M,100 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),425.2625
+D507 TASK 07,Fire-Tac,Fire and Rescue NSW,P25,D507 TASK 07,M,100 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),425.2875
+D508 TASK 08,Fire-Tac,Fire and Rescue NSW,P25,D508 TASK 08,M,100 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),425.3625
+D509 TASK 09,Fire-Tac,Fire and Rescue NSW,P25,D509 TASK 09,M,100 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),425.500
+D510 TASK 10,Fire-Tac,Fire and Rescue NSW,P25,D510 TASK 10,M,100 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),425.5875
+D511 D-RPT 1,Fire-Tac,Fire and Rescue NSW,P25,D511 DIGITAL-RPT 1,RM,110 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),421.875
+D512 D-RPT 2,Fire-Tac,Fire and Rescue NSW,P25,D51 2DIGITAL-RPT 2,RM,110 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),421.9875
+D513 D-RPT 3,Fire-Tac,Fire and Rescue NSW,P25,D513 DIGITAL-RPT 3,RM,110 NAC,Public Safety,5: TASK,,Fire and Rescue NSW (FRNSW),421.7625
+Broken Hill,Corrections,NSW Corrective Services,FM,Broken Hill Correctional Centre,RM,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,78.850
+Grafton,Corrections,NSW Corrective Services,FM,"Grafton Correctional Centre - Cangai East, Grafton",RM,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,78.850
+Glen innes,Corrections,NSW Corrective Services,FM,Glenn Innes Correctional Centre - Mt Mitchell,RM,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,78.850
+Cessnock CC,Data,NSW Corrective Services,FM,Cessnock Correctional Centre - Paging Data 3.5w,F,,Public Safety,NSW Corrective Services,,NSW Corrective Services,148.3375
+Long Bay,Corrections,NSW Corrective Services,FM,Special Purpose Centre - Long Bay Complex - Tx Malabar 5w,RM,,Public Safety,NSW Corrective Services,,NSW Corrective Services,412.125
+Tumbarumba,Corrections,NSW Corrective Services,FM,Tumbarumba Correctional Centre,RM,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,414.600
+Tumbarumba,Corrections,NSW Corrective Services,FM,Tumbarumba Correctional Centre,RM,,Public Safety,NSW Corrective Services,VMN930,NSW Corrective Services,416.2625
+Mulawa,Corrections,NSW Corrective Services,FM,Mulawa Correctional Centre Silverwater,RM,,Public Safety,NSW Corrective Services,VME282,NSW Corrective Services,450.125
+Westmead,Corrections,NSW Corrective Services,FM,Westmead,B,,Public Safety,NSW Corrective Services,VZN752,NSW Corrective Services,450.175
+Parklea,Corrections,NSW Corrective Services,FM,Parklea Correctional Centre,RM,,Public Safety,NSW Corrective Services,VZN521,NSW Corrective Services,450.475
+NSW Wide,Corrections,NSW Corrective Services,FM,NSW Corrective Services - NSW Wide,RM,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,462.0625
+Katingal,Corrections,NSW Corrective Services,FM,"Katingal Prison, Long Bay, Malabar",RM,,Public Safety,NSW Corrective Services,VZN924,NSW Corrective Services,462.250
+Parramatta,Corrections,NSW Corrective Services,FM,Parramatta Correctional Centre - North Parramatta,RM,,Public Safety,NSW Corrective Services,VZE959,NSW Corrective Services,463.625
+Lithgow CC,Corrections,NSW Corrective Services,FM,Lithgow Correctional Centre,RM,,Public Safety,NSW Corrective Services,VJE418,NSW Corrective Services,463.625
+Parklea,Corrections,NSW Corrective Services,FM,Parklea Correctional Centre,RM,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,463.625
+Cessnock CC,Corrections,NSW Corrective Services,FM,Cessnock Correctional Centre,RM,,Public Safety,NSW Corrective Services,VZN749,NSW Corrective Services,463.625
+MCC SilverW,Corrections,NSW Corrective Services,FM,Mulwa Coorectional Centre Silverwater,RM,,Public Safety,NSW Corrective Services,,NSW Corrective Services,463.6625
+MRCC SilverW,Corrections,NSW Corrective Services,FM,Silverwater Correctional Centre (MRCC),RM,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,464.550
+Kariong,Corrections,NSW Corrective Services,FM,Kariong Juvenille Justice Centre,RM,,Public Safety,NSW Corrective Services,VME724,NSW Corrective Services,465.150
+Windosr,Corrections,NSW Corrective Services,FM,"Windsor Correctional Centre, South Windsor",B,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,467.025
+Goulburn,Corrections,NSW Corrective Services,FMN,Goulburn Correctional Centre,RM,107.2 PL,Public Safety,NSW Corrective Services,AXC658,NSW Corrective Services,467.575
+Emu Plains,Corrections,NSW Corrective Services,FM,Emu Plains Correctional Centre,RM,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,467.700
+Kempsey CC,Corrections,NSW Corrective Services,FM,"Kempsey Correctional Centre, Aldavilla",RM,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,467.700
+Bathurst,Corrections,NSW Corrective Services,FM,Bathurst Correctional Centre,RM,,Public Safety,NSW Corrective Services,VZN205,NSW Corrective Services,467.700
+St HeliersCC,Corrections,NSW Corrective Services,FM,St Heliers Correctional Centre Muswellbrook,RM,,Public Safety,NSW Corrective Services,AXE431,NSW Corrective Services,467.700
+Silverwater,Corrections,NSW Corrective Services,FM,Silverwater Correctional Centre (MRCC),RM,107.2 PL,Public Safety,NSW Corrective Services,VKE882,NSW Corrective Services,467.700
+Goulburn CC,Corrections,NSW Corrective Services,FM,Goulburn Correctional Centre,B,,Public Safety,NSW Corrective Services,VKE858,NSW Corrective Services,469.525
+Second Chce,Corrections,NSW Corrective Services,FM,"Second Chance Program Site Via Gongolgon, Brewarrina",B,,Public Safety,NSW Corrective Services,VKE930,NSW Corrective Services,469.525
+Grafton CC,Corrections,NSW Corrective Services,FM,Grafton Correctional Centre,F,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,469.525
+EmuPlains CC,Corrections,NSW Corrective Services,FM,Emu Plains Correctional Centre,B,,Public Safety,NSW Corrective Services,,NSW Corrective Services,469.525
+EmuPlains CC,Corrections,NSW Corrective Services,FM,Emu Plains Correctional Centre,B,,Public Safety,NSW Corrective Services,VKE860,NSW Corrective Services,469.525
+Parklea CC,Corrections,NSW Corrective Services,FM,Parklea Correctional Centre,B,,Public Safety,NSW Corrective Services,VKE859,NSW Corrective Services,469.525
+Cooma CC,Corrections,NSW Corrective Services,FM,Cooma Correctional Centre,B,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,469.525
+Windosr CC,Corrections,NSW Corrective Services,FM,Windsor Correctional Centre - South Windsor,B,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,469.525
+Bathurst CC,Corrections,NSW Corrective Services,FM,Bathurst Correctional Centre,B,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,469.525
+Afforestatio,Corrections,NSW Corrective Services,FM,"Afforestation Camp, Glen Innes.",B,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,469.525
+Ivanhoe CC,Corrections,NSW Corrective Services,FM,Ivanhoe Correctional Centre - Ivanhoe,B,,Public Safety,NSW Corrective Services,VKE931,NSW Corrective Services,469.525
+Katingal,Corrections,NSW Corrective Services,FM,"Katingal Prison, Long Bay, Malabar",B,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,469.525
+CC NSW Wide,Corrections,NSW Corrective Services,FM,NSW Corrective Services - NSW Wide,B,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,469.775
+Silverwater,Corrections,NSW Corrective Services,FM,Silverwater Correctional Centre (MRCC),B,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,469.925
+Windsor CC,Corrections,NSW Corrective Services,FM,"Windsor Correctional Centre, South Windsor",B,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,469.975
+Parramatta,Corrections,NSW Corrective Services,FM,Parramatta Correctional Centre - North Parramatta,B,,Public Safety,NSW Corrective Services,VKE857,NSW Corrective Services,469.975
+Grafton CC,Corrections,NSW Corrective Services,FM,Grafton Correctional Centre - Cangai East,RM,,Public Safety,NSW Corrective Services,,NSW Corrective Services,470.300
+Mulawa,Corrections,NSW Corrective Services,FM,Junee Correctional Centre (Mulawa),RM,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,470.300
+Wollongong,Corrections,NSW Corrective Services,FM,Wollongong Periodic Detention Centre - Unanderra,B,,Public Safety,NSW Corrective Services,,NSW Corrective Services,471.925
+Riverina Juv,Corrections,NSW Corrective Services,FM,Riverina Juvenile Justice,RM,,Public Safety,NSW Corrective Services,,NSW Corrective Services,475.100
+Katingal,Corrections,NSW Corrective Services,FM,"Katingal Prison, Long Bay - Malabar",RM,,Public Safety,NSW Corrective Services,VL2PL,NSW Corrective Services,489.275
+NSW Wide,Public Works,NSW Forestry Commission,FM,NSW wide,RM,,Public Safety,NSW State Forests,VL2FC,NSW Department of Primary Industries,70.550
+NSW WideArea,Public Works,NSW Forestry Commission,FM,NSW wide,RM,,Public Safety,NSW State Forests,VL2FC,NSW Department of Primary Industries,73.050
+NSW Forest,Public Works,NSW Forestry Commission,FM,Bunnaloo (Moama),RM,,Public Safety,NSW State Forests,VL2FC,NSW Department of Primary Industries,79.1625
+Sugarloaf Mt,Public Works,NSW Forestry Commission,FM,"Sugarloaf Mountain, Bowra (Nambucca)",RM,,Public Safety,NSW State Forests,VL2FCY,NSW Department of Primary Industries,79.2125
+SugarloafMnt,Public Works,NSW Forestry Commission,FM,"Sugarloaf Mountain, Bowra (Nambucca)",RM,,Public Safety,NSW State Forests,VL2FCY,NSW Department of Primary Industries,464.350
+-,Law Talk,NSW Police,USB,Police Airwing Tx Bankstown Airport (USB),B,,Public Safety,NSW POLICE AVIATION FREQUENCY LISTING,VKG,BY FREQUENCY,3.2535
+-,Law Talk,NSW Police,USB,Police Airwing Tx Bankstown Airport (USB),B,,Public Safety,NSW POLICE AVIATION FREQUENCY LISTING,VKG,BY FREQUENCY,4.5615
+-,Law Talk,NSW Police,USB,Police Airwing Tx Bankstown Airport (USB),B,,Public Safety,NSW POLICE AVIATION FREQUENCY LISTING,VKG,BY FREQUENCY,7.6615
+-,Law Talk,NSW Police,USB,Police Airwing Tx Bankstown Airport (USB),B,,Public Safety,NSW POLICE AVIATION FREQUENCY LISTING,VKG,BY FREQUENCY,10.5065
+-,Aircraft,NSW Police,AM,Police Airwing Tx Bankstown Airport,B,CSQ,Public Safety,NSW POLICE AVIATION FREQUENCY LISTING,VKG,BY FREQUENCY,131.600
+P001,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 1,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.475
+P002,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 2,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.500
+P003,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 3,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.550
+P004,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 4,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.575
+P005,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 5,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.600
+P006,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 6,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.625
+P007,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 7,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.650
+P008,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 8,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.700
+P009,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 9,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.725
+P010,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 10,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.750
+P011,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 11,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.800
+P012,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 12,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.850
+P013,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 13,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.875
+P014,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 14,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.900
+P015,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 15,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.925
+P016,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 16,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.950
+P017,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 17,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.050
+P018,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 18,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.075
+P019,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 19,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.100
+P020,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 20,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.1125
+P021,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 21,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.125
+P022,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 22,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.1375
+P023,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 23,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.150
+P024,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 24,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.1625
+P025,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 25,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.175
+P026,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 26,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.1875
+P027,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 27,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.200
+P028,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 28,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.250
+P029,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 29,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.2625
+P030,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 30,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.275
+P031,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 31,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.2875
+P032,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 32,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.300
+P033,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 33,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.3125
+P034,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 34,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.325
+P035,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 35,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.3375
+P036,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 36,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.350
+P037,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 37,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.3625
+P038,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 38,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.375
+P039,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 39,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.3875
+P040,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 40,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.400
+P041,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 41,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.425
+P042,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 42,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,414.6875
+P043,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 43,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,414.825
+P044,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 44,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,414.850
+P045,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 45,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.025
+P046,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 46,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.0375
+P047,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 47,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.050
+P048,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 48,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.0625
+P049,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 49,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.075
+P050,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 50,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.0875
+P051,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 51,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.100
+P052,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 52,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.1125
+P053,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 53,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.225
+P054,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 54,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.350
+P055,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 55,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.375
+P056,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 56,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.650
+P057,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 57,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.6625
+P058,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 58,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.675
+P059,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 59,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.8125
+P060,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 60,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.825
+P061,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 61,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.9625
+P062,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 62,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.975
+P063,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 63,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.025
+P064,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 64,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.0375
+P065,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 65,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.075
+P066,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 66,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.1375
+P067,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 67,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.150
+P068,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 68,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.225
+P069,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 69,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.250
+P070,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 70,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.400
+P071,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 71,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.700
+P072,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 72,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.1375
+P073,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 73,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.950
+P074,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 74,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.9625
+P075,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 75,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.025
+P076,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 76,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.2875
+P077,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 77,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.450
+P078,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 78,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.4875
+P079,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 79,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.5125
+P080,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 80,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.525
+P081,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 81,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.5875
+P082,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 82,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.650
+P083,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 83,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.700
+P084,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 84,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.725
+P085,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 85,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.7625
+P086,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 86,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.775
+P087,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 87,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.825
+P088,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 88,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.8625
+P089,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 89,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.900
+P090,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 90,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.9625
+P091,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 91,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,463.650
+P092,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 92,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.400
+P093,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 93,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.4125
+P094,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 94,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.425
+P095,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 95,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.600
+P096,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 96,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.950
+P097,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 97,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,466.775
+P098,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 98,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,467.425
+P099,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 99,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,467.800
+P100,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 100,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.9625
+P101,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 101,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,463.650
+P102,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 102,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,466.550
+P103,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 103,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,464.9125
+P104,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 104,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,466.5125
+P105,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 105,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.5375
+P106,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 106,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,466.900
+P107,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 107,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,467.475
+P108,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 108,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,463.050
+P109,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 109,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.475
+P110,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 110,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.500
+P111,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 111,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.550
+P112,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 112,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.575
+P113,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 113,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.600
+P114,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 114,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.625
+P115,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 115,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.650
+P116,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 116,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.700
+P117,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 117,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.725
+P118,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 118,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.575
+P119,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 119,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.800
+P120,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 120,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.850
+P121,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 121,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.875
+P122,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 122,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.900
+P123,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 123,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.925
+P124,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 124,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,412.950
+P125,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 125,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.050
+P126,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 126,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.075
+P127,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 127,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.100
+P128,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 128,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.1175
+P129,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 129,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.125
+P130,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 130,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.1375
+P131,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 131,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.150
+P132,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 132,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.1625
+P133,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 133,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.175
+P134,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 134,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.1875
+P135,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 135,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.200
+P136,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 136,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.250
+P137,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 137,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.2625
+P138,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 138,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.275
+P139,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 139,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.2875
+P140,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 140,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.300
+P141,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 141,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.3125
+P142,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 142,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.325
+P143,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 143,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.3375
+P144,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 144,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.350
+P145,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 145,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.3625
+P146,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 146,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.375
+P147,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 147,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.3875
+P148,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 148,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.400
+P149,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 149,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,413.425
+P150,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 150,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,414.6875
+P151,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 151,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,414.825
+P152,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 152,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,414.850
+P153,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 153,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.025
+P154,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 154,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.0375
+P155,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 155,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.050
+P156,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 156,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.0625
+P157,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 157,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.075
+P158,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 158,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.0875
+P159,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 159,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.100
+P160,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 160,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,415.1125
+P161,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 161,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.225
+P162,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 162,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.350
+P163,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 163,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.375
+P164,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 164,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.650
+P165,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 165,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.6625
+P166,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 166,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.675
+P167,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 167,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.8125
+P168,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 168,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.825
+P169,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 169,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.9625
+P170,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 170,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,418.975
+P171,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 171,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.025
+P172,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 172,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.0375
+P173,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 173,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.075
+P174,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 174,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.1375
+P175,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 175,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.150
+P176,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 176,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.225
+P177,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 177,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.250
+P178,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 178,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.400
+P179,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 179,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.700
+P180,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 180,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.9375
+P181,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 181,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.950
+P182,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 182,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,419.9625
+P183,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 183,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.025
+P184,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 184,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.2875
+P185,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 185,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.450
+P186,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 186,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.4875
+P187,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 187,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.5125
+P188,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 188,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.525
+P189,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 189,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.5875
+P190,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 190,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.650
+P191,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 191,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.700
+P192,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 192,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.9625
+P193,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 193,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.7625
+P194,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 194,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.775
+P195,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 195,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.825
+P196,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 196,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.8625
+P197,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 197,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,466.8375
+P198,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 198,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.9625
+P199,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 199,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,463.650
+P200,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 200,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.400
+P201,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 201,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.4125
+P202,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 202,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.425
+P203,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 203,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.600
+P204,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 204,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.950
+P205,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 205,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,466.775
+P206,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 206,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,467.425
+P207,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 207,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,467.800
+P208,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 208,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.9625
+P209,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 209,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,463.650
+P210,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 210,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.400
+P211,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 211,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,464.9125
+P212,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 212,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,466.5125
+P213,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 213,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.9625
+P214,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 214,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,466.900
+P215,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 215,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.9625
+P216,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 216,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,463.650
+P217,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 217,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,466.450
+P218,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 218,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.0375
+P219,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 219,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,467.450
+P220,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 220,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,467.4625
+P221,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 221,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,466.200
+P222,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 222,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,464.6875
+P223,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 223,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.9625
+P224,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 224,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,466.600
+P225,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 225,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.9625
+P226,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 226,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,463.650
+P227,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 227,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.400
+P228,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 228,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.4125
+P229,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 229,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.425
+P230,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 230,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.600
+P231,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 231,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.950
+P232,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 232,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,466.775
+P233,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 233,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,467.425
+P234,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 234,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,467.800
+P235,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 235,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.9625
+P236,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 236,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,463.650
+P237,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 237,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.400
+P238,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 238,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.5375
+P239,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 239,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.900
+P240,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 240,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,462.9875
+P241,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 241,BM,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,467.325
+P242,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 242,BM,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,465.850
+P243,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 243,M,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,454.475
+P244,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 244,M,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,454.775
+P245,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 245,M,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,454.875
+P246,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 246,M,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,455.025
+P247,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 247,M,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,456.250
+P248,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 248,M,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,456.425
+P249,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 249,M,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,457.450
+P250,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 250,M,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,458.225
+P251,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 251,M,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,456.100
+P252,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 252,M,110.9 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,456.100
+P253,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 253,M,162.2 PL,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,454.225
+P254,Fire Dispatch,NSW Rural Fire Services,FMN,Channel 254 Simplex,M,CSQ,Public Safety,Analogue PMR,VL2OR,NSW Rural Fire Services,403.000
+s1*PORTRPTR1,EMS Dispatch,NSW State Emergency Services,FMN,s1*PORTRPTR1,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,468.600
+s2*PORTRPTR2,EMS Dispatch,NSW State Emergency Services,FMN,s2*PORTRPTR2,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,468.625
+s3*PORTRPTR3,EMS Dispatch,NSW State Emergency Services,FMN,s3*PORTRPTR3,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,468.650
+s4*PORTRPTR4,EMS Dispatch,NSW State Emergency Services,FMN,s4*PORTRPTR4,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,468.6125
+s5*PORTRPTR5,EMS Dispatch,NSW State Emergency Services,FMN,s5*PORTRPTR5,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,468.6375
+s6*PORTRPTR6,EMS Dispatch,NSW State Emergency Services,FMN,s6*PORTRPTR6,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,467.250
+s11*CN-BWRA,EMS Dispatch,NSW State Emergency Services,FMN,s11*CN-BWRA,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.250
+s12*CN-CNGI,EMS Dispatch,NSW State Emergency Services,FMN,s12*CN-CNGI,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,417.0625
+s13*CN-CLPK,EMS Dispatch,NSW State Emergency Services,FMN,s13*CN-CLPK,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.6375
+s14*CN-FRLK,EMS Dispatch,NSW State Emergency Services,FMN,s14*CN-FRLK,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.1875
+s15*CN-HVLN,EMS Dispatch,NSW State Emergency Services,FMN,s15*CN-HVLN,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.175
+s16*CN-WNDG,EMS Dispatch,NSW State Emergency Services,FMN,s16*CN-WNDG,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.4125
+s17*CN-VARA,EMS Dispatch,NSW State Emergency Services,FMN,s17*CN-VARA,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.9125
+s22*CW-MNKV,EMS Dispatch,NSW State Emergency Services,FMN,s22*CW-MNKV,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.175
+s23*CW-MORE,EMS Dispatch,NSW State Emergency Services,FMN,s23*CW-MORE,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.9875
+s24*CW-SHTR,EMS Dispatch,NSW State Emergency Services,FMN,s24*CW-SHTR,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.7875
+s29*FW-ANDR,EMS Dispatch,NSW State Emergency Services,FMN,s29*FW-ANDR,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.6375
+s30*FW-BKNHL,EMS Dispatch,NSW State Emergency Services,FMN,s30*FW-BKNHL,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.7875
+s31*FW-BURKE,EMS Dispatch,NSW State Emergency Services,FMN,s31*FW-BURKE,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,468.650
+s32*FW-GLEN,EMS Dispatch,NSW State Emergency Services,FMN,s32*FW-GLEN,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.375
+s33*FW-IVAN,EMS Dispatch,NSW State Emergency Services,FMN,s33*FW-IVAN,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.550
+s34*FW-MCUL,EMS Dispatch,NSW State Emergency Services,FMN,s34*FW-MCUL,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.450
+s35*FW-MNDE,EMS Dispatch,NSW State Emergency Services,FMN,s35*FW-MNDE,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.550
+s36*FW-THAC,EMS Dispatch,NSW State Emergency Services,FMN,s36*FW-THAC,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.9875
+s37*FW-PEAK,EMS Dispatch,NSW State Emergency Services,FMN,s37*FW-PEAK,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.250
+s38*FW-TIB,EMS Dispatch,NSW State Emergency Services,FMN,s38*FW-TIB,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.250
+s39*FW-WCLF,EMS Dispatch,NSW State Emergency Services,FMN,s39*FW-WCLF,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.250
+s40*FW-WLCN,EMS Dispatch,NSW State Emergency Services,FMN,s40*FW-WLCN,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.7875
+s46*HU-WLM,EMS Dispatch,NSW State Emergency Services,FMN,s46*HU-WLM,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,417.4125
+s47*HU-CAB,EMS Dispatch,NSW State Emergency Services,FMN,s47*HU-CAB,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.3125
+s48*HU-MTR,EMS Dispatch,NSW State Emergency Services,FMN,s48*HU-MTR,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.5625
+s53*IS-BRNMT,EMS Dispatch,NSW State Emergency Services,FMN,s53*IS-BRNMT,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.5625
+s54*IS-BUDDA,EMS Dispatch,NSW State Emergency Services,FMN,s54*IS-BUDDA,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.9875
+s55*IS-CAMBW,EMS Dispatch,NSW State Emergency Services,FMN,s55*IS-CAMBW,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.4375
+s56*IS-KINGI,EMS Dispatch,NSW State Emergency Services,FMN,s56*IS-KINGI,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.475
+s57*IS-NULCA,EMS Dispatch,NSW State Emergency Services,FMN,s57*IS-NULCA,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.550
+s58*IS-PKALN,EMS Dispatch,NSW State Emergency Services,FMN,s58*IS-PKALN,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.375
+s59*IS-SASA,EMS Dispatch,NSW State Emergency Services,FMN,s59*IS-SASA,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.3125
+s60*IS-VNCT,EMS Dispatch,NSW State Emergency Services,FMN,s60*IS-VNCT,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,417.0625
+s61*IS-WAND,EMS Dispatch,NSW State Emergency Services,FMN,s61*IS-WAND,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,417.4625
+s62*IS-WLMA,EMS Dispatch,NSW State Emergency Services,FMN,s62*IS-WLMA,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.4625
+s71*ME-BETH,EMS Dispatch,NSW State Emergency Services,FMN,s71*ME-BETH,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.5125
+s72*ME-TALB,EMS Dispatch,NSW State Emergency Services,FMN,s72*ME-TALB,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.7875
+s73*ME-BURN,EMS Dispatch,NSW State Emergency Services,FMN,s73*ME-BURN,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.9875
+s74*ME-DARPT,EMS Dispatch,NSW State Emergency Services,FMN,s74*ME-DARPT,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,417.4125
+s75*ME-GUND,EMS Dispatch,NSW State Emergency Services,FMN,s75*ME-GUND,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.375
+s76*ME-MLBO,EMS Dispatch,NSW State Emergency Services,FMN,s76*ME-MLBO,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.7625
+s77*ME-GRIF,EMS Dispatch,NSW State Emergency Services,FMN,s77*ME-GRIF,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.450
+s78*ME-VAV,EMS Dispatch,NSW State Emergency Services,FMN,s78*ME-VAV,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.475
+s87*MY-BAR,EMS Dispatch,NSW State Emergency Services,FMN,s87*MY-BAR,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.7625
+s88*MY-DENIQ,EMS Dispatch,NSW State Emergency Services,FMN,s88*MY-DENIQ,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,417.2875
+s89*MY-FINLY,EMS Dispatch,NSW State Emergency Services,FMN,s89*MY-FINLY,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.5625
+s90*MY-LDYFK,EMS Dispatch,NSW State Emergency Services,FMN,s90*MY-LDYFK,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.250
+s91*MY-GOOMB,EMS Dispatch,NSW State Emergency Services,FMN,s91*MY-GOOMB,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.6375
+s92*MY-MATH,EMS Dispatch,NSW State Emergency Services,FMN,s92*MY-MATH,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.1425
+s93*MY-MOAMA,EMS Dispatch,NSW State Emergency Services,FMN,s93*MY-MOAMA,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.9125
+s94*MY-ONE,EMS Dispatch,NSW State Emergency Services,FMN,s94*MY-ONE,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,419.000
+s95*MY-RED,EMS Dispatch,NSW State Emergency Services,FMN,s95*MY-RED,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.1875
+s96*MY-STONY,EMS Dispatch,NSW State Emergency Services,FMN,s96*MY-STONY,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,417.0625
+Port Macquar,Emergency Ops,NSW State Emergency Services,FM,"Tx Middle Brother Mt, Port Macquarie 50w",RM,,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.450
+Forbes,EMS Dispatch,NSW State Emergency Services,FMN,Forbes SES,RM,,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,417.0625
+s101*NM-BLD,EMS Dispatch,NSW State Emergency Services,FMN,s101*NM-BLD,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,417.0625
+s102*NM-BLK,EMS Dispatch,NSW State Emergency Services,FMN,s102*NM-BLK,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.4375
+s103*NM-CRN,EMS Dispatch,NSW State Emergency Services,FMN,s103*NM-CRN,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.6375
+s104*NM-HLD,EMS Dispatch,NSW State Emergency Services,FMN,s104*NM-HLD,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.7625
+s105*NM-KAP,EMS Dispatch,NSW State Emergency Services,FMN,s105*NM-KAP,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.9125
+s106*NM-DUV,EMS Dispatch,NSW State Emergency Services,FMN,s106*NM-DUV,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.550
+s111*NW-GAR,EMS Dispatch,NSW State Emergency Services,FMN,s111*NW-GAR,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.550
+s112*NW-HAL,EMS Dispatch,NSW State Emergency Services,FMN,s112*NW-HAL,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.1875
+s113*NW-HIE,EMS Dispatch,NSW State Emergency Services,FMN,s113*NW-HIE,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.475
+s114*NW-MAG,EMS Dispatch,NSW State Emergency Services,FMN,s114*NW-MAG,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.250
+s115*NW-MKZ,EMS Dispatch,NSW State Emergency Services,FMN,s115*NW-MKZ,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.5375
+s116*NW-MCH,EMS Dispatch,NSW State Emergency Services,FMN,s116*NW-MCH,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.375
+s117*NW-RUM,EMS Dispatch,NSW State Emergency Services,FMN,s117*NW-RUM,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.9875
+s118*NW-TOP,EMS Dispatch,NSW State Emergency Services,FMN,s118*NW-TOP,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.3125
+s123*OX-APX,EMS Dispatch,NSW State Emergency Services,FMN,s123*OX-APX,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.125
+s124*OX-CAB,EMS Dispatch,NSW State Emergency Services,FMN,s124*OX-CAB,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.3125
+s125*OX-CRN,EMS Dispatch,NSW State Emergency Services,FMN,s125*OX-CRN,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.5375
+s126*OX-COP,EMS Dispatch,NSW State Emergency Services,FMN,s126*OX-COP,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.4125
+s127*OX-GGT,EMS Dispatch,NSW State Emergency Services,FMN,s127*OX-GGT,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.4375
+s128*OX-MBR,EMS Dispatch,NSW State Emergency Services,FMN,s128*OX-MBR,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.450
+s129*OX-YAR,EMS Dispatch,NSW State Emergency Services,FMN,s129*OX-YAR,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.375
+s134*RT-SPR,EMS Dispatch,NSW State Emergency Services,FMN,s134*RT-SPR,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,468.625
+s135*RT-NAR1,EMS Dispatch,NSW State Emergency Services,FMN,s135*RT-NAR1,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.5125
+s136*RT-BBY,EMS Dispatch,NSW State Emergency Services,FMN,s136*RT-BBY,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,417.4145
+s137*RT-NAR2,EMS Dispatch,NSW State Emergency Services,FMN,s137*RT-NAR2,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.7625
+s138*RT-PTS,EMS Dispatch,NSW State Emergency Services,FMN,s138*RT-PTS,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.125
+s139*RT-WOD,EMS Dispatch,NSW State Emergency Services,FMN,s139*RT-WOD,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.375
+s140*RT-WBG,EMS Dispatch,NSW State Emergency Services,FMN,s140*RT-WBG,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.300
+s141*RT-TBR,EMS Dispatch,NSW State Emergency Services,FMN,s141*RT-TBR,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.9875
+s142*RT-HAY,EMS Dispatch,NSW State Emergency Services,FMN,s142*RT-HAY,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.475
+s143*RT-MAL,EMS Dispatch,NSW State Emergency Services,FMN,s143*RT-MAL,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.450
+s144*RT-LIS,EMS Dispatch,NSW State Emergency Services,FMN,s144*RT-LIS,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,468.600
+s145*RT-HLO,EMS Dispatch,NSW State Emergency Services,FMN,s145*RT-HLO,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,467.250
+s146*QSES-4,EMS Dispatch,NSW State Emergency Services,FMN,s146*QSES-4,,CSQ,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,467.125
+s147*QSES-7,EMS Dispatch,NSW State Emergency Services,FMN,s147*QSES-7,,CSQ,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,467.625
+s148*QSES-8,EMS Dispatch,NSW State Emergency Services,FMN,s148*QSES-8,,CSQ,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,467.725
+s149*QSES-11,EMS Dispatch,NSW State Emergency Services,FMN,s149*QSES-11,,CSQ,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,466.725
+s150*QSES-12,EMS Dispatch,NSW State Emergency Services,FMN,s150*QSES-12,,CSQ,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,467.000
+s151*QSES-13,EMS Dispatch,NSW State Emergency Services,FMN,s151*QSES-13,,CSQ,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,466.775
+s156*SH-BUDA,EMS Dispatch,NSW State Emergency Services,FMN,s156*SH-BUDA,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.9875
+s157*SH-CRO,EMS Dispatch,NSW State Emergency Services,FMN,s157*SH-CRO,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,412.6375
+s158*SH-EGL,EMS Dispatch,NSW State Emergency Services,FMN,s158*SH-EGL,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.5375
+s159*SH-GILL,EMS Dispatch,NSW State Emergency Services,FMN,s159*SH-GILL,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,417.4125
+s160*SH-MUND,EMS Dispatch,NSW State Emergency Services,FMN,s160*SH-MUND,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.9875
+s161*SH-PER,EMS Dispatch,NSW State Emergency Services,FMN,s161*SH-PER,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,467.250
+s162*SH-RED,EMS Dispatch,NSW State Emergency Services,FMN,s162*SH-RED,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.4375
+s163*SH-WJSP,EMS Dispatch,NSW State Emergency Services,FMN,s163*SH-WJSP,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,475.275
+s164*SH-YNG,EMS Dispatch,NSW State Emergency Services,FMN,s164*SH-YNG,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,416.450
+s170*SN-ADVN,EMS Dispatch,NSW State Emergency Services,FMN,s170*SN-ADVN,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,468.650
+s182*SW-PUTT,EMS Dispatch,NSW State Emergency Services,FMN,s182*SW-PUTTY,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,415.4125
+s183*SW-PPNG,EMS Dispatch,NSW State Emergency Services,FMN,s183*SW-PPNG,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,419.9625
+s184*SW-KUR1,EMS Dispatch,NSW State Emergency Services,FMN,s184*SW-KUR1,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,419.000
+s185*SW-KUR2,EMS Dispatch,NSW State Emergency Services,FMN,s185*SW-KUR2,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,467.250
+s186*SW-KUR3,EMS Dispatch,NSW State Emergency Services,FMN,s186*SW-KUR3,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,412.625
+s187*SW-P1,EMS Dispatch,NSW State Emergency Services,FMN,s187*SW-P1,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,412.800
+s188*SW-P2,EMS Dispatch,NSW State Emergency Services,FMN,s188*SW-P2,,107.2 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,412.6375
+s201*SIMPSH1,EMS Dispatch,NSW State Emergency Services,FMN,s201*SIMPSH1,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,412.275
+s202*SIMPSH2,EMS Dispatch,NSW State Emergency Services,FMN,s202*SIMPSH2,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,412.325
+s203*SIMPSH3,EMS Dispatch,NSW State Emergency Services,FMN,s203*SIMPSH3,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,412.350
+s204*SIMPSH4,EMS Dispatch,NSW State Emergency Services,FMN,s204*SIMPSH4,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,412.400
+s205*SIMPSH5,EMS Dispatch,NSW State Emergency Services,FMN,s205*SIMPSH5,,110.9 PL,Public Safety,NSW State Emergency Services Frequency List,VL2SES,NSW State Emergency Services PMR,412.450
+Tx Middle Br,Public Works,NSW State Government PMR,FM,"Tx Middle Brother, Port Macquarie 50w",RM,,Public Safety,NSW State Government PMR Frequency List,VLE213,NSW State Government,416.950
+NSW Gov,Public Works,NSW State Government PMR,FM,"Tx Middle Brother, Port Macquarie 50w",RM,,Public Safety,NSW State Government PMR Frequency List,VLE212,NSW State Government,416.9625
+NSW State,Public Works,NSW State Government PMR,FM,"Tx Middle Brother, Port Macquarie 50w",RM,,Public Safety,NSW State Government PMR Frequency List,VLE214,NSW State Government,417.4625
+964,Public Works,National Parks and Wildlife Service NSW,FMN,,M,107.2 PL,Public Safety,All Regions,,NPWS VHF High Band,163.025
+965,Public Works,National Parks and Wildlife Service NSW,FMN,,M,107.2 PL,Public Safety,All Regions,,NPWS VHF High Band,163.450
+963,Public Works,National Parks and Wildlife Service NSW,FMN,,M,173.8 PL,Public Safety,All Regions,,NPWS VHF High Band,168.375
+11,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS FGD 1,M,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,161.1375
+12,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS FGD 2,M,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,161.175
+13,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS FGD 3,M,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,161.3125
+14,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS FGD 4,M,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,161.300
+15,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS FGD 5,M,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,162.525
+16,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS FGD 6,M,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,162.6375
+17,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS FGD 7,M,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,162.700
+21,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS PRp 1,RM,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,162.525
+22,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS PRp 2,RM,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,162.6375
+23,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS PRp 3,RM,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,162.700
+24,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS PRp 4,RM,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,164.125
+25,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS PRp 5,RM,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,164.1375
+26,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS PRp 6,RM,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,164.1625
+31,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS PRp 1-S,M,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.525
+32,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS PRp 2-S,M,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.6375
+33,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS PRp 3-S,M,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.700
+34,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS PRp 4-S,M,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.125
+35,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS PRp 5-S,M,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.1375
+36,Public Works,National Parks and Wildlife Service NSW,FMN,NPWS PRp 6-S,M,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.1625
+41,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND1,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.150
+42,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND2,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.0625
+43,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND3,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.075
+44,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND4,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.1125
+45,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND5,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.0875
+46,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND6,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.0375
+47,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND7,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.0125
+48,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND8,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.050
+49,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND9,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.1875
+50,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND10,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.2125
+51,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND11,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.225
+52,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND12,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.2375
+53,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND13,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.250
+54,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND14,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.3375
+55,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND15,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.3625
+56,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND16,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.375
+57,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND17,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.3875
+58,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND18,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.4125
+59,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND19,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.450
+60,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS FGND20,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.4625
+61,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS RPTR1,RM,110.9 PL,Public Safety,All Regions,,NPWS VHF High Band,163.125
+62,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS RPTR2,RM,110.9 PL,Public Safety,All Regions,,NPWS VHF High Band,163.3875
+63,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS RPTR3,RM,110.9 PL,Public Safety,All Regions,,NPWS VHF High Band,163.4125
+64,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS RPTR4,RM,110.9 PL,Public Safety,All Regions,,NPWS VHF High Band,163.550
+65,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS RPTR5,RM,110.9 PL,Public Safety,All Regions,,NPWS VHF High Band,163.875
+66,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS RPTR6,RM,110.9 PL,Public Safety,All Regions,,NPWS VHF High Band,163.9125
+67,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS RPTR7,RM,110.9 PL,Public Safety,All Regions,,NPWS VHF High Band,163.9875
+68,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS RPTR8,RM,110.9 PL,Public Safety,All Regions,,NPWS VHF High Band,164.125
+69,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS RPTR9,RM,110.9 PL,Public Safety,All Regions,,NPWS VHF High Band,164.325
+70,Fire-Tac,National Parks and Wildlife Service NSW,FMN,RFS RPTR10,RM,110.9 PL,Public Safety,All Regions,,NPWS VHF High Band,164.6625
+71,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 110,M,94.8 PL,Public Safety,All Regions,,NPWS VHF High Band,161.400
+72,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 111,M,107.2 PL,Public Safety,All Regions,,NPWS VHF High Band,161.2625
+73,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 112,M,107.2 PL,Public Safety,All Regions,,NPWS VHF High Band,161.375
+74,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 113,M,107.2 PL,Public Safety,All Regions,,NPWS VHF High Band,161.3875
+75,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 114,M,114.8 PL,Public Safety,All Regions,,NPWS VHF High Band,161.275
+76,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 115,M,114.8 PL,Public Safety,All Regions,,NPWS VHF High Band,161.3875
+77,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 116,M,114.8 PL,Public Safety,All Regions,,NPWS VHF High Band,161.2875
+78,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 117,M,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,161.375
+79,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 118,M,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,161.2875
+80,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 119,M,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,161.275
+81,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 120,M,131.8 PL,Public Safety,All Regions,,NPWS VHF High Band,161.3875
+82,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 121,M,131.8 PL,Public Safety,All Regions,,NPWS VHF High Band,161.2625
+83,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 122,M,131.8 PL,Public Safety,All Regions,,NPWS VHF High Band,161.375
+84,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 123,M,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,161.2875
+85,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 124,M,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,161.375
+86,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP 125,M,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,161.275
+89,Public Works,National Parks and Wildlife Service NSW,FMN,BORDER 1,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.175
+90,Public Works,National Parks and Wildlife Service NSW,FMN,BORDER 2,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.200
+91,Public Works,National Parks and Wildlife Service NSW,FMN,BORDER AIRCR,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,161.2125
+92,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP128,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,162.2125
+93,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP131,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,162.175
+94,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP134,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,162.0625
+95,Public Works,National Parks and Wildlife Service NSW,FMN,DELWP137,M,CSQ,Public Safety,All Regions,,NPWS VHF High Band,162.475
+101,Public Works,National Parks and Wildlife Service NSW,FMN,BOCOBLE,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.375
+102,Public Works,National Parks and Wildlife Service NSW,FMN,COOLAH,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.2375
+103,Public Works,National Parks and Wildlife Service NSW,FMN,CORICUDGY,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.200
+104,Public Works,National Parks and Wildlife Service NSW,FMN,DANGAR 2,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.0125
+111,Public Works,National Parks and Wildlife Service NSW,FMN,MT TOMAH,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.300
+112,Public Works,National Parks and Wildlife Service NSW,FMN,NARROW NK,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.350
+113,Public Works,National Parks and Wildlife Service NSW,FMN,SHOOTERS,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.000
+114,Public Works,National Parks and Wildlife Service NSW,FMN,BRSTLECONE,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.225
+115,Public Works,National Parks and Wildlife Service NSW,FMN,HIGH RNGE,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.4125
+116,Public Works,National Parks and Wildlife Service NSW,FMN,SNOWY MT,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.8125
+121,Public Works,National Parks and Wildlife Service NSW,FMN,LANE COVE,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.5375
+122,Public Works,National Parks and Wildlife Service NSW,FMN,CANOELANDS,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.525
+123,Public Works,National Parks and Wildlife Service NSW,FMN,COWAN,RM,241.8 PL,Public Safety,All Regions,,NPWS VHF High Band,164.6875
+124,Public Works,National Parks and Wildlife Service NSW,FMN,ELAN,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.3125
+125,Public Works,National Parks and Wildlife Service NSW,FMN,MIDDLE HD,RM,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,164.400
+126,Public Works,National Parks and Wildlife Service NSW,FMN,Not in Use,RM,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,163.5125
+127,Public Works,National Parks and Wildlife Service NSW,FMN,NEILSON,RM,141.3 PL,Public Safety,All Regions,,NPWS VHF High Band,164.7875
+131,Public Works,National Parks and Wildlife Service NSW,FMN,HIGH RNGE,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.5625
+132,Public Works,National Parks and Wildlife Service NSW,FMN,GARAW HOSP,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.325
+133,Public Works,National Parks and Wildlife Service NSW,FMN,GARAW FARM,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.825
+134,Public Works,National Parks and Wildlife Service NSW,FMN,MULGOA TRG,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,165.125
+141,Public Works,National Parks and Wildlife Service NSW,FMN,MT DANGAR,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.5625
+142,Public Works,National Parks and Wildlife Service NSW,FMN,MT POPPONG,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.600
+151,Public Works,National Parks and Wildlife Service NSW,FMN,CANOELANDS,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.125
+152,Public Works,National Parks and Wildlife Service NSW,FMN,WARRWOLONG,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,165.0125
+153,Public Works,National Parks and Wildlife Service NSW,FMN,MANGROVE,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.4375
+154,Public Works,National Parks and Wildlife Service NSW,FMN,SUGARLOAF,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.050
+155,Public Works,National Parks and Wildlife Service NSW,FMN,SNAPPER PT,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.9875
+156,Public Works,National Parks and Wildlife Service NSW,FMN,BARRINGTON,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.100
+157,Public Works,National Parks and Wildlife Service NSW,FMN,MT HELEN,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.875
+161,Public Works,National Parks and Wildlife Service NSW,FMN,MT ALLYN,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,165.175
+162,Public Works,National Parks and Wildlife Service NSW,FMN,MT MYRA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.450
+163,Public Works,National Parks and Wildlife Service NSW,FMN,BARRINGTON,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.875
+171,Public Works,National Parks and Wildlife Service NSW,FMN,MT MARIE,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.100
+172,Public Works,National Parks and Wildlife Service NSW,FMN,CABBAGE TR,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,165.125
+173,Public Works,National Parks and Wildlife Service NSW,FMN,GAN GAN,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.525
+174,Public Works,National Parks and Wildlife Service NSW,FMN,TALAWAHL,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.2125
+175,Public Works,National Parks and Wildlife Service NSW,FMN,MID BRTHER,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.975
+176,Public Works,National Parks and Wildlife Service NSW,FMN,BOOTI,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,165.025
+177,Public Works,National Parks and Wildlife Service NSW,FMN,SPOKES Stand,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.325
+181,Public Works,National Parks and Wildlife Service NSW,FMN,SPOKES MT,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.0625
+182,Public Works,National Parks and Wildlife Service NSW,FMN,YARAHAPINI,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.825
+191,Public Works,National Parks and Wildlife Service NSW,FMN,CANGAI EST,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.6875
+192,Public Works,National Parks and Wildlife Service NSW,FMN,CLRENCE PK,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.8875
+201,Public Works,National Parks and Wildlife Service NSW,FMN,PT LOOKOUT,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.950
+202,Public Works,National Parks and Wildlife Service NSW,FMN,YARAHAPINI,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.8625
+203,Public Works,National Parks and Wildlife Service NSW,FMN,MT MOOMBIL,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.500
+204,Public Works,National Parks and Wildlife Service NSW,FMN,CHAELUNDI,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.7125
+211,Public Works,National Parks and Wildlife Service NSW,FMN,PICKABOOBA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.800
+212,Public Works,National Parks and Wildlife Service NSW,FMN,TOONUNBAR,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.0625
+213,Public Works,National Parks and Wildlife Service NSW,FMN,HAYSTACK,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.5125
+214,Public Works,National Parks and Wildlife Service NSW,FMN,MT NARDI,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.100
+215,Public Works,National Parks and Wildlife Service NSW,FMN,MT MOONMBA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.550
+216,Public Works,National Parks and Wildlife Service NSW,FMN,BANYABBA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.2125
+217,Public Works,National Parks and Wildlife Service NSW,FMN,SPRNGBROOK,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.600
+221,Public Works,National Parks and Wildlife Service NSW,FMN,WOLUMLA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.075
+222,Public Works,National Parks and Wildlife Service NSW,FMN,MUMBULA MT S,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.4375
+223,Public Works,National Parks and Wildlife Service NSW,FMN,GREEN CAPE,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.9125
+224,Public Works,National Parks and Wildlife Service NSW,FMN,BOMBALA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.900
+225,Public Works,National Parks and Wildlife Service NSW,FMN,LETTS HILL,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.975
+231,Public Works,National Parks and Wildlife Service NSW,FMN,SLAP UP,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.800
+232,Public Works,National Parks and Wildlife Service NSW,FMN,PLUMWOOD,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.850
+233,Public Works,National Parks and Wildlife Service NSW,FMN,PEAK ALONE,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.8875
+234,Public Works,National Parks and Wildlife Service NSW,FMN,MUMBULA MT N,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.925
+235,Public Works,National Parks and Wildlife Service NSW,FMN,BUDAWANG FSC,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.8125
+236,Public Works,National Parks and Wildlife Service NSW,FMN,MT CRONIN FS,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.2875
+241,Public Works,National Parks and Wildlife Service NSW,FMN,ELLSMORE,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.550
+242,Public Works,National Parks and Wildlife Service NSW,FMN,KNIGHTS HL,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.150
+243,Public Works,National Parks and Wildlife Service NSW,FMN,RED ROCKS,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.5625
+244,Public Works,National Parks and Wildlife Service NSW,FMN,BUDAWANG SC,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.100
+245,Public Works,National Parks and Wildlife Service NSW,FMN,VINCENTIA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.8125
+246,Public Works,National Parks and Wildlife Service NSW,FMN,MT KEIRA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.6125
+251,Public Works,National Parks and Wildlife Service NSW,FMN,MT PERISHR,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.850
+252,Public Works,National Parks and Wildlife Service NSW,FMN,WAMBROOK,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.1625
+253,Public Works,National Parks and Wildlife Service NSW,FMN,YOUNGAL,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.450
+254,Public Works,National Parks and Wildlife Service NSW,FMN,INGEBYRA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.875
+255,Public Works,National Parks and Wildlife Service NSW,FMN,BLACK JACK,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.650
+256,Public Works,National Parks and Wildlife Service NSW,FMN,Tingaringy,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.325
+261,Public Works,National Parks and Wildlife Service NSW,FMN,JINGELLIC,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.6875
+262,Public Works,National Parks and Wildlife Service NSW,FMN,SELWYN,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.250
+263,Public Works,National Parks and Wildlife Service NSW,FMN,TALBINGO,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.750
+264,Public Works,National Parks and Wildlife Service NSW,FMN,MT GININI TM,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.075
+265,Public Works,National Parks and Wildlife Service NSW,FMN,YAVEN,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.725
+266,Public Works,National Parks and Wildlife Service NSW,FMN,BUGTOWN,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.7625
+267,Public Works,National Parks and Wildlife Service NSW,FMN,STALLION,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.550
+268,Public Works,National Parks and Wildlife Service NSW,FMN,TUMORRAMA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.0125
+269,Public Works,National Parks and Wildlife Service NSW,FMN,YOUNGAL TMT,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.7625
+270,Public Works,National Parks and Wildlife Service NSW,FMN,BLACK JACK T,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.975
+281,Public Works,National Parks and Wildlife Service NSW,FMN,MT CRONIN,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.1625
+282,Public Works,National Parks and Wildlife Service NSW,FMN,BLACK TRIG,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.125
+283,Public Works,National Parks and Wildlife Service NSW,FMN,MT GININI QB,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.875
+291,Public Works,National Parks and Wildlife Service NSW,FMN,KADINA TRG,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.825
+292,Public Works,National Parks and Wildlife Service NSW,FMN,CANOBOLAS,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.850
+293,Public Works,National Parks and Wildlife Service NSW,FMN,WARRADERRY,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.5875
+294,Public Works,National Parks and Wildlife Service NSW,FMN,SUNNY CNR,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,165.025
+295,Public Works,National Parks and Wildlife Service NSW,FMN,MT MEEHAN,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.2375
+301,Public Works,National Parks and Wildlife Service NSW,FMN,THE TOPS,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.450
+302,Public Works,National Parks and Wildlife Service NSW,FMN,GOVERNOR,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,165.000
+311,Public Works,National Parks and Wildlife Service NSW,FMN,GWABEGAR,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.875
+312,Public Works,National Parks and Wildlife Service NSW,FMN,WANDA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.975
+313,Public Works,National Parks and Wildlife Service NSW,FMN,BUCKINGUY,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.9375
+314,Public Works,National Parks and Wildlife Service NSW,FMN,PILGA EAST,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.825
+321,Public Works,National Parks and Wildlife Service NSW,FMN,CN CRUAICH,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.1375
+322,Public Works,National Parks and Wildlife Service NSW,FMN,BODANGORA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.475
+323,Public Works,National Parks and Wildlife Service NSW,FMN,GOONOO,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.000
+324,Public Works,National Parks and Wildlife Service NSW,FMN,BLACK JACK,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,162.900
+331,Public Works,National Parks and Wildlife Service NSW,FMN,MT ROSS,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.4375
+332,Public Works,National Parks and Wildlife Service NSW,FMN,MACKENZIE,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.475
+333,Public Works,National Parks and Wildlife Service NSW,FMN,BNOO BNOO,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.675
+334,Public Works,National Parks and Wildlife Service NSW,FMN,SUMMIT MT,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.200
+335,Public Works,National Parks and Wildlife Service NSW,FMN,HALAMS HLL,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.0875
+336,Public Works,National Parks and Wildlife Service NSW,FMN,BORA BNGRA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.850
+341,Public Works,National Parks and Wildlife Service NSW,FMN,PT LOOKOUT,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,165.1375
+342,Public Works,National Parks and Wildlife Service NSW,FMN,PORTER CMP,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.4625
+343,Public Works,National Parks and Wildlife Service NSW,FMN,LT DUVAL,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,164.9875
+344,Public Works,National Parks and Wildlife Service NSW,FMN,MELROSE,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.9625
+345,Public Works,National Parks and Wildlife Service NSW,FMN,SPOKES Stand,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.325
+346,Public Works,National Parks and Wildlife Service NSW,FMN,MT MYRA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.700
+351,Public Works,National Parks and Wildlife Service NSW,FMN,MATHOURA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.650
+352,Public Works,National Parks and Wildlife Service NSW,FMN,HOMELEA,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.375
+353,Public Works,National Parks and Wildlife Service NSW,FMN,STONY HILL,RM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,163.150
+401,Public Works,National Parks and Wildlife Service NSW,FMN,BOCOBLE-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.375
+402,Public Works,National Parks and Wildlife Service NSW,FMN,COOLAH-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.2375
+403,Public Works,National Parks and Wildlife Service NSW,FMN,CORICUDGY-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.200
+404,Public Works,National Parks and Wildlife Service NSW,FMN,DANGAR 2-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.0125
+411,Public Works,National Parks and Wildlife Service NSW,FMN,MT TOMAH-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.300
+412,Public Works,National Parks and Wildlife Service NSW,FMN,NARROW NK-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.350
+413,Public Works,National Parks and Wildlife Service NSW,FMN,SHOOTERS-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.000
+414,Public Works,National Parks and Wildlife Service NSW,FMN,BRSTLECONE-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.225
+415,Public Works,National Parks and Wildlife Service NSW,FMN,HIGH RNGE-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.4125
+416,Public Works,National Parks and Wildlife Service NSW,FMN,SNOWY MT-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.8125
+421,Public Works,National Parks and Wildlife Service NSW,FMN,LANE COVE-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.5375
+422,Public Works,National Parks and Wildlife Service NSW,FMN,CANOELANDS-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.525
+423,Public Works,National Parks and Wildlife Service NSW,FMN,COWAN-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.6875
+424,Public Works,National Parks and Wildlife Service NSW,FMN,ELAN-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.3125
+425,Public Works,National Parks and Wildlife Service NSW,FMN,MIDDLE HD-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.400
+426,Public Works,National Parks and Wildlife Service NSW,FMN,Not in use,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.5125
+427,Public Works,National Parks and Wildlife Service NSW,FMN,NEILSON-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.7875
+431,Public Works,National Parks and Wildlife Service NSW,FMN,HIGH RNGE-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.5625
+432,Public Works,National Parks and Wildlife Service NSW,FMN,GARAW HOSP-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.325
+433,Public Works,National Parks and Wildlife Service NSW,FMN,GARAW FARM-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.825
+434,Public Works,National Parks and Wildlife Service NSW,FMN,MULGOA TRG-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,165.125
+441,Public Works,National Parks and Wildlife Service NSW,FMN,MT DANGAR-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.5625
+442,Public Works,National Parks and Wildlife Service NSW,FMN,MT POPPONG-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.600
+451,Public Works,National Parks and Wildlife Service NSW,FMN,CANOELANDS-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.125
+452,Public Works,National Parks and Wildlife Service NSW,FMN,WARRWOLONG-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,165.0125
+453,Public Works,National Parks and Wildlife Service NSW,FMN,MANGROVE-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.4375
+454,Public Works,National Parks and Wildlife Service NSW,FMN,SUGARLOAF-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.050
+455,Public Works,National Parks and Wildlife Service NSW,FMN,SNAPPER PT-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.9875
+456,Public Works,National Parks and Wildlife Service NSW,FMN,BARRINGTON-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.100
+457,Public Works,National Parks and Wildlife Service NSW,FMN,MT HELEN-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.875
+461,Public Works,National Parks and Wildlife Service NSW,FMN,MT ALLYN-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,165.175
+462,Public Works,National Parks and Wildlife Service NSW,FMN,MT MYRA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.450
+463,Public Works,National Parks and Wildlife Service NSW,FMN,BARRINGTON-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.875
+471,Public Works,National Parks and Wildlife Service NSW,FMN,MT MARIE-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.100
+472,Public Works,National Parks and Wildlife Service NSW,FMN,CABBAGE TR-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,165.125
+473,Public Works,National Parks and Wildlife Service NSW,FMN,GAN GAN-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.525
+474,Public Works,National Parks and Wildlife Service NSW,FMN,TALAWAHL-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.2125
+475,Public Works,National Parks and Wildlife Service NSW,FMN,MID BRTHER-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.975
+476,Public Works,National Parks and Wildlife Service NSW,FMN,BOOTI-S,BM,254.1 PL,Public Safety,All Regions,,NPWS VHF High Band,165.025
+477,Public Works,National Parks and Wildlife Service NSW,FMN,SPOKES -S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.325
+481,Public Works,National Parks and Wildlife Service NSW,FMN,SPOKES MT-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.0625
+482,Public Works,National Parks and Wildlife Service NSW,FMN,YARAHAPINI-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.825
+491,Public Works,National Parks and Wildlife Service NSW,FMN,CANGAI EST-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.6875
+492,Public Works,National Parks and Wildlife Service NSW,FMN,CLRENCE PK-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.8875
+501,Public Works,National Parks and Wildlife Service NSW,FMN,PT LOOKOUT-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.950
+502,Public Works,National Parks and Wildlife Service NSW,FMN,YARAHAPINI-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.8625
+503,Public Works,National Parks and Wildlife Service NSW,FMN,MT MOOMBIL-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.500
+504,Public Works,National Parks and Wildlife Service NSW,FMN,CHAELUNDI-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.7125
+511,Public Works,National Parks and Wildlife Service NSW,FMN,PICKABOOBA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.800
+512,Public Works,National Parks and Wildlife Service NSW,FMN,TOONUNBAR-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.0625
+513,Public Works,National Parks and Wildlife Service NSW,FMN,HAYSTACK-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.5125
+514,Public Works,National Parks and Wildlife Service NSW,FMN,MT NARDI-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.100
+515,Public Works,National Parks and Wildlife Service NSW,FMN,MT MOONMBA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.550
+516,Public Works,National Parks and Wildlife Service NSW,FMN,BANYABBA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.2125
+517,Public Works,National Parks and Wildlife Service NSW,FMN,SPRNGBROOK-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.600
+521,Public Works,National Parks and Wildlife Service NSW,FMN,WOLUMLA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.075
+522,Public Works,National Parks and Wildlife Service NSW,FMN,MUMBULA MT-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.4375
+523,Public Works,National Parks and Wildlife Service NSW,FMN,GREEN CAPE-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.9125
+524,Public Works,National Parks and Wildlife Service NSW,FMN,BOMBALA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.900
+525,Public Works,National Parks and Wildlife Service NSW,FMN,LETTS HILL-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.975
+531,Public Works,National Parks and Wildlife Service NSW,FMN,SLAP UP-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.800
+532,Public Works,National Parks and Wildlife Service NSW,FMN,PLUMWOOD-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.850
+533,Public Works,National Parks and Wildlife Service NSW,FMN,PEAK ALONE-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.8875
+534,Public Works,National Parks and Wildlife Service NSW,FMN,MUMBULA MT-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.925
+535,Public Works,National Parks and Wildlife Service NSW,FMN,BUDAWANG-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.8125
+536,Public Works,National Parks and Wildlife Service NSW,FMN,MT CRONIN-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.2875
+541,Public Works,National Parks and Wildlife Service NSW,FMN,ELLSMORE-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.550
+542,Public Works,National Parks and Wildlife Service NSW,FMN,KNIGHTS HL-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.150
+543,Public Works,National Parks and Wildlife Service NSW,FMN,RED ROCKS-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.5625
+544,Public Works,National Parks and Wildlife Service NSW,FMN,BUDAWANG-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.100
+545,Public Works,National Parks and Wildlife Service NSW,FMN,VINCENTIA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.8125
+546,Public Works,National Parks and Wildlife Service NSW,FMN,MT KEIRA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.6125
+551,Public Works,National Parks and Wildlife Service NSW,FMN,MT PERISHR-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.850
+552,Public Works,National Parks and Wildlife Service NSW,FMN,WAMBROOK-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.1625
+553,Public Works,National Parks and Wildlife Service NSW,FMN,YOUNGAL-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.450
+554,Public Works,National Parks and Wildlife Service NSW,FMN,INGEBYRA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.875
+555,Public Works,National Parks and Wildlife Service NSW,FMN,BLACK JACK-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.650
+556,Public Works,National Parks and Wildlife Service NSW,FMN,Tingaring -,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.325
+561,Public Works,National Parks and Wildlife Service NSW,FMN,JINGELLIC-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.6875
+562,Public Works,National Parks and Wildlife Service NSW,FMN,SELWYN-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.250
+563,Public Works,National Parks and Wildlife Service NSW,FMN,TALBINGO-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.750
+564,Public Works,National Parks and Wildlife Service NSW,FMN,MT GININI-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.075
+565,Public Works,National Parks and Wildlife Service NSW,FMN,YAVEN-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.725
+566,Public Works,National Parks and Wildlife Service NSW,FMN,BUGTOWN-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.7625
+567,Public Works,National Parks and Wildlife Service NSW,FMN,STALLION-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.550
+568,Public Works,National Parks and Wildlife Service NSW,FMN,TUMORRAMA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.0125
+569,Public Works,National Parks and Wildlife Service NSW,FMN,YOUNGAL-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.7625
+570,Public Works,National Parks and Wildlife Service NSW,FMN,BLACK JACK-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.975
+581,Public Works,National Parks and Wildlife Service NSW,FMN,MT CRONIN-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.1625
+582,Public Works,National Parks and Wildlife Service NSW,FMN,BLACK TRIG-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.125
+583,Public Works,National Parks and Wildlife Service NSW,FMN,MT GININI-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.875
+591,Public Works,National Parks and Wildlife Service NSW,FMN,KADINA TRG-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.825
+592,Public Works,National Parks and Wildlife Service NSW,FMN,CANOBOLAS-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.850
+593,Public Works,National Parks and Wildlife Service NSW,FMN,WARRADERRY-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.5875
+594,Public Works,National Parks and Wildlife Service NSW,FMN,SUNNY CNR-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,165.025
+595,Public Works,National Parks and Wildlife Service NSW,FMN,MT MEEHAN-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.2375
+601,Public Works,National Parks and Wildlife Service NSW,FMN,THE TOPS-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.450
+602,Public Works,National Parks and Wildlife Service NSW,FMN,GOVERNOR-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,165.000
+611,Public Works,National Parks and Wildlife Service NSW,FMN,GWABEGAR-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.875
+612,Public Works,National Parks and Wildlife Service NSW,FMN,WANDA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.975
+613,Public Works,National Parks and Wildlife Service NSW,FMN,BUCKINGUY-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.9375
+614,Public Works,National Parks and Wildlife Service NSW,FMN,PILGA EAST-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.825
+621,Public Works,National Parks and Wildlife Service NSW,FMN,CN CRUAICH-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.1375
+622,Public Works,National Parks and Wildlife Service NSW,FMN,BODANGORA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.475
+623,Public Works,National Parks and Wildlife Service NSW,FMN,GOONOO-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.000
+624,Public Works,National Parks and Wildlife Service NSW,FMN,BLACK JACK-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,162.900
+631,Public Works,National Parks and Wildlife Service NSW,FMN,MT ROSS-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.4375
+632,Public Works,National Parks and Wildlife Service NSW,FMN,MACKENZIE-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.475
+633,Public Works,National Parks and Wildlife Service NSW,FMN,BNOO BNOO-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.675
+634,Public Works,National Parks and Wildlife Service NSW,FMN,SUMMIT MT-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.200
+635,Public Works,National Parks and Wildlife Service NSW,FMN,HALAMS HLL-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.0875
+636,Public Works,National Parks and Wildlife Service NSW,FMN,BORA BNGRA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.850
+641,Public Works,National Parks and Wildlife Service NSW,FMN,PT LOOKOUT-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,165.1375
+642,Public Works,National Parks and Wildlife Service NSW,FMN,PORTER CMP-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.4625
+643,Public Works,National Parks and Wildlife Service NSW,FMN,LT DUVAL-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,164.9875
+644,Public Works,National Parks and Wildlife Service NSW,FMN,MELROSE-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.9625
+646,Public Works,National Parks and Wildlife Service NSW,FMN,MT MYRA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.700
+651,Public Works,National Parks and Wildlife Service NSW,FMN,MATHOURA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.650
+652,Public Works,National Parks and Wildlife Service NSW,FMN,HOMELEA-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.375
+653,Public Works,National Parks and Wildlife Service NSW,FMN,STONY HILL-S,BM,123.0 PL,Public Safety,All Regions,,NPWS VHF High Band,163.150
+701,Public Works,National Parks and Wildlife Service NSW,FMN,BOCOBLE-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.375
+702,Public Works,National Parks and Wildlife Service NSW,FMN,COOLAH-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.2375
+703,Public Works,National Parks and Wildlife Service NSW,FMN,CORICUDGY-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.200
+704,Public Works,National Parks and Wildlife Service NSW,FMN,DANGAR 2-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.0125
+711,Public Works,National Parks and Wildlife Service NSW,FMN,MT TOMAH-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.300
+712,Public Works,National Parks and Wildlife Service NSW,FMN,NARROW NK-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.350
+713,Public Works,National Parks and Wildlife Service NSW,FMN,SHOOTERS-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.000
+714,Public Works,National Parks and Wildlife Service NSW,FMN,BRSTLECONE-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.225
+715,Public Works,National Parks and Wildlife Service NSW,FMN,HIGH RNGE-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.4125
+716,Public Works,National Parks and Wildlife Service NSW,FMN,SNOWY MT-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.8125
+721,Public Works,National Parks and Wildlife Service NSW,FMN,LANE COVE-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.5375
+722,Public Works,National Parks and Wildlife Service NSW,FMN,CANOELANDS-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.525
+723,Public Works,National Parks and Wildlife Service NSW,FMN,COWAN-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.6875
+724,Public Works,National Parks and Wildlife Service NSW,FMN,ELAN-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.3125
+731,Public Works,National Parks and Wildlife Service NSW,FMN,HIGH RNGE-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.5625
+732,Public Works,National Parks and Wildlife Service NSW,FMN,GARAW HOSP-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.325
+733,Public Works,National Parks and Wildlife Service NSW,FMN,GARAW FARM-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.825
+734,Public Works,National Parks and Wildlife Service NSW,FMN,MULGOA TRG-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,165.125
+741,Public Works,National Parks and Wildlife Service NSW,FMN,MT DANGAR-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.5625
+742,Public Works,National Parks and Wildlife Service NSW,FMN,MT POPPONG-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.600
+751,Public Works,National Parks and Wildlife Service NSW,FMN,CANOELANDS-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.125
+752,Public Works,National Parks and Wildlife Service NSW,FMN,WARRWOLONG-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,165.0125
+753,Public Works,National Parks and Wildlife Service NSW,FMN,MANGROVE-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.4375
+754,Public Works,National Parks and Wildlife Service NSW,FMN,SUGARLOAF-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.050
+756,Public Works,National Parks and Wildlife Service NSW,FMN,BARRINGTON-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.100
+757,Public Works,National Parks and Wildlife Service NSW,FMN,MT HELEN-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.875
+761,Public Works,National Parks and Wildlife Service NSW,FMN,MT ALLYN-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,165.175
+762,Public Works,National Parks and Wildlife Service NSW,FMN,MT MYRA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.450
+763,Public Works,National Parks and Wildlife Service NSW,FMN,BARRINGTON-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.875
+771,Public Works,National Parks and Wildlife Service NSW,FMN,MT MARIE-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.100
+772,Public Works,National Parks and Wildlife Service NSW,FMN,CABBAGE TR-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,165.125
+773,Public Works,National Parks and Wildlife Service NSW,FMN,GAN GAN-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.525
+774,Public Works,National Parks and Wildlife Service NSW,FMN,TALAWAHL-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.2125
+775,Public Works,National Parks and Wildlife Service NSW,FMN,MID BRTHER-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.975
+776,Public Works,National Parks and Wildlife Service NSW,FMN,BOOTI,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,165.025
+777,Public Works,National Parks and Wildlife Service NSW,FMN,SPOKES Stand,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.325
+781,Public Works,National Parks and Wildlife Service NSW,FMN,SPOKES MT-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.0625
+782,Public Works,National Parks and Wildlife Service NSW,FMN,YARAHAPINI-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.825
+791,Public Works,National Parks and Wildlife Service NSW,FMN,CANGAI EST-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.6875
+792,Public Works,National Parks and Wildlife Service NSW,FMN,CLRENCE PK-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.8875
+801,Public Works,National Parks and Wildlife Service NSW,FMN,PT LOOKOUT-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.950
+802,Public Works,National Parks and Wildlife Service NSW,FMN,YARAHAPINI-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.8625
+803,Public Works,National Parks and Wildlife Service NSW,FMN,MT MOOMBIL-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.500
+804,Public Works,National Parks and Wildlife Service NSW,FMN,CHAELUNDI-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.7125
+811,Public Works,National Parks and Wildlife Service NSW,FMN,PICKABOOBA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.800
+812,Public Works,National Parks and Wildlife Service NSW,FMN,TOONUNBAR-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.0625
+813,Public Works,National Parks and Wildlife Service NSW,FMN,HAYSTACK-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.5125
+814,Public Works,National Parks and Wildlife Service NSW,FMN,MT NARDI-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.100
+815,Public Works,National Parks and Wildlife Service NSW,FMN,MT MOONMBA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.550
+816,Public Works,National Parks and Wildlife Service NSW,FMN,BANYABBA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.2125
+817,Public Works,National Parks and Wildlife Service NSW,FMN,SPRNGBROOK-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.600
+821,Public Works,National Parks and Wildlife Service NSW,FMN,WOLUMLA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.075
+822,Public Works,National Parks and Wildlife Service NSW,FMN,MUMBULA MT-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.4375
+823,Public Works,National Parks and Wildlife Service NSW,FMN,GREEN CAPE-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.9125
+824,Public Works,National Parks and Wildlife Service NSW,FMN,BOMBALA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.900
+825,Public Works,National Parks and Wildlife Service NSW,FMN,LETTS HILL-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.975
+831,Public Works,National Parks and Wildlife Service NSW,FMN,SLAP UP-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.800
+832,Public Works,National Parks and Wildlife Service NSW,FMN,PLUMWOOD-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.850
+833,Public Works,National Parks and Wildlife Service NSW,FMN,PEAK ALONE-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.8875
+834,Public Works,National Parks and Wildlife Service NSW,FMN,MUMBULA MT-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.925
+835,Public Works,National Parks and Wildlife Service NSW,FMN,BUDAWANG-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.8125
+836,Public Works,National Parks and Wildlife Service NSW,FMN,MT CRONIN-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.2875
+841,Public Works,National Parks and Wildlife Service NSW,FMN,ELLSMORE-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.550
+842,Public Works,National Parks and Wildlife Service NSW,FMN,KNIGHTS HL-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.150
+843,Public Works,National Parks and Wildlife Service NSW,FMN,RED ROCKS-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.5625
+844,Public Works,National Parks and Wildlife Service NSW,FMN,BUDAWANG-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.100
+845,Public Works,National Parks and Wildlife Service NSW,FMN,VINCENTIA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.8125
+846,Public Works,National Parks and Wildlife Service NSW,FMN,MT KEIRA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.6125
+851,Public Works,National Parks and Wildlife Service NSW,FMN,MT PERISHR-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.850
+852,Public Works,National Parks and Wildlife Service NSW,FMN,WAMBROOK-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.1625
+853,Public Works,National Parks and Wildlife Service NSW,FMN,YOUNGAL-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.450
+854,Public Works,National Parks and Wildlife Service NSW,FMN,INGEBYRA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.875
+855,Public Works,National Parks and Wildlife Service NSW,FMN,BLACK JACK-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.650
+856,Public Works,National Parks and Wildlife Service NSW,FMN,Tingaring -I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.325
+861,Public Works,National Parks and Wildlife Service NSW,FMN,JINGELLIC-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.6875
+862,Public Works,National Parks and Wildlife Service NSW,FMN,SELWYN-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.250
+863,Public Works,National Parks and Wildlife Service NSW,FMN,TALBINGO-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.750
+864,Public Works,National Parks and Wildlife Service NSW,FMN,MT GININI-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.075
+865,Public Works,National Parks and Wildlife Service NSW,FMN,YAVEN-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.725
+866,Public Works,National Parks and Wildlife Service NSW,FMN,BUGTOWN-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.7625
+867,Public Works,National Parks and Wildlife Service NSW,FMN,STALLION-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.550
+868,Public Works,National Parks and Wildlife Service NSW,FMN,TUMORRAMA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.0125
+869,Public Works,National Parks and Wildlife Service NSW,FMN,YOUNGAL-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.7625
+870,Public Works,National Parks and Wildlife Service NSW,FMN,BLACK JACK-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.975
+881,Public Works,National Parks and Wildlife Service NSW,FMN,MT CRONIN-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.1625
+882,Public Works,National Parks and Wildlife Service NSW,FMN,BLACK TRIG-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.125
+883,Public Works,National Parks and Wildlife Service NSW,FMN,MT GININI-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.875
+891,Public Works,National Parks and Wildlife Service NSW,FMN,KADINA TRG-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.825
+892,Public Works,National Parks and Wildlife Service NSW,FMN,CANOBOLAS-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.850
+893,Public Works,National Parks and Wildlife Service NSW,FMN,WARRADERRY-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.5875
+894,Public Works,National Parks and Wildlife Service NSW,FMN,SUNNY CNR-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,165.025
+895,Public Works,National Parks and Wildlife Service NSW,FMN,MT MEEHAN-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.2375
+901,Public Works,National Parks and Wildlife Service NSW,FMN,THE TOPS-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.450
+902,Public Works,National Parks and Wildlife Service NSW,FMN,GOVERNOR-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,165.000
+911,Public Works,National Parks and Wildlife Service NSW,FMN,GWABEGAR-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.875
+912,Public Works,National Parks and Wildlife Service NSW,FMN,WANDA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.975
+913,Public Works,National Parks and Wildlife Service NSW,FMN,BUCKINGUY-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.9375
+914,Public Works,National Parks and Wildlife Service NSW,FMN,PILGA EAST-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.825
+921,Public Works,National Parks and Wildlife Service NSW,FMN,CN CRUAICH-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.1375
+922,Public Works,National Parks and Wildlife Service NSW,FMN,BODANGORA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.475
+923,Public Works,National Parks and Wildlife Service NSW,FMN,GOONOO-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.000
+924,Public Works,National Parks and Wildlife Service NSW,FMN,BLACK JACK-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,162.900
+931,Public Works,National Parks and Wildlife Service NSW,FMN,MT ROSS-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.4375
+932,Public Works,National Parks and Wildlife Service NSW,FMN,MACKENZIE-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.475
+933,Public Works,National Parks and Wildlife Service NSW,FMN,BNOO BNOO-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.675
+934,Public Works,National Parks and Wildlife Service NSW,FMN,SUMMIT MT-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.200
+935,Public Works,National Parks and Wildlife Service NSW,FMN,HALAMS HLL-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.0875
+936,Public Works,National Parks and Wildlife Service NSW,FMN,BORA BNGRA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.850
+941,Public Works,National Parks and Wildlife Service NSW,FMN,PT LOOKOUT-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,165.1375
+942,Public Works,National Parks and Wildlife Service NSW,FMN,PORTER CMP-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.4625
+943,Public Works,National Parks and Wildlife Service NSW,FMN,LT DUVAL-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,164.9875
+944,Public Works,National Parks and Wildlife Service NSW,FMN,MELROSE-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.9625
+945,Public Works,National Parks and Wildlife Service NSW,FMN,SPOKES MT-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.325
+946,Public Works,National Parks and Wildlife Service NSW,FMN,MT MYRA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.700
+951,Public Works,National Parks and Wildlife Service NSW,FMN,MATHOURA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.650
+952,Public Works,National Parks and Wildlife Service NSW,FMN,HOMELEA-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.375
+953,Public Works,National Parks and Wildlife Service NSW,FMN,STONY HILL-I,RM,233.6 PL,Public Safety,All Regions,,NPWS VHF High Band,163.150
+961,Public Works,National Parks and Wildlife Service NSW,FMN,Bhewerre 2,RM,107.2 PL,Public Safety,All Regions,,NPWS VHF High Band,163.025
+962,Public Works,National Parks and Wildlife Service NSW,FMN,Pt Perp,RM,107.2 PL,Public Safety,All Regions,,NPWS VHF High Band,163.450
+Channel 1,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,80.0125
+Channel 2,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,80.1375
+Channel 3,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.2875
+Channel 4,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,80.025
+Channel 5,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,80.200
+Channel 6,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.275
+Channel 7,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.2625
+Channel 8,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.250
+Chamnel 9,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.850
+Channel 10,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.875
+Channel 11,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.900
+Channel 12,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,82.000
+Channel 13,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable - Portable Repeater 1 - BLUE,RM,107.2 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,82.0375
+Channel 14,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable - Portable Repeater 2 - ORANGE,RM,107.2 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,82.2875
+Channel 15,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable - Portable Repeater 3 - GREEN,RM,107.2 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.925
+Channel 16,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable - Portable Repeater 4 - BROWN,RM,107.2 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,80.4625
+Channel 17,Fire-Tac,National Parks and Wildlife Service NSW,FM,NSW State Forests Fireground 1 - Simplex - 5w,M,107.2 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,82.3875
+Channel 18,Fire-Tac,National Parks and Wildlife Service NSW,FM,NSW State Forests Fireground 2 - Simplex - 5w,M,107.2 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.8375
+Channel 19,Fire-Tac,National Parks and Wildlife Service NSW,FM,NSW State Forests Fireground 3 - Simplex - 5w,M,107.2 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.9625
+Channel 20,Fire-Tac,National Parks and Wildlife Service NSW,FM,NSW State Forests - Simplex - 5w,M,107.2 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.9375
+Channel 21,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable via Repeater,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,80.0125
+Channel 22,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable via Repeater,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,80.1375
+Channel 23,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable via Repeater,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.2875
+Channel 24,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable via Repeater,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,80.025
+Channel 25,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable via Repeater,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,80.200
+Channel 26,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable via Repeater,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.275
+Channel 27,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable via Repeater,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.2625
+Channel 28,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable via Repeater,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.250
+Channel 29,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable via Repeater,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.850
+Channel 30,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable via Repeater,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.875
+Channel 31,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable via Repeater,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,81.900
+Channel 32,Public Works,National Parks and Wildlife Service NSW,FM,Mobile/Portable to Mobile/Portable via Repeater,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,82.000
+Channel 33,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 1/21,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.5125
+Channel 34,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 2/22,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.6375
+Channel 35,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 3/23,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,78.7875
+Channel 36,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 4/24,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.525
+Channel 37,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 5/25,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.700
+Channel 38,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 6/26,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,78.775
+Channel 39,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 7/27,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,78.7625
+Channel 40,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 8/28,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,78.750
+Channel 41,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 9/29,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.350
+Channel 42,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 10/30,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.375
+Channel 43,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 11/31,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.400
+Channel 44,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 12/32,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.500
+Channel 45,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 13 - BLUE,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.5375
+Channel 46,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 14 - ORANGE,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.7875
+Channel 47,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 15 - GREEN,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.425
+Channel 48,Public Works,National Parks and Wildlife Service NSW,FM,Car to Car / Point to Point - Single Frequency - Associated repeater 16 - BROWN,M,123.0 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.9625
+Channel 49,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 1,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.5125
+Channel 50,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 2,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.6375
+Channel 51,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 3,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,78.7875
+Channel 52,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 4,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.525
+Channel 53,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 5,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.700
+Channel 54,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 6,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,78.775
+Channel 55,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 7,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,78.7625
+Channel 56,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 8,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,78.750
+Channel 57,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 9,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.350
+Channel 58,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 10,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.375
+Channel 59,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 11,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.400
+Channel 60,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 12,RM,151.4 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.500
+Channel 61,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 13,RM,107.2 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.5375
+Channel 62,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight  - Associated Channel 14,RM,107.2 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.7875
+Channel 63,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 15,RM,107.2 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.425
+Channel 64,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight  - Associated Channel 16,RM,107.2 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.9625
+Channel 65,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 21,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.5125
+Channel 66,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 22,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.6375
+Channel 67,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 23,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,78.7875
+Channel 68,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 24,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.525
+Channel 69,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 25,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,77.700
+Channel 70,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 26,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,78.775
+Channel 71,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 27,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,78.7625
+Channel 72,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 28,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,78.750
+Channel 73,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 29,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.350
+Channel 74,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 30,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.375
+Channel 75,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 31,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.400
+Channel 76,Public Works,National Parks and Wildlife Service NSW,FM,Reverse frequency for contact with mobiles out of repeater range and within line of sight - Associated Channel 32,RM,141.3 PL,Public Safety,NPWS - All Regions,,NPWS VHF Radio System,79.500
+COONABARABRA,Transportation,Roads and Traffic Authority of NSW,FM,COONABARABRAN,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,162.925
+DEEPWATER,Transportation,Roads and Traffic Authority of NSW,FM,DEEPWATER,RM,,Public Safety,RTA Statewide,VL2MR,RTA Statewide,162.925
+KIAMA,Transportation,Roads and Traffic Authority of NSW,FM,KIAMA,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,162.925
+KYEAMBA,Transportation,Roads and Traffic Authority of NSW,FM,KYEAMBA,RM,,Public Safety,RTA Statewide,VL2MR,RTA Statewide,162.925
+TAREE,Transportation,Roads and Traffic Authority of NSW,FM,TAREE,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,162.925
+COOMA,Transportation,Roads and Traffic Authority of NSW,FM,COOMA,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,162.925
+COFFS HBR,Transportation,Roads and Traffic Authority of NSW,FM,COFFS HBR,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,162.9375
+COONABARABRA,Transportation,Roads and Traffic Authority of NSW,FM,COONABARABRAN,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,162.9375
+SINGLETON,Transportation,Roads and Traffic Authority of NSW,FM,SINGLETON,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,162.9375
+TARCUTTA,Transportation,Roads and Traffic Authority of NSW,FM,TARCUTTA,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,162.9375
+WALGETT,Transportation,Roads and Traffic Authority of NSW,FM,WALGETT,RM,,Public Safety,RTA Statewide,VL2MR,RTA Statewide,162.9375
+Drake,Transportation,Roads and Traffic Authority of NSW,FM,DRAKE,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.0625
+WHITE CLIFFS,Transportation,Roads and Traffic Authority of NSW,FM,WHITE CLIFFS,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.0625
+TUMUT,Transportation,Roads and Traffic Authority of NSW,FM,TUMUT,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.0625
+TIBOOBURRA,Transportation,Roads and Traffic Authority of NSW,FM,TIBOOBURRA,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.0625
+MITTAGONG,Transportation,Roads and Traffic Authority of NSW,FM,MITTAGONG,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.0625
+HAY,Transportation,Roads and Traffic Authority of NSW,FM,HAY,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.0625
+GUYRA,Transportation,Roads and Traffic Authority of NSW,FM,GUYRA,RM,,Public Safety,RTA Statewide,VH2RTA,RTA Statewide,165.0625
+BROKEN HILL,Transportation,Roads and Traffic Authority of NSW,FM,BROKEN HILL,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.0625
+GOSFORD,Transportation,Roads and Traffic Authority of NSW,FM,GOSFORD,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.075
+WhiteCliffs,Transportation,Roads and Traffic Authority of NSW,FM,WHITE CLIFFS,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.075
+ULLADULLA,Transportation,Roads and Traffic Authority of NSW,FM,ULLADULLA,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.075
+NYNGAN,Transportation,Roads and Traffic Authority of NSW,FM,NYNGAN,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.075
+MURWILLUMBAH,Transportation,Roads and Traffic Authority of NSW,FM,MURWILLUMBAH,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.075
+GRAFTON,Transportation,Roads and Traffic Authority of NSW,FM,GRAFTON,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.075
+BALRANALD,Transportation,Roads and Traffic Authority of NSW,FM,BALRANALD,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.075
+BROKEN HILL,Transportation,Roads and Traffic Authority of NSW,FM,BROKEN HILL,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.075
+FINLEY,Transportation,Roads and Traffic Authority of NSW,FM,FINLEY,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.075
+ALBURY,Transportation,Roads and Traffic Authority of NSW,FM,ALBURY,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.0875
+BROKEN HILL,Transportation,Roads and Traffic Authority of NSW,FM,BROKEN HILL,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.0875
+GLEN INNES,Transportation,Roads and Traffic Authority of NSW,FM,GLEN INNES,RM,,Public Safety,RTA Statewide,VK2RTA,RTA Statewide,165.0875
+GOOLGOWI,Transportation,Roads and Traffic Authority of NSW,FM,GOOLGOWI,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.0875
+LITHGOW,Transportation,Roads and Traffic Authority of NSW,FM,LITHGOW,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.0875
+MADDENS PLS,Transportation,Roads and Traffic Authority of NSW,FM,MADDENS PLS,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.0875
+NUNDLE,Transportation,Roads and Traffic Authority of NSW,FM,NUNDLE,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.0875
+Port Macquar,Transportation,Roads and Traffic Authority of NSW,FM,PT MACQUARIE,RM,,Public Safety,RTA Statewide,VL2MR,RTA Statewide,165.0875
+WAGGA WAGGA,Transportation,Roads and Traffic Authority of NSW,FM,WAGGA WAGGA,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.0875
+RTA Wanaarin,Transportation,Roads and Traffic Authority of NSW,FM,WANAARING,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.0875
+Wyong RTA Wo,Transportation,Roads and Traffic Authority of NSW,FM,Wyong RTA Works Depot,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.0875
+NARRABRI,Transportation,Roads and Traffic Authority of NSW,FM,NARRABRI,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1125
+MERIMBULA,Transportation,Roads and Traffic Authority of NSW,FM,MERIMBULA,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1125
+W WYALONG,Transportation,Roads and Traffic Authority of NSW,FM,W WYALONG,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1125
+WANAARING,Transportation,Roads and Traffic Authority of NSW,FM,WANAARING,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.1125
+NEWCASTLE,Transportation,Roads and Traffic Authority of NSW,FM,NEWCASTLE,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1125
+EUSTON,Transportation,Roads and Traffic Authority of NSW,FM,EUSTON,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.1125
+DENILIQUIN,Transportation,Roads and Traffic Authority of NSW,FM,DENILIQUIN,RM,,Public Safety,RTA Statewide,VL2MR,RTA Statewide,165.1125
+COBAR,Transportation,Roads and Traffic Authority of NSW,FM,COBAR,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1125
+BROKEN HILL,Transportation,Roads and Traffic Authority of NSW,FM,BROKEN HILL,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.1125
+GOULBURN,Transportation,Roads and Traffic Authority of NSW,FM,GOULBURN,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1125
+Mt Crackenba,Transportation,Roads and Traffic Authority of NSW,FM,Mt Crackenback,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.125
+MILPARINKA,Transportation,Roads and Traffic Authority of NSW,FM,MILPARINKA,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.125
+GRENFELL,Transportation,Roads and Traffic Authority of NSW,FM,GRENFELL,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.125
+BROKEN HILL,Transportation,Roads and Traffic Authority of NSW,FM,BROKEN HILL,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.125
+BOOLIGAL,Transportation,Roads and Traffic Authority of NSW,FM,BOOLIGAL,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.125
+GIRILAMBONE,Transportation,Roads and Traffic Authority of NSW,FM,GIRILAMBONE,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.125
+CESSNOCK,Transportation,Roads and Traffic Authority of NSW,FM,CESSNOCK,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.150
+NORTH STAR,Transportation,Roads and Traffic Authority of NSW,FM,NORTH STAR,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.150
+COBARGO,Transportation,Roads and Traffic Authority of NSW,FM,COBARGO,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.150
+Bourke RTA,Emergency Ops,Roads and Traffic Authority of NSW,FM,BOURKE,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.150
+DUBBO,Transportation,Roads and Traffic Authority of NSW,FM,DUBBO,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.150
+BROKEN HILL,Transportation,Roads and Traffic Authority of NSW,FM,BROKEN HILL,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.1625
+YAMBA,Transportation,Roads and Traffic Authority of NSW,FM,YAMBA,RM,,Public Safety,RTA Statewide,VL2MR,RTA Statewide,165.1625
+WILCANNIA,Transportation,Roads and Traffic Authority of NSW,FM,WILCANNIA,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.1625
+URALLA,Transportation,Roads and Traffic Authority of NSW,FM,URALLA,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1625
+ORANGE,Transportation,Roads and Traffic Authority of NSW,FM,ORANGE,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1625
+HAY,Transportation,Roads and Traffic Authority of NSW,FM,HAY,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.1625
+BOOKHAM,Transportation,Roads and Traffic Authority of NSW,FM,BOOKHAM,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1625
+BULAHDELAH,Transportation,Roads and Traffic Authority of NSW,FM,BULAHDELAH,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1625
+COBAR,Transportation,Roads and Traffic Authority of NSW,FM,COBAR,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1625
+JINDABYNE,Transportation,Roads and Traffic Authority of NSW,FM,JINDABYNE,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1625
+BYRON BAY,Transportation,Roads and Traffic Authority of NSW,FM,BYRON BAY,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1625
+W WYALONG,Transportation,Roads and Traffic Authority of NSW,FM,W WYALONG,RM,,Public Safety,RTA Statewide,VMN870,RTA Statewide,165.175
+DENILIQUIN,Transportation,Roads and Traffic Authority of NSW,FM,DENILIQUIN,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.175
+COBAR,Transportation,Roads and Traffic Authority of NSW,FM,COBAR,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1875
+WILCANNIA,Transportation,Roads and Traffic Authority of NSW,FM,WILCANNIA,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.1875
+WHITE CLIFFS,Transportation,Roads and Traffic Authority of NSW,FM,WHITE CLIFFS,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.1875
+WARDELL,Transportation,Roads and Traffic Authority of NSW,FM,WARDELL,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1875
+ULLADULLA,Transportation,Roads and Traffic Authority of NSW,FM,ULLADULLA,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1875
+TUMUT,Interop,Roads and Traffic Authority of NSW,FM,TUMUT,RM,,Public Safety,RTA Statewide,VH2RTA,RTA Statewide,165.1875
+PEAK HILL,Transportation,Roads and Traffic Authority of NSW,FM,PEAK HILL,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1875
+MT TOMAH,Transportation,Roads and Traffic Authority of NSW,FM,MT TOMAH,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1875
+LEETON,Transportation,Roads and Traffic Authority of NSW,FM,LEETON,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,165.1875
+BalranaldRTA,Transportation,Roads and Traffic Authority of NSW,FM,BALRANALD,RM,,Public Safety,RTA Statewide,,RTA Statewide,165.1875
+NSW Wide,Transportation,Roads and Traffic Authority of NSW,FM,NSW Wide,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,168.9125
+ROZELLE,Transportation,Roads and Traffic Authority of NSW,FM,ROZELLE,RM,,Public Safety,RTA Statewide,,RTA Statewide,462.0125
+Clearway Tow,Business,Roads and Traffic Authority of NSW,FM,Clearway Towing - Horsley Park,RM,114.8 PL,Public Safety,RTA Statewide,AXN790,RTA Statewide,464.600
+Clearway Tow,Business,Roads and Traffic Authority of NSW,FM,Clearway Towing - Rozelle,RM,114.8 PL,Public Safety,RTA Statewide,,RTA Statewide,464.600
+Bradfield/Wa,Transportation,Roads and Traffic Authority of NSW,FM,Bradfield/Warringah H/way,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,465.350
+NSW Wide,Transportation,Roads and Traffic Authority of NSW,FM,NSW Wide,RM,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,469.700
+NSW Wide,Transportation,Roads and Traffic Authority of NSW,FM,NSW Wide,RM,,Public Safety,RTA Statewide,VL2MR,RTA Statewide,469.700
+NSW Wide Sim,Transportation,Roads and Traffic Authority of NSW,FM,NSW Wide Simplex,M,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,469.700
+NSW Wide Sim,Transportation,Roads and Traffic Authority of NSW,FM,NSW Wide Simplex,M,,Public Safety,RTA Statewide,VL2RTA,RTA Statewide,469.925
+SJA 01 RPTR,EMS-Tac,St John Ambulance,FMN,SJA 01 REPEATER,RM,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,470.150
+SJA 02 RPTR,EMS-Tac,St John Ambulance,FMN,SJA 02 REPEATER,RM,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,470.400
+SJA 03 RPTR,EMS-Tac,St John Ambulance,FMN,SJA 03 REPEATER,RM,107.2 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,465.9875
+SJA 04 RPTR,EMS-Tac,St John Ambulance,FMN,SJA 04 REPEATER,RM,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,470.975
+SJA 05 RPTR,EMS-Tac,St John Ambulance,FMN,SJA 05 REPEATER,RM,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,470.000
+SJA 06 RPTR,EMS-Tac,St John Ambulance,FMN,SJA 06 REPEATER,RM,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,464.7125
+SJA 07 RPTR,EMS-Tac,St John Ambulance,FMN,SJA 07 REPEATER,RM,107.2 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,463.575
+SJA 08 RPTR,EMS-Tac,St John Ambulance,FMN,SJA 08 REPEATER,RM,107.2 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,462.850
+SJA 09 RPTR,EMS-Tac,St John Ambulance,FMN,SJA 09 REPEATER,RM,107.2 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,466.6875
+SJA 10 RPTR,EMS-Tac,St John Ambulance,FMN,SJA 10 REPEATER,RM,107.2 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,472.925
+SJA 11 DIR 1,EMS-Tac,St John Ambulance,FMN,SJA 11 DIRECT 1,M,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,470.150
+SJA 12 DIR 2,EMS-Tac,St John Ambulance,FMN,SJA 12 DIRECT 2,M,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,470.400
+SJA 13 DIR 3,EMS-Tac,St John Ambulance,FMN,SJA 13 DIRECT 3,M,107.2 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,465.9875
+SJA 14 DIR 4,EMS-Tac,St John Ambulance,FMN,SJA 14 DIRECT 4,M,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,470.975
+SJA 15 DIR 5,EMS-Tac,St John Ambulance,FMN,SJA 15 DIRECT 5,M,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,470.000
+SJA 16 DIR 6,EMS-Tac,St John Ambulance,FMN,SJA 16 DIRECT 6,M,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,464.7125
+SJA 17 DIR 7,EMS-Tac,St John Ambulance,FMN,SJA 17 DIRECT 7,M,107.2 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,463.575
+SJA 18 DIR 8,EMS-Tac,St John Ambulance,FMN,SJA 18 DIRECT 8,M,107.2 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,462.850
+SJA 19 DIR 9,EMS-Tac,St John Ambulance,FMN,SJA 19 DIRECT 9,M,107.2 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,466.6875
+SJA 20 DI 10,EMS-Tac,St John Ambulance,FMN,SJA 20 DIRECT 10,M,107.2 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,472.925
+SJA 21 EVENT,EMS-Tac,St John Ambulance,FMN,SJA 21 EVENT,BM,107.2 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,411.400
+SJA 22 EVENT,EMS-Tac,St John Ambulance,FMN,SJA 22 EVENT,BM,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,412.100
+SJA 23 EVENT RX,EMS-Tac,St John Ambulance,FMN,SJA 23 EVENT RX,BM,114.8 PL,Public Safety,Zone 1,VK@SJA,St John Ambulance,469.525
+SJA 24 EVENT,EMS-Tac,St John Ambulance,FMN,SJA 24 EVENT,BM,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,462.0375
+SJA 25 EVENT,EMS-Tac,St John Ambulance,FM,SJA 25 EVENT,BM,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,472.150
+SJA 26 EVENT,EMS-Tac,St John Ambulance,FM,SJA 26 EVENT,BM,114.8 PL,Public Safety,Zone 1,VK2SJA,St John Ambulance,472.200
+Ballina Sim,Business,Surf Life Saving New South Wales,FM,Ballina Simplex,B,,Public Safety,Ballina-Lismore SLSC,VM2LA,Far North Coast,485.000
+SLSC Coffs,Business,Surf Life Saving New South Wales,FM,Coffs Harbour Simplex,B,,Public Safety,Bellinger Valley-North Beach SLSC,VM2LA,North Coast,484.950
+Coffs Hbr Si,Business,Surf Life Saving New South Wales,FM,Coffs Harbour Simplex,B,,Public Safety,Bellinger Valley-North Beach SLSC,VM2LA,North Coast,485.000
+Port Macquar,Business,Surf Life Saving New South Wales,FM,Port Macquarie Simplex,B,,Public Safety,Camden Haven SLSC,VM2LA,Mid North Coast,484.950
+Macquarie Si,Business,Surf Life Saving New South Wales,FM,Port Macquarie Simplex,B,,Public Safety,Camden Haven SLSC,VM2LA,Mid North Coast,485.000
+Crowdy Hd,Business,Surf Life Saving New South Wales,FM,Crowdy Head Simplex,B,,Public Safety,Black Head SLSC,VM2LA,Lower North Coast,484.950
+Crowdy Sim,Business,Surf Life Saving New South Wales,FM,Crowdy Head Simplex,B,,Public Safety,Black Head SLSC,VM2LA,Lower North Coast,485.000
+Catherine H,Business,Surf Life Saving New South Wales,FM,Catherine Hill Bay Simplex,B,,Public Safety,Birubi Point SLSC,VM2LA,Hunter,484.825
+Copacobana,Business,Surf Life Saving New South Wales,FM,Copacobana Simplex,B,,Public Safety,Avoca Beach SLSC,VM2LA,Central Coast,484.950
+Copa Sim,Business,Surf Life Saving New South Wales,FM,Copacobana Simplex,B,,Public Safety,Avoca Beach SLSC,VM2LA,Central Coast,485.000
+Collaroy Sim,Business,Surf Life Saving New South Wales,FM,Collaroy Simplex,B,,Public Safety,Avalon Beach SLSC,VM2LA,Sydney Northern Beaches,484.950
+Collaroy Sim,Business,Surf Life Saving New South Wales,FM,Collaroy Simplex,B,,Public Safety,Avalon Beach SLSC,VM2LA,Sydney Northern Beaches,485.000
+Maroubra Sim,Business,Surf Life Saving New South Wales,FM,Maroubra Simplex,B,,Public Safety,Bondi SLSC,VM2LA,Sydney South,484.950
+Maroubra Sim,Business,Surf Life Saving New South Wales,FM,Maroubra Simplex,B,,Public Safety,Bondi SLSC,VM2LA,Sydney South,485.000
+Coalcliff Si,Business,Surf Life Saving New South Wales,FM,Coalcliff Simplex,B,,Public Safety,Austinmer SLSC,VM2LA,Illawarra,484.950
+Cardiff Sim,Business,Surf Life Saving New South Wales,FM,Coalcliff Simplex,B,,Public Safety,Austinmer SLSC,VM2LA,Illawarra,485.000
+Batemans Bay,Business,Surf Life Saving New South Wales,FM,Bateman's Bay Simplex,B,,Public Safety,Batemans Bay SLSC,VM2LA,South Coast,484.950
+Batemans Sim,Business,Surf Life Saving New South Wales,FM,Bateman's Bay Simplex,B,,Public Safety,Batemans Bay SLSC,VM2LA,South Coast,485.000
+Moruya Sim,Business,Surf Life Saving New South Wales,FM,Moruya Simplex,B,,Public Safety,Bermagui SLSC,VM2LA,Far South Coast,485.000
