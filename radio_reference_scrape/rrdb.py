@@ -1,16 +1,17 @@
-from radio_reference_scrape.scrape import get_soup
+from radio_reference_scrape.scrape import get_soup, get_state_entities
 from settings import base_url
+from typing import Dict, List, Any
 
 
-def get_db_freq(path: str):
+def get_db_freq(path: str) -> List[Dict[str, str]]:
     """
-    Fetches the url content for each state and appends it to a single file.
+    Fetches the URL content for each state and returns a list of dictionaries containing the frequency data.
 
     Args:
         path (str): The path to fetch the sublinks from.
 
     Returns:
-        List[Dict[str, str]]: A list of dictionaries containing the 'href' and 'state' for each state.
+        List[Dict[str, str]]: A list of dictionaries containing the frequency data.
     """
     url = base_url + path
     soup = get_soup(url)
@@ -47,3 +48,33 @@ def get_db_freq(path: str):
                 rows.append(row_data)
 
     return rows
+
+
+def state_entity_list(state_path: str) -> dict[str, list[dict[str, Any]] | list[str]]:
+    """
+    Fetches state entities from a given path, retrieves their data, and returns a dictionary containing the state entity data and column names.
+
+    Args:
+        state_path (str): The path to the state directory.
+
+    Returns:
+        dict[str, Any]: A dictionary containing the state entity data and column names.
+    """
+
+    state_entities = []
+    column_names = []
+    entities = get_state_entities(state_path.get('href'))
+    if len(entities) > 0:
+        for entity in entities:
+            rows = get_db_freq(entity.get('href'))
+            for row in rows:
+                entity_row = {
+                    'entity': entity.get('entity'),
+                    'entity_type': entity.get('type'),
+                }
+                merge_object = {**entity_row, **row}
+                state_entities.append(merge_object)
+                column_names.extend(merge_object.keys())
+    column_names = list(set(column_names))
+
+    return {'state_entities': state_entities, 'column_names': column_names}

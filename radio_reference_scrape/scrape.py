@@ -24,6 +24,39 @@ def get_soup(url: str) -> BeautifulSoup:
         return BeautifulSoup(response.content, 'html.parser')
 
 
+def get_state_entities(path: str) -> List[Dict[str, str]]:
+    """
+    Fetches the URL content for each state and returns a list of dictionaries containing the 'href', 'text', 'State Entity', and 'Entity Type' for each state.
+
+    Args:
+        path (str): The path to fetch the sublinks from.
+
+    Returns:
+        List[Dict[str, str]]: A list of dictionaries containing the 'href', 'text', 'State Entity', and 'Entity Type' for each state.
+    """
+
+    url = base_url + path
+    soup = get_soup(url)
+    rows = soup.select('table tbody tr')
+    results = []
+
+    for row in rows:
+        state_entity = row.find_all('td')[0].text.strip()
+        entity_type = row.find_all('td')[1].text.strip()
+        a_element = row.find('a')
+
+        if a_element is not None:
+            result = {
+                'entity': state_entity,
+                'type': entity_type,
+                'href': a_element['href'],
+                'text': a_element.text.strip()
+            }
+            results.append(result)
+
+    return results
+
+
 def get_sublinks_from_path(path: str) -> List[Dict[str, str]]:
     """
     Fetches the url content for each state and appends it to a single file.
@@ -43,7 +76,3 @@ def get_sublinks_from_path(path: str) -> List[Dict[str, str]]:
         return [{'href': tag['href'], 'text': tag.text} for tag in a_tags]
     else:
         return []
-
-
-
-

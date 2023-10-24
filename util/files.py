@@ -1,42 +1,35 @@
-import csv
 import os
 import re
 import csv
+from typing import Any
 
 
-def save_csv_to_file(rows: list, filename: str, mode: str = "w") -> None:
+def save_csv_to_file(rows: list[dict[str, Any]], filename: str,
+                     fieldnames: list[str] = None) -> None:
     """
     Saves the given rows of data to a CSV file.
 
     Args:
-        rows (list): The list of dictionaries representing the rows of data.
+        rows (list[dict[str, Any]]): The list of dictionaries representing the rows of data.
         filename (str): The name of the file to save the data to.
-        mode (str, optional): The file mode. Defaults to "w" (write mode).
-            Use "a" for append mode.
+        fieldnames (list[str], optional): The fieldnames for the CSV file. Defaults to None.
 
     Raises:
-        ValueError: If an invalid mode is provided.
         FileNotFoundError: If the file cannot be opened or created.
     """
 
-    if mode not in ["w", "a"]:
-        raise ValueError("Invalid mode. Use 'w' for write mode or 'a' for append mode.")
+    if fieldnames is None:
+        fieldnames = list(rows[0].keys())
 
     try:
-        with open(filename, mode, newline='', encoding='utf-8') as csvfile:
-            fieldnames = rows[0].keys()
+        with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-
-            # Write the header row
-            if mode == "w":
-                writer.writeheader()
-
+            writer.writeheader()
             # Write each row of data
-            for row in rows:
-                writer.writerow(row)
+            writer.writerows(rows)
 
-    except FileNotFoundError:
-        raise FileNotFoundError("File not found or cannot be opened.")
+    except FileNotFoundError as e:
+        raise FileNotFoundError("File not found or cannot be opened.") from e
 
 
 def modify_string(s: str) -> str:
